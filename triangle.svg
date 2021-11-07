@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1"
+   inkscape:export-ydpi="72.000000"
+   viewBox="0 0 332.59843 472.44094"
+   inkscape:export-xdpi="72.000000"
+   version="1.0"
+   sodipodi:docname="triangle.svg"
+   inkscape:export-filename="/home/danny/work/kde/koffice/templates/krita/cr48-action-template_gray_empty2.png"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:version="0.32"
+   _SVGFile__filename="oldscale/actions/aobottom.svg"
+   y="0"
+   x="0"
+   width="88mm"
+   height="125mm">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     pagecolor="#ffffff"
+     inkscape:zoom="0.64165923"
+     inkscape:pageshadow="2"
+     borderopacity="1.0"
+     inkscape:current-layer="svg1"
+     inkscape:cx="-80.820451"
+     inkscape:cy="131.45392"
+     inkscape:window-width="1020"
+     inkscape:pageopacity="0.0000000"
+     inkscape:window-height="691"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="mm"
+     inkscape:window-maximized="0" />
+  <path
+     id="path2099"
+     style="color:#000000;display:block;fill:none;stroke:#ffffff;stroke-width:41.3242;stroke-linecap:round;stroke-linejoin:round"
+     d="M 306.76649,383.12995 24.403991,307.47237 231.10734,100.76903 306.76649,383.13152 Z" />
+  <path
+     id="path1323"
+     style="color:#000000;display:block;fill:#000000;stroke:#000000;stroke-width:13.7746;stroke-linecap:round;stroke-linejoin:round"
+     d="M 306.76926,383.13145 24.400773,307.47027 231.10809,100.76296 Z" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
