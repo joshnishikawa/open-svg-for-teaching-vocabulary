@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://sozi.baierouge.fr" id="svg2580" viewBox="0 0 342.33 184.36" version="1.1" inkscape:version="0.91 r13725">
+  <defs id="defs2582">
+    <linearGradient id="linearGradient3498">
+      <stop id="stop3500" style="stop-color:#9c0c07" offset="0"/>
+      <stop id="stop3529" style="stop-color:#6d0a06" offset=".5"/>
+      <stop id="stop3502" style="stop-color:#9c0c07" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3482">
+      <stop id="stop3484" style="stop-color:#0a0002" offset="0"/>
+      <stop id="stop3486" style="stop-color:#ac130e" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3474">
+      <stop id="stop3476" style="stop-color:#320f08" offset="0"/>
+      <stop id="stop3478" style="stop-color:#a20f08" offset="1"/>
+    </linearGradient>
+    <filter id="filter4018" style="color-interpolation-filters:sRGB" height="1.3161" width="1.2055" y="-.15805" x="-.10274">
+      <feGaussianBlur id="feGaussianBlur4020" stdDeviation="5.4800597"/>
+    </filter>
+    <linearGradient id="linearGradient2454" y2="292.36" gradientUnits="userSpaceOnUse" x2="230" y1="232.36" x1="230">
+      <stop id="stop3542" style="stop-color:#9c0c07" offset="0"/>
+      <stop id="stop3550" style="stop-color:#bf0909" offset=".34211"/>
+      <stop id="stop3546" style="stop-color:#6a0f08" offset=".5"/>
+      <stop id="stop3544" style="stop-color:#9c0c07" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2466" y2="262.45" xlink:href="#linearGradient3474" gradientUnits="userSpaceOnUse" x2="380.01" gradientTransform="matrix(-1 0 0 1 460 -.061387)" y1="262.45" x1="260"/>
+    <linearGradient id="linearGradient2471" y2="262.36" xlink:href="#linearGradient3498" gradientUnits="userSpaceOnUse" x2="392.15" gradientTransform="matrix(-1 0 0 1 460 -.061387)" y1="262.36" x1="270"/>
+    <linearGradient id="linearGradient2481" y2="262.45" xlink:href="#linearGradient3482" gradientUnits="userSpaceOnUse" x2="338.64" gradientTransform="translate(-4)" y1="262.45" x1="262.54"/>
+    <linearGradient id="linearGradient2484" y2="262.45" xlink:href="#linearGradient3474" gradientUnits="userSpaceOnUse" x2="380.01" y1="262.45" x1="260"/>
+    <linearGradient id="linearGradient2489" y2="262.36" xlink:href="#linearGradient3498" gradientUnits="userSpaceOnUse" x2="392.15" y1="262.36" x1="270"/>
+    <linearGradient id="linearGradient2492" y2="262.45" xlink:href="#linearGradient3482" gradientUnits="userSpaceOnUse" x2="338.64" gradientTransform="matrix(-1 0 0 1 464 -.061387)" y1="262.45" x1="262.54"/>
+    <filter id="filter3272" style="color-interpolation-filters:sRGB">
+      <feGaussianBlur id="feGaussianBlur3274" stdDeviation="1.1993656"/>
+    </filter>
+    <filter id="filter3276" style="color-interpolation-filters:sRGB">
+      <feGaussianBlur id="feGaussianBlur3278" stdDeviation="1.1993656"/>
+    </filter>
+  </defs>
+  <g id="layer1" transform="translate(-58.833 -170.15)">
+    <path id="rect2622" style="stroke-linejoin:round;stroke:#760009;stroke-width:4.3;fill:url(#linearGradient2454)" d="m200 232.36s20.876 5 30 5c9.1241 0 30-5 30-5v60s-20.876-5-30-5c-9.1241 0-30 5-30 5v-60z"/>
+    <path id="path3958" style="stroke-linejoin:round;stroke:#620009;stroke-width:4.3;fill:#670009" d="m360 172.36c16.534 0.003 30 40.32 30 90s-13.466 90.003-30 90c-70-0.0128-64.945-51.789-100-60v-60c35.055-8.2114 30-60.013 100-60z"/>
+    <path id="path3452" style="stroke-linejoin:round;stroke:#760009;stroke-width:4.3;fill:url(#linearGradient2489)" d="m360 172.36c16.534 0.003 30 40.32 30 90s-13.466 90.003-30 90c-70-0.0128-64.945-61.789-100-70v-40c35.055-8.2114 30-70.013 100-70z"/>
+    <path id="path3960" style="filter:url(#filter4018);fill:#9d0d07" d="m260 262.33c0 8.3579 86.002 39.911 86.002 39.911 18.107 6.8557 41.353-5.4706 42-39.911 0.65795-35.009-24.64-45.867-42-39.963 0 0-86.002 31.605-86.002 39.963z"/>
+    <path id="path3531" style="fill:#990b06" d="m276 262.36c0 5.8774 70 28.066 70 28.066 18.107 4.821 41.353-3.8471 42-28.066 0.65795-24.619-24.64-32.255-42-28.103 0 0-70 22.226-70 28.103z"/>
+    <path id="path3417" style="fill:url(#linearGradient2484)" d="m260 262.38c0 5.0128 75 23.938 75 23.938 19.401 4.1118 44.306-3.2811 45-23.938 0.70495-20.997-26.4-27.51-45-23.969 0 0-75 18.956-75 23.969z"/>
+    <path id="path3422" style="opacity:.62019;filter:url(#filter3272);fill:url(#linearGradient2481)" d="m258.94 262.4 47.06 15.02c12.174 2.5802 27.803-2.0589 28.238-15.021 0.44236-13.176-16.566-17.262-28.238-15.04l-47.063 15.04z"/>
+    <path id="path2767" style="stroke-linejoin:round;stroke:#620009;stroke-width:4.3;fill:#670009" d="m100 172.3c-16.534 0.003-30 40.32-30 90s13.466 90.003 30 90c70-0.0128 64.945-51.789 100-60v-60c-35.055-8.2114-30-60.013-100-60z"/>
+    <path id="path2769" style="stroke-linejoin:round;stroke:#760009;stroke-width:4.3;fill:url(#linearGradient2471)" d="m100 172.3c-16.534 0.003-30 40.32-30 90s13.466 90.003 30 90c70-0.0128 64.945-61.789 100-70v-40c-35.055-8.2114-30-70.013-100-70z"/>
+    <path id="path2771" style="filter:url(#filter4018);fill:#9d0d07" d="m260 262.33c0 8.3579 86.002 39.911 86.002 39.911 18.107 6.8557 41.353-5.4706 42-39.911 0.65795-35.009-24.64-45.867-42-39.963 0 0-86.002 31.605-86.002 39.963z" transform="matrix(-1 0 0 1 460 -.061387)"/>
+    <path id="path2773" style="fill:#990b06" d="m184 262.3c0 5.8774-70 28.066-70 28.066-18.107 4.821-41.353-3.8471-42-28.066-0.65795-24.619 24.64-32.255 42-28.103 0 0 70 22.226 70 28.103z"/>
+    <path id="path2775" style="fill:url(#linearGradient2466)" d="m200 262.31c0 5.0128-75 23.938-75 23.938-19.401 4.1118-44.306-3.2811-45-23.938-0.70495-20.997 26.4-27.51 45-23.969 0 0 75 18.956 75 23.969z"/>
+    <path id="path2777" style="opacity:.62019;filter:url(#filter3276);fill:url(#linearGradient2492)" d="m201.06 262.34-47.06 15.02c-12.174 2.5802-27.803-2.0589-28.238-15.021-0.44236-13.176 16.566-17.262 28.238-15.04l47.063 15.04z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Bow Tie</dc:title>
+        <dc:date>2012-04-12T11:15:41</dc:date>
+        <dc:description>A red bow tie</dc:description>
+        <dc:source>https://openclipart.org/detail/169467/bow-tie-by-hellocatfood</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>hellocatfood</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bow</rdf:li>
+            <rdf:li>red</rdf:li>
+            <rdf:li>tie</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

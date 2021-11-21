@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   height="125mm"
-   width="88mm"
+   height="88mm"
+   width="125mm"
    version="1.1"
    sodipodi:docname="candle.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -39,13 +39,14 @@
      id="namedview24"
      showgrid="false"
      units="mm"
-     inkscape:zoom="0.33101149"
+     inkscape:zoom="0.32226061"
      inkscape:cx="1000"
-     inkscape:cy="1129.1583"
+     inkscape:cy="632.66573"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <radialGradient
@@ -69,7 +70,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(0.15601827,0,0,0.15601827,9.7900572,275.94546)">
+     transform="matrix(0.14769869,0,0,0.14769869,94.086605,200.42239)">
     <path
        id="path3977"
        d="m 1426.7,533.33 a 855,360 0 1 1 -1710,0 855,360 0 1 1 1710,0 z"
