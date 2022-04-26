@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 87.999999 125"
+   viewBox="0 0 332.59842 472.44094"
    version="1.0"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="ibis.svg"
-   width="88"
-   height="125">
+   width="88mm"
+   height="125mm">
   <defs
      id="defs9" />
   <sodipodi:namedview
@@ -35,10 +35,12 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0"
+     units="mm" />
   <g
      id="layer1"
-     transform="matrix(0.3361919,0,0,0.3361919,-94.21055,-112.14204)">
+     transform="matrix(1.4623584,0,0,1.4623584,-433.92365,-510.51031)">
     <path
        id="path2221"
        style="fill:#000000"

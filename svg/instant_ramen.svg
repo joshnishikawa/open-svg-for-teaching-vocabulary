@@ -10,9 +10,9 @@
    version="1.1"
    x="0"
    y="0"
-   width="88"
-   height="125"
-   viewBox="0 0 88 125"
+   width="88mm"
+   height="125mm"
+   viewBox="0 0 332.59843 472.44094"
    id="svg38"
    sodipodi:docname="instant_ramen.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -47,7 +47,9 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg38" />
+     inkscape:current-layer="svg38"
+     inkscape:document-rotation="0"
+     units="mm" />
   <defs
      id="defs5">
     <clipPath
@@ -59,7 +61,7 @@
   </defs>
   <g
      id="レイヤー_1"
-     transform="matrix(0.16492055,0,0,0.16492055,5.2306363,13.598553)">
+     transform="matrix(0.67830712,0,0,0.67830712,5.2303758,38.703574)">
     <g
        clip-path="url(#Clip_1)"
        id="g35">

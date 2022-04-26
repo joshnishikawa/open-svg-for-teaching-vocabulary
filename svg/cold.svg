@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="12.457289mm"
-   height="30.072893mm"
-   viewBox="0 0 12.457289 30.072893"
+   width="88mm"
+   height="125mm"
+   viewBox="0 0 88.000002 125"
    version="1.1"
    id="svg21824"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -228,9 +228,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-19.155687"
-     inkscape:cy="106.91792"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="84.359142"
+     inkscape:cy="-24.976732"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -263,7 +263,7 @@
      transform="translate(-96.580879,-115.74332)">
     <g
        id="g130"
-       transform="matrix(0.35277777,0,0,-0.35277777,-65.018856,160.51399)">
+       transform="matrix(1.3497947,0,0,-1.3497947,-499.8143,291.32073)">
       <g
          id="g132"
          clip-path="url(#clipPath136)">
@@ -281,7 +281,7 @@
     </g>
     <g
        id="g156"
-       transform="matrix(0.35277777,0,0,-0.35277777,-65.018856,160.51399)">
+       transform="matrix(1.3497947,0,0,-1.3497947,-499.8143,291.32073)">
       <g
          id="g158"
          clip-path="url(#clipPath162)">
@@ -299,7 +299,7 @@
     </g>
     <g
        id="g182"
-       transform="matrix(0.35277777,0,0,-0.17686419,-65.018856,148.09854)">
+       transform="matrix(1.3497947,0,0,-0.67671598,-499.8143,243.81686)">
       <g
          id="g184"
          clip-path="url(#clipPath188)">
@@ -317,7 +317,7 @@
     </g>
     <g
        id="g206"
-       transform="matrix(0.35277777,0,0,-0.35277777,-65.018856,160.51399)">
+       transform="matrix(1.3497947,0,0,-1.3497947,-499.8143,291.32073)">
       <g
          id="g208"
          clip-path="url(#clipPath212)">
@@ -335,7 +335,7 @@
     </g>
     <g
        id="g230"
-       transform="matrix(0.35277777,0,0,-0.35277777,-65.018856,160.51399)">
+       transform="matrix(1.3497947,0,0,-1.3497947,-499.8143,291.32073)">
       <g
          id="g232"
          clip-path="url(#clipPath236)">
@@ -353,7 +353,7 @@
     </g>
     <g
        id="g274"
-       transform="matrix(0.35277777,0,0,-0.35277777,-65.018856,160.51399)">
+       transform="matrix(1.3497947,0,0,-1.3497947,-499.8143,291.32073)">
       <g
          id="g276"
          clip-path="url(#clipPath280)">

@@ -1,276 +1,188 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:cc="http://creativecommons.org/ns#"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:ns1="http://sozi.baierouge.fr"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    id="svg1901"
-    sodipodi:docname="spatula.svg"
-    inkscape:export-filename="C:\Important\GM\projut\joulupeli08\spatula.png"
-    viewBox="0 0 328.88 956"
-    sodipodi:version="0.32"
-    inkscape:export-xdpi="6.8723488"
-    version="1.0"
-    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-    inkscape:export-ydpi="6.8723488"
-    inkscape:version="0.46+pre4"
-    sodipodi:docbase="/home/tsoots/ohj/translations/po"
-  >
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1901"
+   sodipodi:docname="spatula.svg"
+   inkscape:export-filename="C:\Important\GM\projut\joulupeli08\spatula.png"
+   viewBox="0 0 332.59842 472.44094"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="6.8723488"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="6.8723488"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   width="88mm"
+   height="125mm">
+  <defs
+     id="defs23" />
   <sodipodi:namedview
-      id="base"
-      bordercolor="#666666"
-      inkscape:pageshadow="2"
-      inkscape:window-y="-4"
-      pagecolor="#ffffff"
-      gridtolerance="10000"
-      inkscape:window-height="938"
-      inkscape:zoom="0.5"
-      inkscape:window-x="-4"
-      showgrid="false"
-      borderopacity="1.0"
-      inkscape:current-layer="layer1"
-      inkscape:cx="31.610095"
-      inkscape:cy="614.27036"
-      inkscape:window-width="1280"
-      inkscape:pageopacity="0.0"
-      inkscape:document-units="px"
-  />
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="0"
+     pagecolor="#ffffff"
+     gridtolerance="10000"
+     inkscape:window-height="938"
+     inkscape:zoom="0.5"
+     inkscape:window-x="0"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="31.610095"
+     inkscape:cy="614.27036"
+     inkscape:window-width="1280"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:document-rotation="0"
+     units="mm"
+     inkscape:window-maximized="0" />
   <g
-      id="layer1"
-      inkscape:label="Taso 1"
-      inkscape:groupmode="layer"
-      transform="translate(734.44 -6.5)"
-    >
+     id="layer1"
+     inkscape:label="Taso 1"
+     inkscape:groupmode="layer"
+     transform="translate(734.44,-6.5)">
     <g
-        id="g3301"
-      >
+       id="g3301"
+       transform="matrix(0.43172781,0.20765463,-0.20765463,0.43172781,-244.46584,165.34342)">
       <rect
-          id="rect3216"
-          style="stroke-linejoin:round;stroke:#5a5a5a;stroke-width:6;fill:#b4b4b4"
-          height="462.86"
-          width="31.429"
-          y="383.79"
-          x="-585.71"
-      />
+         id="rect3216"
+         style="fill:#b4b4b4;stroke:#5a5a5a;stroke-width:6;stroke-linejoin:round"
+         height="462.85999"
+         width="31.429001"
+         y="383.79001"
+         x="-585.71002" />
       <path
-          id="rect3264"
-          style="fill:#ececec"
-          d="m-585.72 404.38v442.28h10v-442.28h-10z"
-      />
+         id="rect3264"
+         style="fill:#ececec"
+         d="m -585.72,404.38 v 442.28 h 10 V 404.38 Z" />
       <path
-          id="rect2380"
-          style="stroke-linejoin:round;stroke:#5a5a5a;stroke-width:6;fill:#b4b4b4"
-          d="m-719.22 9.5c-6.77 0-12.22 5.45-12.22 12.219v360.56c0 6.77 5.45 12.22 12.22 12.22h298.44c6.77 0 12.22-5.45 12.22-12.22v-360.56c0-6.77-5.45-12.22-12.22-12.22h-298.44zm29.06 30.719h25.72v275.72h-25.72v-275.72zm71.72 0h25.72v275.72h-25.72v-275.72zm71.16 0.343h25.72v275.72h-25.72v-275.72zm71.72 0h25.72v275.72h-25.72v-275.72z"
-      />
+         id="rect2380"
+         style="fill:#b4b4b4;stroke:#5a5a5a;stroke-width:6;stroke-linejoin:round"
+         d="m -719.22,9.5 c -6.77,0 -12.22,5.45 -12.22,12.219 v 360.56 c 0,6.77 5.45,12.22 12.22,12.22 h 298.44 c 6.77,0 12.22,-5.45 12.22,-12.22 V 21.719 c 0,-6.77 -5.45,-12.22 -12.22,-12.22 h -298.44 z m 29.06,30.719 h 25.72 v 275.72 h -25.72 z m 71.72,0 h 25.72 v 275.72 h -25.72 z m 71.16,0.343 h 25.72 v 275.72 h -25.72 z m 71.72,0 h 25.72 v 275.72 h -25.72 z" />
       <path
-          id="rect3294"
-          style="fill:#ececec"
-          d="m-597.25 9.5l-67.19 58.125v182.46l46-39.8v-170.06l25.72-0.001v147.84l45.44-39.31v-108.19l25.72 0.002v85.938l46-39.781v-46.157h25.72v23.907l41.28-35.719v-7.031c0-6.769-5.45-12.219-12.22-12.219h-176.47zm-92.91 80.375l-41.28 35.685v182.47l41.28-35.72v-182.44z"
-      />
+         id="rect3294"
+         style="fill:#ececec"
+         d="m -597.25,9.5 -67.19,58.125 v 182.46 l 46,-39.8 V 40.225 l 25.72,-0.001 v 147.84 l 45.44,-39.31 V 40.564 l 25.72,0.002 v 85.938 l 46,-39.781 V 40.566 h 25.72 v 23.907 l 41.28,-35.719 v -7.031 c 0,-6.769 -5.45,-12.219 -12.22,-12.219 h -176.47 z m -92.91,80.375 -41.28,35.685 v 182.47 l 41.28,-35.72 V 89.87 Z" />
       <path
-          id="path3282"
-          style="fill-rule:evenodd;fill:#5a5a5a"
-          d="m-408.56 212.47c-13.01 18.06-26.91 34.65-41.28 49.87v53.94h-25.72v-28.53c-61.03 56.28-125.81 89.87-164.5 106.75h219.28c6.77 0 12.22-5.45 12.22-12.22v-169.81z"
-      />
-      <path
-          id="path3208"
-          sodipodi:rx="11.428572"
-          sodipodi:ry="11.428572"
-          style="stroke-linejoin:round;stroke:#5a5a5a;stroke-width:6;fill:#b4b4b4"
-          sodipodi:type="arc"
-          d="m-558.57 330.22a11.429 11.429 0 1 1 -22.86 0 11.429 11.429 0 1 1 22.86 0z"
-          transform="translate(-.000015259)"
-          sodipodi:cy="330.21933"
-          sodipodi:cx="-570"
-      />
-      <path
-          id="path3210"
-          sodipodi:rx="11.428572"
-          sodipodi:ry="11.428572"
-          style="stroke-linejoin:round;stroke:#5a5a5a;stroke-width:6;fill:#b4b4b4"
-          sodipodi:type="arc"
-          d="m-558.57 330.22a11.429 11.429 0 1 1 -22.86 0 11.429 11.429 0 1 1 22.86 0z"
-          transform="translate(-.000015259 40)"
-          sodipodi:cy="330.21933"
-          sodipodi:cx="-570"
-      />
+         id="path3282"
+         style="fill:#5a5a5a;fill-rule:evenodd"
+         d="m -408.56,212.47 c -13.01,18.06 -26.91,34.65 -41.28,49.87 v 53.94 h -25.72 v -28.53 c -61.03,56.28 -125.81,89.87 -164.5,106.75 h 219.28 c 6.77,0 12.22,-5.45 12.22,-12.22 z" />
+      <circle
+         id="path3208"
+         style="fill:#b4b4b4;stroke:#5a5a5a;stroke-width:6;stroke-linejoin:round"
+         transform="translate(-1.5259e-5)"
+         cx="-570"
+         cy="330.21933"
+         r="11.428572" />
+      <circle
+         id="path3210"
+         style="fill:#b4b4b4;stroke:#5a5a5a;stroke-width:6;stroke-linejoin:round"
+         transform="translate(-1.5259e-5,40)"
+         cx="-570"
+         cy="330.21933"
+         r="11.428572" />
       <rect
-          id="rect3218"
-          style="stroke-linejoin:round;stroke:#6c3013;stroke-width:6;fill:#9b4a30"
-          ry="5"
-          height="267.14"
-          width="77.143"
-          y="692.36"
-          x="-608.57"
-      />
+         id="rect3218"
+         style="fill:#9b4a30;stroke:#6c3013;stroke-width:6;stroke-linejoin:round"
+         ry="5"
+         height="267.14001"
+         width="77.142998"
+         y="692.35999"
+         x="-608.57001" />
+      <circle
+         id="path3242"
+         style="fill:#ececec"
+         transform="matrix(0.50495,0,0,0.50495,-287.32,158.33)"
+         cx="-570"
+         cy="330.21933"
+         r="11.428572" />
+      <circle
+         id="path3244"
+         style="fill:#ececec"
+         transform="matrix(0.50495,0,0,0.50495,-287.32,198.33)"
+         cx="-570"
+         cy="330.21933"
+         r="11.428572" />
       <path
-          id="path3242"
-          sodipodi:rx="11.428572"
-          sodipodi:ry="11.428572"
-          style="fill:#ececec"
-          sodipodi:type="arc"
-          d="m-558.57 330.22a11.429 11.429 0 1 1 -22.86 0 11.429 11.429 0 1 1 22.86 0z"
-          transform="matrix(.50495 0 0 .50495 -287.32 158.33)"
-          sodipodi:cy="330.21933"
-          sodipodi:cx="-570"
-      />
+         id="path3299"
+         style="fill:none;stroke:#5a5a5a;stroke-width:6;stroke-linejoin:round"
+         d="m -719.22,9.5 c -6.77,0 -12.22,5.45 -12.22,12.219 v 360.56 c 0,6.77 5.45,12.22 12.22,12.22 h 298.44 c 6.77,0 12.22,-5.45 12.22,-12.22 V 21.719 c 0,-6.77 -5.45,-12.22 -12.22,-12.22 h -298.44 z m 29.06,30.719 h 25.72 v 275.72 h -25.72 z m 71.72,0 h 25.72 v 275.72 h -25.72 z m 71.16,0.343 h 25.72 v 275.72 h -25.72 z m 71.72,0 h 25.72 v 275.72 h -25.72 z" />
       <path
-          id="path3244"
-          sodipodi:rx="11.428572"
-          sodipodi:ry="11.428572"
-          style="fill:#ececec"
-          sodipodi:type="arc"
-          d="m-558.57 330.22a11.429 11.429 0 1 1 -22.86 0 11.429 11.429 0 1 1 22.86 0z"
-          transform="matrix(.50495 0 0 .50495 -287.32 198.33)"
-          sodipodi:cy="330.21933"
-          sodipodi:cx="-570"
-      />
+         id="path3259"
+         style="fill:#ececec"
+         d="m -719.22,9.5 c -6.77,0 -12.22,5.45 -12.22,12.219 v 360.56 c 0,4.95 2.92,9.17 7.13,11.1 -0.71,-1.56 -1.13,-3.27 -1.13,-5.1 V 27.719 c 0,-6.77 5.45,-12.22 12.22,-12.22 h 298.44 c 1.82,0 3.54,0.414 5.09,1.125 -1.92,-4.205 -6.15,-7.125 -11.09,-7.125 h -298.44 z m 54.78,36.719 v 269.72 h -19.72 v 6 h 25.72 V 46.219 l -6,-10e-4 z m 71.72,0 v 269.72 h -19.72 v 6 h 25.72 V 46.219 l -6,-10e-4 z m 71.16,0.343 v 269.72 h -19.72 v 6 h 25.72 V 46.562 l -6,0.002 z m 71.72,0 v 269.72 h -19.72 v 6 h 25.72 V 46.562 l -6,0.002 z" />
       <path
-          id="path3299"
-          style="stroke-linejoin:round;stroke:#5a5a5a;stroke-width:6;fill:none"
-          d="m-719.22 9.5c-6.77 0-12.22 5.45-12.22 12.219v360.56c0 6.77 5.45 12.22 12.22 12.22h298.44c6.77 0 12.22-5.45 12.22-12.22v-360.56c0-6.77-5.45-12.22-12.22-12.22h-298.44zm29.06 30.719h25.72v275.72h-25.72v-275.72zm71.72 0h25.72v275.72h-25.72v-275.72zm71.16 0.343h25.72v275.72h-25.72v-275.72zm71.72 0h25.72v275.72h-25.72v-275.72z"
-      />
+         id="rect3274"
+         style="fill:#ca6f51"
+         d="m -604.09,692.38 c -2.53,0.25 -4.47,2.4 -4.47,5 V 954.5 c 0,2.77 2.23,5 5,5 h 13.09 c -0.07,-0.33 -0.09,-0.65 -0.09,-1 V 701.38 c 0,-2.78 2.23,-5 5,-5 h 54.03 c -0.45,-2.3 -2.47,-4 -4.91,-4 h -67.12 c -0.18,0 -0.37,-0.02 -0.53,0 z" />
       <path
-          id="path3259"
-          style="fill:#ececec"
-          d="m-719.22 9.5c-6.77 0-12.22 5.45-12.22 12.219v360.56c0 4.95 2.92 9.17 7.13 11.1-0.71-1.56-1.13-3.27-1.13-5.1v-360.56c0-6.77 5.45-12.22 12.22-12.22h298.44c1.82 0 3.54 0.414 5.09 1.125-1.92-4.205-6.15-7.125-11.09-7.125h-298.44zm54.78 36.719v269.72h-19.72v6h25.72v-275.72l-6-0.001zm71.72 0v269.72h-19.72v6h25.72v-275.72l-6-0.001zm71.16 0.343v269.72h-19.72v6h25.72v-275.72l-6 0.002zm71.72 0v269.72h-19.72v6h25.72v-275.72l-6 0.002z"
-      />
-      <path
-          id="rect3274"
-          style="fill:#ca6f51"
-          d="m-604.09 692.38c-2.53 0.25-4.47 2.4-4.47 5v257.12c0 2.77 2.23 5 5 5h13.09c-0.07-0.33-0.09-0.65-0.09-1v-257.12c0-2.78 2.23-5 5-5h54.03c-0.45-2.3-2.47-4-4.91-4h-67.12c-0.18 0-0.37-0.02-0.53 0z"
-      />
-      <path
-          id="rect3277"
-          style="stroke-linejoin:round;stroke:#6c3013;stroke-width:6;fill:#6c3013"
-          d="m-546.44 692.38c0.63 0.83 1 1.87 1 3v257.12c0 2.77-2.23 5-5 5h-57.12c0.91 1.21 2.36 2 4 2h67.12c2.77 0 5-2.23 5-5v-257.12c0-2.78-2.23-5-5-5h-10z"
-      />
+         id="rect3277"
+         style="fill:#6c3013;stroke:#6c3013;stroke-width:6;stroke-linejoin:round"
+         d="m -546.44,692.38 c 0.63,0.83 1,1.87 1,3 V 952.5 c 0,2.77 -2.23,5 -5,5 h -57.12 c 0.91,1.21 2.36,2 4,2 h 67.12 c 2.77,0 5,-2.23 5,-5 V 697.38 c 0,-2.78 -2.23,-5 -5,-5 z" />
       <rect
-          id="rect3287"
-          style="fill:#5a5a5a"
-          ry="5"
-          height="21.92"
-          width="32.527"
-          y="382.73"
-          x="-586.9"
-      />
-    </g
-    >
-  </g
-  >
+         id="rect3287"
+         style="fill:#5a5a5a"
+         ry="5"
+         height="21.92"
+         width="32.527"
+         y="382.73001"
+         x="-586.90002" />
+    </g>
+  </g>
   <metadata
-    >
-    <rdf:RDF
-      >
-      <cc:Work
-        >
-        <dc:format
-          >image/svg+xml</dc:format
-        >
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-        />
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
-            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
-        />
-        <dc:publisher
-          >
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
           <cc:Agent
-              rdf:about="http://openclipart.org/"
-            >
-            <dc:title
-              >Openclipart</dc:title
-            >
-          </cc:Agent
-          >
-        </dc:publisher
-        >
-        <dc:title
-          >Cartoon spatula</dc:title
-        >
-        <dc:date
-          >2010-01-05T17:02:02</dc:date
-        >
-        <dc:description
-          >A cartoonish spatula to turn burgers with.</dc:description
-        >
-        <dc:source
-          >https://openclipart.org/detail/28810/cartoon-spatula-by-purzen</dc:source
-        >
-        <dc:creator
-          >
-          <cc:Agent
-            >
-            <dc:title
-              >purzen</dc:title
-            >
-          </cc:Agent
-          >
-        </dc:creator
-        >
-        <dc:subject
-          >
-          <rdf:Bag
-            >
-            <rdf:li
-              >bbq</rdf:li
-            >
-            <rdf:li
-              >cartoon</rdf:li
-            >
-            <rdf:li
-              >colour</rdf:li
-            >
-            <rdf:li
-              >grill</rdf:li
-            >
-            <rdf:li
-              >line art</rdf:li
-            >
-            <rdf:li
-              >outline</rdf:li
-            >
-            <rdf:li
-              >patty</rdf:li
-            >
-            <rdf:li
-              >spatula</rdf:li
-            >
-            <rdf:li
-              >tool</rdf:li
-            >
-            <rdf:li
-              >unchecked</rdf:li
-            >
-          </rdf:Bag
-          >
-        </dc:subject
-        >
-      </cc:Work
-      >
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Cartoon spatula</dc:title>
+        <dc:date>2010-01-05T17:02:02</dc:date>
+        <dc:description>A cartoonish spatula to turn burgers with.</dc:description>
+        <dc:source>https://openclipart.org/detail/28810/cartoon-spatula-by-purzen</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>purzen</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bbq</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>colour</rdf:li>
+            <rdf:li>grill</rdf:li>
+            <rdf:li>line art</rdf:li>
+            <rdf:li>outline</rdf:li>
+            <rdf:li>patty</rdf:li>
+            <rdf:li>spatula</rdf:li>
+            <rdf:li>tool</rdf:li>
+            <rdf:li>unchecked</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
       <cc:License
-          rdf:about="http://creativecommons.org/licenses/publicdomain/"
-        >
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
         <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Reproduction"
-        />
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Distribution"
-        />
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
         <cc:permits
-            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
-        />
-      </cc:License
-      >
-    </rdf:RDF
-    >
-  </metadata
-  >
-</svg
->
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
