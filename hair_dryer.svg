@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 472.44095 332.59844"
+   id="svg170"
+   sodipodi:docname="hair_dryer.svg"
+   width="125mm"
+   height="88mm"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata174">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview172"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.81272248"
+     inkscape:cx="393.75352"
+     inkscape:cy="389.95156"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg170" />
+  <defs
+     id="defs132">
+    <pattern
+       id="v"
+       xlink:href="#m"
+       patternTransform="matrix(9.7662 0 0 10.001 55.526 -14.059)" />
+    <pattern
+       id="m"
+       width="10"
+       height="10"
+       patternTransform="matrix(9.7662 0 0 10.001 15.119 -10.018)"
+       patternUnits="userSpaceOnUse">
+      <circle
+         cx="2.567"
+         cy=".81"
+         r=".05"
+         fill="#fff"
+         id="circle3" />
+      <circle
+         cx="3.048"
+         cy="2.33"
+         r=".05"
+         fill="#fff"
+         id="circle5" />
+      <circle
+         cx="4.418"
+         cy="2.415"
+         r=".05"
+         fill="#fff"
+         id="circle7" />
+      <circle
+         cx="1.844"
+         cy="3.029"
+         r=".05"
+         fill="#fff"
+         id="circle9" />
+      <circle
+         cx="6.08"
+         cy="1.363"
+         r=".05"
+         fill="#fff"
+         id="circle11" />
+      <circle
+         cx="5.819"
+         cy="4.413"
+         r=".05"
+         fill="#fff"
+         id="circle13" />
+      <circle
+         cx="4.305"
+         cy="4.048"
+         r=".05"
+         fill="#fff"
+         id="circle15" />
+      <circle
+         cx="5.541"
+         cy="3.045"
+         r=".05"
+         fill="#fff"
+         id="circle17" />
+      <circle
+         cx="4.785"
+         cy="5.527"
+         r=".05"
+         fill="#fff"
+         id="circle19" />
+      <circle
+         cx="2.667"
+         cy="5.184"
+         r=".05"
+         fill="#fff"
+         id="circle21" />
+      <circle
+         cx="7.965"
+         cy="1.448"
+         r=".05"
+         fill="#fff"
+         id="circle23" />
+      <circle
+         cx="7.047"
+         cy="5.049"
+         r=".05"
+         fill="#fff"
+         id="circle25" />
+      <circle
+         cx="4.34"
+         cy=".895"
+         r=".05"
+         fill="#fff"
+         id="circle27" />
+      <circle
+         cx="7.125"
+         cy=".34"
+         r=".05"
+         fill="#fff"
+         id="circle29" />
+      <circle
+         cx="9.553"
+         cy="1.049"
+         r=".05"
+         fill="#fff"
+         id="circle31" />
+      <circle
+         cx="7.006"
+         cy="2.689"
+         r=".05"
+         fill="#fff"
+         id="circle33" />
+      <circle
+         cx="8.909"
+         cy="2.689"
+         r=".05"
+         fill="#fff"
+         id="circle35" />
+      <circle
+         cx="9.315"
+         cy="4.407"
+         r=".05"
+         fill="#fff"
+         id="circle37" />
+      <circle
+         cx="7.82"
+         cy="3.87"
+         r=".05"
+         fill="#fff"
+         id="circle39" />
+      <circle
+         cx="8.27"
+         cy="5.948"
+         r=".05"
+         fill="#fff"
+         id="circle41" />
+      <circle
+         cx="7.973"
+         cy="7.428"
+         r=".05"
+         fill="#fff"
+         id="circle43" />
+      <circle
+         cx="9.342"
+         cy="8.072"
+         r=".05"
+         fill="#fff"
+         id="circle45" />
+      <circle
+         cx="8.206"
+         cy="9.315"
+         r=".05"
+         fill="#fff"
+         id="circle47" />
+      <circle
+         cx="9.682"
+         cy="9.475"
+         r=".05"
+         fill="#fff"
+         id="circle49" />
+      <circle
+         cx="9.688"
+         cy="6.186"
+         r=".05"
+         fill="#fff"
+         id="circle51" />
+      <circle
+         cx="3.379"
+         cy="6.296"
+         r=".05"
+         fill="#fff"
+         id="circle53" />
+      <circle
+         cx="2.871"
+         cy="8.204"
+         r=".05"
+         fill="#fff"
+         id="circle55" />
+      <circle
+         cx="4.59"
+         cy="8.719"
+         r=".05"
+         fill="#fff"
+         id="circle57" />
+      <circle
+         cx="3.181"
+         cy="9.671"
+         r=".05"
+         fill="#fff"
+         id="circle59" />
+      <circle
+         cx="5.734"
+         cy="7.315"
+         r=".05"
+         fill="#fff"
+         id="circle61" />
+      <circle
+         cx="6.707"
+         cy="6.513"
+         r=".05"
+         fill="#fff"
+         id="circle63" />
+      <circle
+         cx="5.73"
+         cy="9.67"
+         r=".05"
+         fill="#fff"
+         id="circle65" />
+      <circle
+         cx="6.535"
+         cy="8.373"
+         r=".05"
+         fill="#fff"
+         id="circle67" />
+      <circle
+         cx="4.37"
+         cy="7.154"
+         r=".05"
+         fill="#fff"
+         id="circle69" />
+      <circle
+         cx=".622"
+         cy="7.25"
+         r=".05"
+         fill="#fff"
+         id="circle71" />
+      <circle
+         cx=".831"
+         cy="5.679"
+         r=".05"
+         fill="#fff"
+         id="circle73" />
+      <circle
+         cx="1.257"
+         cy="8.519"
+         r=".05"
+         fill="#fff"
+         id="circle75" />
+      <circle
+         cx="1.989"
+         cy="6.877"
+         r=".05"
+         fill="#fff"
+         id="circle77" />
+      <circle
+         cx=".374"
+         cy="3.181"
+         r=".05"
+         fill="#fff"
+         id="circle79" />
+      <circle
+         cx="1.166"
+         cy="1.664"
+         r=".05"
+         fill="#fff"
+         id="circle81" />
+      <circle
+         cx="1.151"
+         cy=".093"
+         r=".05"
+         fill="#fff"
+         id="circle83" />
+      <circle
+         cx="1.151"
+         cy="10.093"
+         r=".05"
+         fill="#fff"
+         id="circle85" />
+      <circle
+         cx="1.302"
+         cy="4.451"
+         r=".05"
+         fill="#fff"
+         id="circle87" />
+      <circle
+         cx="3.047"
+         cy="3.763"
+         r=".05"
+         fill="#fff"
+         id="circle89" />
+    </pattern>
+    <linearGradient
+       id="a">
+      <stop
+         stop-color="#4d4d4d"
+         offset="0"
+         id="stop92" />
+      <stop
+         offset="1"
+         id="stop94" />
+    </linearGradient>
+    <filter
+       id="n"
+       x="-0.13414"
+       y="-0.026605001"
+       width="1.2683001"
+       height="1.0532"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.079629892"
+         id="feGaussianBlur97" />
+    </filter>
+    <linearGradient
+       id="p"
+       x1="497.59"
+       x2="497.59"
+       y1="50.071999"
+       y2="262.22"
+       gradientTransform="matrix(1,0,0,0.61382,40.406,52.874)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#808080"
+         offset="0"
+         id="stop100" />
+      <stop
+         stop-color="#808080"
+         stop-opacity="0"
+         offset="1"
+         id="stop102" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="256.31"
+       x2="250.45"
+       y1="79.545998"
+       y2="253.57001"
+       gradientTransform="translate(40.406,-4.0406)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="q"
+       x1="463.12"
+       x2="545.72998"
+       y1="353.34"
+       y2="353.34"
+       gradientTransform="translate(40.406,-4.0406)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#4d4d4d"
+         offset="0"
+         id="stop106" />
+      <stop
+         stop-color="#757575"
+         offset="1"
+         id="stop108" />
+    </linearGradient>
+    <linearGradient
+       id="r"
+       x1="387.39999"
+       x2="664.32001"
+       y1="282.29999"
+       y2="282.29999"
+       gradientTransform="translate(40.406,-4.0406)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="s"
+       x1="107.59"
+       x2="218.69"
+       y1="144.74001"
+       y2="144.74001"
+       gradientTransform="translate(47.477,-7.0711)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <linearGradient
+       id="t"
+       x1="216.67999"
+       x2="388.39999"
+       y1="143.22"
+       y2="143.22"
+       gradientTransform="translate(47.477,-5.0508)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ccc"
+         offset="0"
+         id="stop113" />
+      <stop
+         stop-color="#f4f4f4"
+         offset="1"
+         id="stop115" />
+    </linearGradient>
+    <linearGradient
+       id="u"
+       x1="66.169998"
+       x2="179.3"
+       y1="147.27"
+       y2="147.27"
+       gradientTransform="translate(41.416,-7.0711)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <filter
+       id="o"
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="blur"
+         stdDeviation="2,000000"
+         id="feGaussianBlur119" />
+      <feColorMatrix
+         result="bluralpha"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,500000 0 "
+         id="feColorMatrix121" />
+      <feOffset
+         dx="4,000000"
+         dy="4,000000"
+         in="bluralpha"
+         result="offsetBlur"
+         id="feOffset123" />
+      <feMerge
+         id="feMerge129">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode125" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode127" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g
+     transform="matrix(0.61856635,0,0,0.61856635,7.6037316,-58.452719)"
+     id="g168">
+    <g
+       transform="matrix(0.81334,0,0,0.81334,44.701,91.088)"
+       filter="url(#o)"
+       id="g166">
+      <path
+         d="m 109.1,108.88 42.426,2.0203 68.69,24.244 v 8.0812 l -68.69,23.234 -43.437,5.0508 c 5.5207,-20.604 6.5494,-41.957 1.0102,-62.629 z"
+         fill="url(#u)"
+         stroke="#000000"
+         stroke-width="1px"
+         id="path134"
+         style="fill:url(#u)" />
+      <path
+         d="M 264.66,81.606 435.38,69.484 v 137.38 L 264.66,192.722 V 81.602 Z"
+         fill="url(#t)"
+         stroke="#000000"
+         stroke-width="1px"
+         id="path136"
+         style="fill:url(#t)" />
+      <path
+         d="M 155.56,109.89 265.67,79.585 c 5.0508,38.723 4.0406,77.445 0,116.17 l -110.11,-28.29 c 3.5129,-19.193 4.3911,-36.629 0,-57.579 z"
+         fill="url(#s)"
+         stroke="#000000"
+         stroke-width="1px"
+         id="path138"
+         style="fill:url(#s)" />
+      <path
+         d="m 501.04,248.28 c -3.7198,7.1632 -4.3238,15.785 -2.0203,23.234 1.1343,3.6678 11.112,3.0304 11.112,3.0304 l 6.0609,-23.234 c 0,0 -12.779,-7.6016 -15.152,-3.0304 z"
+         stroke="#000000"
+         stroke-width="1px"
+         id="path140" />
+      <path
+         d="m 521.02,510.6 c 0,0 -17.027,37.537 -1.5788,72.517 15.449,34.98 62.851,44.82 96.756,14.123 33.905,-30.697 36.648,-107.58 36.648,-107.58"
+         fill="none"
+         stroke="#000000"
+         stroke-width="15.3"
+         id="path142" />
+      <path
+         transform="matrix(7.8029,0.81609,-0.11478,1.0974,-3065.4,-404.56)"
+         d="m 462.14,259.51 c 0,1.9724 -0.31979,3.5714 -0.71428,3.5714 -0.39449,0 -0.71429,-1.599 -0.71429,-3.5714 0,-1.9724 0.3198,-3.5714 0.71429,-3.5714 0.39449,0 0.71428,1.599 0.71428,3.5714 z"
+         color="#000000"
+         fill="#e6e6e6"
+         filter="url(#n)"
+         opacity="0.64368"
+         id="path144" />
+      <path
+         d="m 428.3,62.413 c 4.714,50.508 5.3875,100.01 2.0203,151.52 -0.0821,0.33024 50.548,11.064 71.721,12.122 6.495,0.32453 7.835,11.725 7.0711,18.183 -6.7642,57.182 -11.031,119.36 -15.152,181.83 -1.8262,27.678 6.3433,57.598 15.152,81.822 1.966,5.4064 11.631,8.9229 17.173,7.0711 23.482,-7.8477 41.665,-29.045 51.518,-54.548 10.875,-28.151 14.962,-58.795 17.173,-88.893 2.7895,-37.984 -5.0508,-114.15 -5.0508,-114.15 -0.63525,-14.357 11.219,-30.659 21.213,-32.325 l 42.426,-7.0711 c 31.551,-5.2584 52.632,-36.561 50.508,-79.802 -1.57,-32.17 -4.22,-72.377 -62.62,-87.869 -64.19,-17.026 -137.79,-15.181 -213.15,12.122 z"
+         fill="url(#r)"
+         stroke="#000000"
+         stroke-width="1px"
+         id="path146"
+         style="fill:url(#r)" />
+      <path
+         d="m 528.31,230.1 c 0,0 -22.903,105.81 -24.244,159.6 -0.666,26.728 2.0205,78.792 8.0812,79.802 l 12.122,2.0203 c 30.82,5.1367 51.529,-34.16 59.599,-77.782 7.7188,-41.724 5.1087,-85.451 -2.0203,-127.28 -2.3257,-13.646 -13.132,-39.396 -13.132,-39.396 l -40.406,3.0305 z"
+         fill="url(#q)"
+         stroke="#000000"
+         stroke-width="1px"
+         id="path148"
+         style="fill:url(#q)" />
+      <path
+         d="m 646.46,40.276 1.9731,170.73 c 17.984,-12.56 55.374,-3.9705 57.219,-86.879 -1.8639,-54.561 -28.785,-71.801 -59.192,-83.848 z"
+         fill="url(#v)"
+         id="path150" />
+      <path
+         transform="translate(39.396,-8.0812)"
+         d="m 552.55,160.9 c 0,4.7421 -11.307,8.5863 -25.254,8.5863 -13.947,0 -25.254,-3.8442 -25.254,-8.5863 0,-4.7421 11.307,-8.5863 25.254,-8.5863 13.947,0 25.254,3.8442 25.254,8.5863 z"
+         color="#000000"
+         fill="#b3b3b3"
+         id="path152" />
+      <path
+         transform="matrix(0.76,0,0,0.58824,165.95,59.688)"
+         d="m 552.55,160.9 c 0,4.7421 -11.307,8.5863 -25.254,8.5863 -13.947,0 -25.254,-3.8442 -25.254,-8.5863 0,-4.7421 11.307,-8.5863 25.254,-8.5863 13.947,0 25.254,3.8442 25.254,8.5863 z"
+         color="#000000"
+         id="path154" />
+      <path
+         d="m 113.14,131.1 321.23,-8.0812 0.50508,53.033 -323.75,-16.668 2.0203,-28.284 z"
+         fill="url(#b)"
+         opacity="0.15326"
+         stroke="url(#b)"
+         stroke-width="1px"
+         id="path156"
+         style="fill:url(#b);stroke:url(#b)" />
+      <path
+         d="m 433.53,120.88 212.97,-3.6537 -1.0102,50.729 c 0,0 -53.611,6.2741 -81.822,7.5556 -44.049,2.001 -130.99,-0.62005 -130.99,-0.62005 l 0.85171,-54.011 z"
+         fill="url(#p)"
+         opacity="0.40613"
+         id="path158"
+         style="fill:url(#p)" />
+      <path
+         d="m 644.85,52.276 c 4.0406,56.429 2.5254,109.32 -2.5254,166.76"
+         fill="none"
+         stroke="#000000"
+         stroke-width="1px"
+         id="path160" />
+      <rect
+         x="531.34003"
+         y="261.41"
+         width="39.396"
+         height="92.933998"
+         rx="27.246"
+         ry="27.246"
+         color="#000000"
+         fill="#1a1a1a"
+         stroke="#000000"
+         stroke-width="1.4"
+         id="rect162" />
+      <path
+         transform="translate(40.406,-4.0406)"
+         d="m 490.93,455.36 c 0,4.4631 -3.392,8.0812 -7.5762,8.0812 -4.1842,0 -7.5761,-3.6181 -7.5761,-8.0812 0,-4.4631 3.392,-8.0812 7.5761,-8.0812 4.1842,0 7.5762,3.6181 7.5762,8.0812 z"
+         color="#000000"
+         fill="#1a1a1a"
+         stroke="#000000"
+         stroke-width="1.4"
+         id="path164" />
+    </g>
+  </g>
+</svg>
