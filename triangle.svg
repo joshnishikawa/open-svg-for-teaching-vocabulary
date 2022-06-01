@@ -26,8 +26,8 @@
   <sodipodi:namedview
      id="base"
      bordercolor="#666666"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      pagecolor="#ffffff"
      inkscape:zoom="0.64165923"
      inkscape:pageshadow="2"
@@ -35,20 +35,20 @@
      inkscape:current-layer="svg1"
      inkscape:cx="-80.820451"
      inkscape:cy="131.45392"
-     inkscape:window-width="1020"
+     inkscape:window-width="1920"
      inkscape:pageopacity="0.0000000"
-     inkscape:window-height="691"
+     inkscape:window-height="1017"
      inkscape:document-rotation="0"
      showgrid="false"
      units="mm"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <path
      id="path2099"
      style="color:#000000;display:block;fill:none;stroke:#ffffff;stroke-width:41.3242;stroke-linecap:round;stroke-linejoin:round"
      d="M 306.76649,383.12995 24.403991,307.47237 231.10734,100.76903 306.76649,383.13152 Z" />
   <path
      id="path1323"
-     style="color:#000000;display:block;fill:#000000;stroke:#000000;stroke-width:13.7746;stroke-linecap:round;stroke-linejoin:round"
+     style="color:#000000;display:block;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 306.76926,383.13145 24.400773,307.47027 231.10809,100.76296 Z" />
   <metadata
      id="metadata5">
@@ -65,7 +65,7 @@
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
