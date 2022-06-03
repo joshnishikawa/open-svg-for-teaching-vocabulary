@@ -10,9 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="cap.svg"
-   viewBox="0 0 900 700"
+   viewBox="0 0 944.56946 650.13062"
    version="1.1"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   width="944.56946"
+   height="650.13062">
   <sodipodi:namedview
      id="base"
      bordercolor="#666666"
@@ -26,8 +28,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="647.54067"
-     inkscape:cy="546.45218"
+     inkscape:cx="681.25479"
+     inkscape:cy="508.5296"
      inkscape:window-width="1920"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -49,7 +51,7 @@
        gradientUnits="userSpaceOnUse"
        cy="290.28"
        cx="219.47"
-       gradientTransform="matrix(-.18569 .00036814 .00056898 .28699 -130.23 503.15)"
+       gradientTransform="matrix(-0.18569,3.6814e-4,5.6898e-4,0.28699,-130.23,503.15)"
        r="238.41"
        inkscape:collect="always">
       <stop
@@ -64,9 +66,9 @@
     <radialGradient
        id="radialGradient3943"
        gradientUnits="userSpaceOnUse"
-       cy="330.04"
+       cy="330.04001"
        cx="250.89"
-       gradientTransform="matrix(1 0 0 .91967 0 24.153)"
+       gradientTransform="matrix(1,0,0,0.91967,0,24.153)"
        r="212.72"
        inkscape:collect="always">
       <stop
@@ -132,10 +134,10 @@
        id="linearGradient5481"
        y2="300.44"
        gradientUnits="userSpaceOnUse"
-       x2="877.86"
-       gradientTransform="translate(0 152.36)"
-       y1="378.42"
-       x1="342.04"
+       x2="877.85999"
+       gradientTransform="translate(0,152.36)"
+       y1="378.42001"
+       x1="342.04001"
        inkscape:collect="always">
       <stop
          id="stop3781"
@@ -160,10 +162,10 @@
     </linearGradient>
     <linearGradient
        id="linearGradient5483"
-       y2="530.28"
+       y2="530.28003"
        gradientUnits="userSpaceOnUse"
-       x2="474.77"
-       gradientTransform="translate(0 152.36)"
+       x2="474.76999"
+       gradientTransform="translate(0,152.36)"
        y1="225.22"
        x1="652.56"
        inkscape:collect="always">
@@ -181,7 +183,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-352.36)">
+     transform="translate(33.714119,-390.28258)">
     <g
        id="g5536"
        transform="matrix(1,0,0,0.89815,-1.0363e-8,204.69)">

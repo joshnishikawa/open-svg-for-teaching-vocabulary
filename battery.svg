@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg5157"
-   viewBox="0 0 472.44094 332.59842"
+   viewBox="0 0 398.94307 113.97444"
    version="1.1"
    sodipodi:docname="battery.svg"
-   width="125mm"
-   height="88mm"
+   width="105.55369mm"
+   height="30.155737mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.56141705"
-     inkscape:cx="-323.17081"
-     inkscape:cy="160.48869"
+     inkscape:cx="-362.701"
+     inkscape:cy="42.26487"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5157" />
+     inkscape:current-layer="svg5157"
+     inkscape:document-rotation="0" />
   <defs
      id="defs5159">
     <linearGradient
@@ -208,7 +209,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(0,-2.2291108,2.2291108,0,-1368.53,1610.4909)">
+     transform="matrix(0,-2.2291108,2.2291108,0,-1408.0602,1492.2671)">
     <g
        id="g4354"
        transform="translate(-835.24,220.2)">

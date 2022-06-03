@@ -9,7 +9,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg1"
    inkscape:export-ydpi="72.000000"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 331.95837 331.95839"
    inkscape:export-xdpi="72.000000"
    version="1.0"
    sodipodi:docname="triangle.svg"
@@ -19,8 +19,8 @@
    _SVGFile__filename="oldscale/actions/aobottom.svg"
    y="0"
    x="0"
-   width="88mm"
-   height="125mm">
+   width="87.83065mm"
+   height="87.830658mm">
   <defs
      id="defs8" />
   <sodipodi:namedview
@@ -29,12 +29,12 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      pagecolor="#ffffff"
-     inkscape:zoom="0.64165923"
+     inkscape:zoom="0.90744319"
      inkscape:pageshadow="2"
      borderopacity="1.0"
      inkscape:current-layer="svg1"
-     inkscape:cx="-80.820451"
-     inkscape:cy="131.45392"
+     inkscape:cx="-90.013737"
+     inkscape:cy="107.95007"
      inkscape:window-width="1920"
      inkscape:pageopacity="0.0000000"
      inkscape:window-height="1017"
@@ -43,13 +43,9 @@
      units="mm"
      inkscape:window-maximized="1" />
   <path
-     id="path2099"
-     style="color:#000000;display:block;fill:none;stroke:#ffffff;stroke-width:41.3242;stroke-linecap:round;stroke-linejoin:round"
-     d="M 306.76649,383.12995 24.403991,307.47237 231.10734,100.76903 306.76649,383.13152 Z" />
-  <path
      id="path1323"
-     style="color:#000000;display:block;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 306.76926,383.13145 24.400773,307.47027 231.10809,100.76296 Z" />
+     style="color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 331.95837,331.95838 3.5355339e-7,243.0095 243.0095,3.5355339e-7 Z" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -65,7 +61,7 @@
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">

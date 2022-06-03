@@ -12,9 +12,9 @@
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    id="svg1766"
    version="1.1"
-   viewBox="0 0 87.999996 125"
-   height="125mm"
-   width="88mm">
+   viewBox="0 0 86.75288 92.746025"
+   height="92.746025mm"
+   width="86.752884mm">
   <sodipodi:namedview
      inkscape:snap-global="false"
      inkscape:window-maximized="1"
@@ -25,8 +25,8 @@
      showgrid="false"
      inkscape:current-layer="g12086"
      inkscape:document-units="mm"
-     inkscape:cy="241.00107"
-     inkscape:cx="113.99721"
+     inkscape:cy="181.06991"
+     inkscape:cx="111.69926"
      inkscape:zoom="0.78199998"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -1024,12 +1024,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-164.70832)"
+     transform="translate(-0.60799976,-180.56511)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">

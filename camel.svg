@@ -15,9 +15,9 @@
    ns3:viewOrigin="119.2842 631.5195"
    ns3:rulerOrigin="0 0"
    ns3:pageBounds="0 792 612 0"
-   width="125mm"
-   height="88mm"
-   viewBox="0 0 472.44097 332.59842"
+   width="92.301552mm"
+   height="92.587242mm"
+   viewBox="0 0 348.85628 349.93603"
    overflow="visible"
    enable-background="new 0 0 424.589 426.091"
    xml:space="preserve"
@@ -58,8 +58,8 @@
      fit-margin-right="4"
      fit-margin-bottom="4"
      inkscape:zoom="1.03"
-     inkscape:cx="-106.97381"
-     inkscape:cy="150.43401"
+     inkscape:cx="-165.6605"
+     inkscape:cy="159.67411"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -87,7 +87,7 @@
          bottomLeftOrigin="true" /></ns5:sfw></metadata><g
      id="g13"
      style="stroke:none"
-     transform="matrix(0.7507088,0,0,0.7507088,73.805376,5.8383976)"><path
+     transform="matrix(0.7507088,0,0,0.7507088,15.11869,15.078496)"><path
        ns3:knockout="Off"
        clip-rule="evenodd"
        stroke-miterlimit="2.4142"

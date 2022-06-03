@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 332.59844 472.44097"
+   viewBox="0 0 323.83994 292.42328"
    version="1.0"
    sodipodi:docname="shirt.svg"
-   width="88mm"
-   height="125mm"
+   width="85.682648mm"
+   height="77.370323mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.3546249"
-     inkscape:cx="-53.757031"
-     inkscape:cy="229.50791"
+     inkscape:cx="-59.591977"
+     inkscape:cy="154.94571"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <title
      id="title4526">Blue Polo Shirt Remix by Merlin2525.svg</title>
   <defs
@@ -585,7 +586,7 @@
   </defs>
   <g
      id="layer4"
-     transform="matrix(1.6893057,0,0,1.6893057,25.716385,92.169523)"
+     transform="matrix(1.6893057,0,0,1.6893057,19.881439,17.607327)"
      style="display:inline">
     <path
        id="path4513"
@@ -596,7 +597,7 @@
   </g>
   <g
      id="layer3"
-     transform="matrix(1.6893057,0,0,1.6893057,25.716385,92.169523)"
+     transform="matrix(1.6893057,0,0,1.6893057,19.881439,17.607327)"
      style="display:inline">
     <path
        id="path4942"
@@ -608,7 +609,7 @@
   <g
      id="layer6"
      style="display:inline"
-     transform="matrix(1.6893057,0,0,1.6893057,22.166309,88.275166)">
+     transform="matrix(1.6893057,0,0,1.6893057,16.331363,13.71297)">
     <path
        id="path3300"
        d="m 42.081,23.955 c 0,0 7.5566,-1.7712 11.335,-3.9765 3.1436,-1.8349 10.336,-3.5235 10.336,-3.5235"
@@ -742,7 +743,7 @@
      id="layer1"
      stroke-width="1px"
      fill="none"
-     transform="matrix(1.6893057,0,0,1.6893057,22.166309,88.275166)">
+     transform="matrix(1.6893057,0,0,1.6893057,16.331363,13.71297)">
     <path
        id="path3580"
        stroke="#d40000"
@@ -767,7 +768,7 @@
   </g>
   <g
      id="g6369"
-     transform="matrix(1.6893057,0,0,1.6893057,22.166309,88.275166)">
+     transform="matrix(1.6893057,0,0,1.6893057,16.331363,13.71297)">
     <path
        id="path6371"
        opacity="0.206"
@@ -786,7 +787,7 @@
   </g>
   <g
      id="layer8"
-     transform="matrix(1.6893057,0,0,1.6893057,22.166309,88.275166)">
+     transform="matrix(1.6893057,0,0,1.6893057,16.331363,13.71297)">
     <path
        id="path3296"
        d="m 67.538,3.7625 c 2.7397,8.0624 6.1678,14.452 12.235,18.521 l -6.7711,7.9217 c -7.7328,-5.9371 -8.057,-12.685 -10.136,-19.25"
@@ -805,7 +806,7 @@
   </g>
   <g
      id="layer7"
-     transform="matrix(1.6893057,0,0,1.6893057,22.166309,88.275166)">
+     transform="matrix(1.6893057,0,0,1.6893057,16.331363,13.71297)">
     <g
        id="g6220"
        transform="matrix(0.1389,0,0,0.1389,65.716,29.466)">
@@ -1034,7 +1035,7 @@
   </g>
   <g
      id="layer2"
-     transform="matrix(1.6893057,0,0,1.6893057,25.716385,92.169523)">
+     transform="matrix(1.6893057,0,0,1.6893057,19.881439,17.607327)">
     <path
        id="path21805"
        opacity="0.64198"

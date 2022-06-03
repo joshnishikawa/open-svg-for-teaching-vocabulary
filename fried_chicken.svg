@@ -11,8 +11,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm"
+   width="85.840706mm"
+   height="110.82754mm"
    sodipodi:docname="fried_chicken.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -28,8 +28,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.0368728"
-     inkscape:cx="162.47141"
-     inkscape:cy="236.75747"
+     inkscape:cx="157.64922"
+     inkscape:cy="211.53286"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -607,10 +607,10 @@
        inkscape:collect="always" />
     <inkscape:perspective
        id="perspective4464"
-       inkscape:persp3d-origin="372.04724 : 379.12799 : 1"
-       inkscape:vp_z="744.09448 : 554.52169 : 1"
+       inkscape:persp3d-origin="372.04724 : 325.56278 : 1"
+       inkscape:vp_z="744.09448 : 500.95648 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 554.52169 : 1"
+       inkscape:vp_x="0 : 500.95648 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        id="linearGradient3344">
@@ -1013,7 +1013,7 @@
   </defs>
   <g
      id="g3139"
-     transform="matrix(0.9385115,0,0,0.9385115,-76.143219,-11.544965)">
+     transform="matrix(0.9385115,0,0,0.9385115,-80.965412,-36.769577)">
     <ellipse
        transform="matrix(1,0,0,1.2083333,-2.0355616,-107.01517)"
        id="path6469"

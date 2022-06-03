@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44094 332.59843"
+   viewBox="0 0 378.85427 289.2644"
    version="1.1"
    sodipodi:docname="bee.svg"
-   width="125mm"
-   height="88mm"
+   width="100.23853mm"
+   height="76.534538mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.8786164"
-     inkscape:cx="270"
-     inkscape:cy="206"
+     inkscape:cx="221.03569"
+     inkscape:cy="176.9475"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <linearGradient
@@ -179,7 +180,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(0.70338579,0,0,0.70338579,199.79688,-80.84952)">
+     transform="matrix(0.70338579,0,0,0.70338579,150.83257,-109.90202)">
     <path
        id="path3026"
        style="color:#000000;text-indent:0;text-transform:none;fill:url(#linearGradient14443)"

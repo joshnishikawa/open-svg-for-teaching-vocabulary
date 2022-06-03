@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44094 332.59843"
+   viewBox="0 0 386.39201 320.24706"
    version="1.1"
    sodipodi:docname="stone.svg"
-   width="125mm"
-   height="88mm"
+   width="102.23289mm"
+   height="84.732033mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,12 +29,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.51993146"
-     inkscape:cx="549.298"
-     inkscape:cy="553.21346"
+     inkscape:cx="504.53329"
+     inkscape:cy="546.21782"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <title
      id="title3945">Stone</title>
   <defs
@@ -49,7 +50,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(0.27453377,0,0,0.27453377,-188.97011,72.004602)">
+     transform="matrix(0.27453377,0,0,0.27453377,-233.73482,65.008959)">
     <path
        id="path3949"
        d="m 1974.5,888.45 c -73.247,-16.324 -123.21,1.669 -196.65,-13.924 -76.336,-9.6443 -193.14,-26.756 -268.79,-43.242 -96.032,-13.473 -177.57,-22.532 -274.94,-24.199 -67.559,4.7557 -110.96,-33.636 -156.02,-70.7 -46.595,-46.225 -22.894,-67.652 -62.133,-118.74 -21.203,-39.885 -45.423,-81.288 -58.625,-125.41 29.298,-45.15 93.917,18.708 137.22,4.2666 56.028,-0.43673 115.73,14.809 169.99,29.709 51.772,0.74121 85.427,1.7965 136.4,6.6207 58.835,18.034 110.36,55.044 170.97,68.302 53.92,33.782 114.98,-30.446 175.84,-14.294 42.392,13.313 54.3,65.441 98.929,77.427 41.58,28.485 90.404,40.804 136.48,59.546 44.205,31.166 38.942,110.74 18.246,153.43 -8.2324,5.3183 -17.569,8.5089 -26.912,11.209 z"

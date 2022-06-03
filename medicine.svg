@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
+   width="120.34291mm"
+   height="67.205009mm"
    version="1.1"
-   viewBox="0 0 442.92122 311.81681"
+   viewBox="0 0 426.41943 238.13241"
    id="svg491"
    sodipodi:docname="medicine.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,13 @@
      id="namedview493"
      showgrid="false"
      inkscape:zoom="0.88677504"
-     inkscape:cx="425.84286"
-     inkscape:cy="403.05655"
+     inkscape:cx="415.97818"
+     inkscape:cy="361.27844"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg491" />
+     inkscape:current-layer="svg491"
+     inkscape:document-rotation="0" />
   <defs
      id="defs247">
     <radialGradient
@@ -981,7 +982,7 @@
        y2="681.21002" />
   </defs>
   <g
-     transform="matrix(0.16870209,0,0,0.16870209,245.53045,278.55733)"
+     transform="matrix(0.16870209,0,0,0.16870209,236.28214,239.38964)"
      id="g397">
     <g
        transform="matrix(0.90669,-0.4218,0.4218,0.90669,240.06,-581.55)"
@@ -1100,7 +1101,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0.16870209,0,0,0.16870209,221.69632,101.95914)"
+     transform="matrix(0.16870209,0,0,0.16870209,212.44801,62.791448)"
      id="g447">
     <g
        transform="matrix(0.97891,-0.2043,0.2043,0.97891,-705.45,692.66)"
@@ -1293,7 +1294,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0.21052676,0,0,0.21052676,158.1319,18.860281)"
+     transform="matrix(0.21052676,0,0,0.21052676,148.88359,-20.307411)"
      id="g485">
     <g
        transform="translate(850.47,-1015.7)"

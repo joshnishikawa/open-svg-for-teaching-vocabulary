@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="88mm"
-   height="125mm"
+   width="84.562546mm"
+   height="122.71264mm"
    id="svg3306"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -285,8 +285,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88388348"
-     inkscape:cx="-134.40196"
-     inkscape:cy="18.92687"
+     inkscape:cx="-140.96657"
+     inkscape:cy="14.401065"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -306,14 +306,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-6.5646128,-4.5258046)">
     <g
        id="g3505"
        transform="matrix(6.7777859,-1.6283777,1.6283777,6.7777859,89.511083,78.795603)">
@@ -351,17 +352,17 @@
          transform="matrix(0.07676372,0.07676372,-0.07676372,0.07676372,53.90048,-0.26648782)"
          style="fill:url(#linearGradient3493);stroke:#000000;stroke-width:1.2633"
          id="polygon41"
-         points="63.131,615.691 76.557,615.691 97.336,547.984 41.44,547.758 " />
+         points="41.44,547.758 63.131,615.691 76.557,615.691 97.336,547.984 " />
       <polygon
          transform="matrix(0.07676372,0.07676372,-0.07676372,0.07676372,53.90048,-0.26648782)"
          style="fill:url(#linearGradient3495);stroke:#000000;stroke-width:1.2633"
          id="polygon52"
-         points="66.711,612.111 72.976,612.111 90.175,547.984 48.602,547.758 " />
+         points="48.602,547.758 66.711,612.111 72.976,612.111 90.175,547.984 " />
       <polygon
          transform="matrix(0.07676372,0.07676372,-0.07676372,0.07676372,53.90048,-0.26648782)"
          style="fill:url(#linearGradient3497);stroke:#000000;stroke-width:1.2633"
          id="polygon63"
-         points="83.35,548.574 69.52,595.588 55.426,548.574 55.426,451.052 83.35,451.052 " />
+         points="55.426,451.052 83.35,451.052 83.35,548.574 69.52,595.588 55.426,548.574 " />
       <circle
          transform="matrix(0.07676372,0.07676372,-0.07676372,0.07676372,53.90048,-0.26648782)"
          style="fill:url(#linearGradient3499);stroke:#000000;stroke-width:1.2633"

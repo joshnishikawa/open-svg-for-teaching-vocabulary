@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 332.59841 472.44093"
+   viewBox="0 0 323.12753 392.8712"
    version="1.1"
    sodipodi:docname="tricycle.svg"
-   width="88mm"
-   height="125mm"
+   width="85.494164mm"
+   height="103.94717mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.57111436"
-     inkscape:cx="390.24714"
-     inkscape:cy="619.53783"
+     inkscape:cx="384.28757"
+     inkscape:cy="579.2715"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <linearGradient
@@ -461,7 +462,7 @@
   </defs>
   <g
      id="g6016"
-     transform="matrix(0.80747587,0,0,0.80747587,-120.6702,-171.08857)">
+     transform="matrix(0.80747587,0,0,0.80747587,-126.62977,-211.3549)">
     <g
        id="g4517"
        transform="matrix(0.97649,0,0,0.97649,1.1837,157.81)">

@@ -10,9 +10,9 @@
    version="1.1"
    x="0"
    y="0"
-   width="88mm"
-   height="125mm"
-   viewBox="0 0 110.86614 157.48031"
+   width="81.791458mm"
+   height="102.51046mm"
+   viewBox="0 0 103.04436 129.14703"
    id="svg37"
    sodipodi:docname="bucket.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,15 +45,16 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.37101282"
-     inkscape:cx="663.73195"
-     inkscape:cy="755.5168"
+     inkscape:cx="647.68113"
+     inkscape:cy="706.76078"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg37" />
+     inkscape:current-layer="svg37"
+     inkscape:document-rotation="0" />
   <g
      id="Layer_1"
-     transform="matrix(0.19766945,0,0,0.2395951,5.3503725,16.017562)">
+     transform="matrix(0.19766945,0,0,0.2395951,9.8807579e-5,-0.23444384)">
     <path
        d="M 260.613,5.885 C 119.391,5.885 4.906,40.365 4.906,82.898 l 59.049,390.069 c 16.942,25.569 93.743,44.856 196.658,44.856 102.928,0 179.006,-19.29 195.765,-44.861 L 516.322,82.898 C 516.322,40.365 401.837,5.885 260.613,5.885"
        fill="#fffffe"

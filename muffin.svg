@@ -10,11 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="muffin.svg"
-   viewBox="0 0 472.44094 332.59843"
+   viewBox="0 0 353.94812 330.58029"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="125mm"
-   height="88mm">
+   width="93.648773mm"
+   height="87.466034mm">
   <defs
      id="defs6">
     <linearGradient
@@ -455,8 +455,8 @@
      objecttolerance="10"
      borderopacity="1"
      inkscape:current-layer="svg2"
-     inkscape:cx="304.50008"
-     inkscape:cy="163.27624"
+     inkscape:cx="244.95224"
+     inkscape:cy="162.73368"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
      inkscape:window-width="1920"
@@ -467,7 +467,7 @@
      units="mm" />
   <g
      id="g5836"
-     transform="matrix(0.16285579,0,0,0.16285579,322.01532,-303.77607)">
+     transform="matrix(0.16285579,0,0,0.16285579,262.46748,-304.31863)">
     <ellipse
        id="path5786"
        style="opacity:0.52174;fill:#000000;filter:url(#filter5832)"

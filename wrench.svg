@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44094 332.59843"
+   viewBox="0 0 457.82186 219.214"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="wrench.svg"
-   width="125mm"
-   height="88mm">
+   width="121.13203mm"
+   height="58.00037mm">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,12 +29,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.92100658"
-     inkscape:cx="360.24822"
-     inkscape:cy="323.49715"
+     inkscape:cx="355.29408"
+     inkscape:cy="270.25162"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <filter
@@ -142,7 +143,7 @@
   </defs>
   <g
      id="layer2"
-     transform="matrix(0.51317883,0,0,0.51317883,28.599874,-65.853078)">
+     transform="matrix(0.51317883,0,0,0.51317883,23.64573,-119.09861)">
     <path
        id="path3771-1"
        style="fill:#4d4d4d;stroke:#000000;stroke-width:1px;filter:url(#filter3905)"
@@ -160,7 +161,7 @@
   </g>
   <g
      id="layer3"
-     transform="matrix(0.51317883,0,0,0.51317883,28.599874,-65.853078)">
+     transform="matrix(0.51317883,0,0,0.51317883,23.64573,-119.09861)">
     <path
        id="path3862"
        style="opacity:0.8565;fill:#4d4d4d;stroke:#333333;stroke-width:3.586;filter:url(#filter3858)"

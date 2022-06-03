@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="hand.svg"
-   viewBox="0 0 332.59844 472.44094"
+   viewBox="0 0 320.90956 412.72909"
    version="1.0"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="84.907318mm"
+   height="109.20124mm">
   <defs
      id="defs20" />
   <sodipodi:namedview
@@ -22,8 +22,8 @@
      inkscape:zoom="0.85931852"
      borderopacity="1"
      inkscape:current-layer="layer1"
-     inkscape:cx="-299.336"
-     inkscape:cy="34.255783"
+     inkscape:cx="-305.09723"
+     inkscape:cy="23.554718"
      inkscape:window-maximized="1"
      showgrid="false"
      fit-margin-right="0"
@@ -44,7 +44,7 @@
      units="mm" />
   <g
      id="layer1"
-     transform="translate(-22.527,-12.396)">
+     transform="translate(-28.288235,-23.097065)">
     <path
        id="pathBras"
        sodipodi:nodetypes="ccccc"
@@ -139,7 +139,7 @@
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">

@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
-   viewBox="0 0 472.44378 178.79473"
+   width="93.925957mm"
+   height="85.2118mm"
+   viewBox="0 0 354.99787 173.12978"
    version="1.1"
    id="svg22"
    sodipodi:docname="post-it.svg"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.57116745"
-     inkscape:cx="315.37322"
-     inkscape:cy="501.91484"
+     inkscape:cx="253.32387"
+     inkscape:cy="495.10562"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg22" />
+     inkscape:current-layer="svg22"
+     inkscape:document-rotation="0" />
   <defs
      id="defs16">
     <filter
@@ -62,7 +63,7 @@
        y1="50.780998"
        y2="294"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.93974843,0,0,0.93974843,-279.25669,-83.198679)">
+       gradientTransform="matrix(0.93974843,0,0,0.93974843,-341.30641,-90.007942)">
       <stop
          stop-color="#f7ec9a"
          offset="0"
@@ -86,13 +87,13 @@
     </linearGradient>
   </defs>
   <path
-     transform="matrix(0.96145662,0.00400295,-0.00409561,0.93973903,-3.0082517,-672.15782)"
+     transform="matrix(0.96145662,0.00400295,-0.00409561,0.93973903,-65.057972,-678.96708)"
      d="m 111.75,670.22 291.36,-1.4253 5.8651,284.29 c 0,0 -228.99,-3.8306 -306.48,-0.7232 7.347,-70.315 9.2532,-282.14 9.2532,-282.14 z"
      filter="url(#b)"
      opacity="0.44783"
      id="path18" />
   <path
-     d="m 98.841686,-47.948715 285.946654,1.218102 -1.13803,267.151683 c 0,0 -246.74035,5.42347 -280.50551,-14.61967 -7.047554,-33.88827 -4.303394,-253.750867 -4.303394,-253.750867 z"
+     d="m 36.791966,-54.757978 285.946654,1.218102 -1.13803,267.151686 c 0,0 -246.74035,5.42347 -280.50551,-14.61967 -7.047554,-33.88827 -4.303394,-253.75087 -4.303394,-253.75087 z"
      fill="url(#a)"
      id="path20"
      style="fill:url(#a);stroke-width:0.939748" />

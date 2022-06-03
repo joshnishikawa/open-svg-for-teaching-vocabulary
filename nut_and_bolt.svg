@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
+   width="98.191582mm"
+   height="87.236099mm"
    version="1.1"
-   viewBox="0 0 442.91609 311.80853"
+   viewBox="0 0 347.92505 309.10182"
    id="svg283"
    sodipodi:docname="nut_and_bolt.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,13 @@
      id="namedview285"
      showgrid="false"
      inkscape:zoom="1.3512454"
-     inkscape:cx="37.351924"
-     inkscape:cy="119.00897"
+     inkscape:cx="-13.721674"
+     inkscape:cy="118.26658"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg283" />
+     inkscape:current-layer="svg283"
+     inkscape:document-rotation="0" />
   <defs
      id="defs63">
     <linearGradient
@@ -531,7 +532,7 @@
        r="33.605999" />
   </defs>
   <g
-     transform="matrix(1.4824957,0,0,1.4824957,-383.86395,-617.03251)"
+     transform="matrix(1.4824957,0,0,1.4824957,-431.74574,-617.7285)"
      id="g281">
     <g
        transform="translate(804.67,297.16)"

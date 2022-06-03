@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
+   width="100.78372mm"
+   height="95.200745mm"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -119,10 +119,10 @@
     </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 466.88028 : 1"
+       inkscape:vp_x="0 : 494.09569 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 466.88028 : 1"
-       inkscape:persp3d-origin="372.04724 : 291.48658 : 1"
+       inkscape:vp_z="744.09448 : 494.09569 : 1"
+       inkscape:persp3d-origin="372.04724 : 318.70199 : 1"
        id="perspective10" />
     <filter
        inkscape:collect="always"
@@ -812,8 +812,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="246.11005"
-     inkscape:cy="165.96235"
+     inkscape:cx="226.15288"
+     inkscape:cy="165.96236"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -834,7 +834,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -843,13 +843,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      sodipodi:insensitive="true"
-     transform="translate(-147.32246,-285.92173)" />
+     transform="translate(-167.27963,-285.92172)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="1"
      style="display:inline"
-     transform="translate(-147.32246,-285.92173)">
+     transform="translate(-167.27963,-285.92172)">
     <g
        style="display:inline"
        id="g3309"
@@ -1398,7 +1398,7 @@
      id="layer3"
      inkscape:label="a"
      sodipodi:insensitive="true"
-     transform="translate(-147.32246,-285.92173)">
+     transform="translate(-167.27963,-285.92172)">
     <path
        style="display:inline;opacity:0.663462;fill:url(#linearGradient3373);fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 264.35649,324.86952 c -3.16961,19.25609 -10.98326,30.69474 -12.80797,44.57173 1.27602,15.22746 11.66717,26.48372 19.46812,32.27609 -18.75603,-30.47946 -9.89476,-52.83619 -6.66015,-76.84782 z"

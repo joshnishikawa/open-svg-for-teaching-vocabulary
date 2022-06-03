@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="bamboo.svg"
-   viewBox="0 0 472.44092 332.59841"
+   viewBox="0 0 331.02419 470.83129"
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    version="1.1"
-   width="125mm"
-   height="88mm">
+   width="87.583488mm"
+   height="124.57412mm">
   <defs
      id="defs130" />
   <sodipodi:namedview
@@ -31,8 +31,8 @@
      inkscape:window-y="0"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="372.04724"
-     inkscape:cy="526.18109"
+     inkscape:cx="241.2822"
+     inkscape:cy="514.12711"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-x="0"
@@ -46,10 +46,11 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-130.76504,-12.053978)">
     <g
        id="g4656"
-       transform="matrix(0.30216583,0,0,0.30216583,126.92801,7.5733968)">
+       transform="matrix(0.45904328,0,0,0.45904328,124.93591,5.2471836)">
       <g
          id="g4536"
          transform="matrix(-0.91406,0.3285,-0.31791,-0.94451,932.41,1148)">

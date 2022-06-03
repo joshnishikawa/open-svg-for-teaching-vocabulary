@@ -11,13 +11,13 @@
    id="svg2"
    sodipodi:docname="lamp.svg"
    inkscape:export-filename="/home/hb205/Masaüstü/gaz lambası.png"
-   viewBox="0 0 332.59841 472.44093"
+   viewBox="0 0 290.7414 465.14612"
    inkscape:export-xdpi="300"
    version="1.1"
    inkscape:export-ydpi="300"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="76.925331mm"
+   height="123.06992mm">
   <defs
      id="defs4">
     <linearGradient
@@ -1501,8 +1501,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="252.23408"
-     inkscape:cy="230.68418"
+     inkscape:cx="231.43243"
+     inkscape:cy="225.76305"
      inkscape:window-width="1920"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -1511,7 +1511,8 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-20.801645,-4.9211292)">
     <g
        id="g4589"
        transform="matrix(0.4990019,0,0,0.4990019,-19.865103,-16.20326)">

@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="88mm"
-   height="125mm"
-   viewBox="0 0 249.44882 354.33071"
+   width="99.065163mm"
+   height="108.91736mm"
+   viewBox="0 0 280.81464 308.74212"
    version="1.1"
    id="svg12335"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,17 +78,18 @@
      id="namedview12489"
      showgrid="false"
      inkscape:zoom="0.94949742"
-     inkscape:cx="193.08738"
-     inkscape:cy="363.45643"
+     inkscape:cx="211.38442"
+     inkscape:cy="366.98875"
      inkscape:window-x="276"
-     inkscape:window-y="200"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="g12495"
      inkscape:document-rotation="0"
      units="mm" />
   <g
      id="g12495"
-     style="filter:url(#filter12573)">
+     style="filter:url(#filter12573)"
+     transform="translate(13.722778,2.6492389)">
     <path
        id="path12337"
        style="display:inline;fill:#2e1800;fill-opacity:1;stroke-width:0.251431"

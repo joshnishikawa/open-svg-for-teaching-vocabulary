@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44095 332.59842"
+   viewBox="0 0 273.38529 290.00235"
    version="1.1"
    sodipodi:docname="ball.svg"
-   width="125mm"
-   height="88mm"
+   width="72.333191mm"
+   height="76.72979mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.73143898"
-     inkscape:cx="-349.77667"
-     inkscape:cy="203.81527"
+     inkscape:cx="-457.66408"
+     inkscape:cy="177.73724"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <linearGradient
@@ -143,7 +144,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(1.4718323,0,0,1.4718323,-249.5237,-46.89689)">
+     transform="matrix(1.4718323,0,0,1.4718323,-357.41111,-72.974917)">
     <path
        id="path4003"
        style="color:#000000;fill:url(#radialGradient4013)"

@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 313.41428 468.66634"
    version="1.1"
    id="svg741"
-   sodipodi:docname="pear-151526.svg"
-   width="88mm"
-   height="125mm"
+   sodipodi:docname="pear.svg"
+   width="82.924194mm"
+   height="124.0013mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata745">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.80138769"
-     inkscape:cx="-135.00057"
-     inkscape:cy="81.408096"
+     inkscape:cx="-145.00777"
+     inkscape:cy="80.82212"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg741" />
+     inkscape:current-layer="svg741"
+     inkscape:document-rotation="0" />
   <defs
      id="defs57">
     <clipPath
@@ -227,7 +228,7 @@
     </linearGradient>
   </defs>
   <g
-     transform="matrix(1.2581988,0,0,1.2581988,-205.88648,-424.78449)"
+     transform="matrix(1.2581988,0,0,1.2581988,-215.89368,-425.37047)"
      id="g739">
     <path
        d="m 294.29,388.08 c 7.3226,3.5645 13.818,8.9646 19.286,15 8.693,9.5949 14.409,21.549 20.714,32.857 5.8076,10.417 8.9525,22.319 15.714,32.143 8.3095,12.073 21.539,20.176 30,32.143 11.312,16 22.023,33.229 27.143,52.143 5.1072,18.868 6.9833,39.465 2.8571,58.571 -4.2933,19.88 -14.049,39.352 -27.857,54.286 -13.862,14.992 -32.849,25.462 -52.143,32.143 -13.814,4.7833 -28.972,5.7515 -43.571,5 -16.558,-0.85229 -33.424,-3.9737 -48.571,-10.714 -18.713,-8.327 -37.696,-19.34 -50,-35.714 -8.188,-10.896 -10.883,-25.209 -13.571,-38.571 -2.3992,-11.925 -3.431,-24.333 -2.1428,-36.429 0.94205,-8.846 3.9854,-17.397 7.1428,-25.714 4.2329,-11.15 11.627,-20.939 15.714,-32.143 5.0472,-13.833 7.7774,-28.428 10.714,-42.857 2.7403,-13.464 2.581,-27.524 6.4286,-40.714 2.8366,-9.7242 5.8254,-19.939 12.143,-27.857 3.5045,-4.3925 8.5716,-7.4353 13.571,-10 7.5705,-3.8834 16.54,-4.3361 24.286,-7.8572 5.0554,-2.2981 8.8564,-7.4048 14.286,-8.5714 3.9846,-0.85618 8.1339,0.69475 12.143,1.4286 1.9313,0.35352 3.9489,0.56925 5.7143,1.4286 z"

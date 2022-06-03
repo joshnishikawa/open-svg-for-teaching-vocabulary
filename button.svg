@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
-   viewBox="0 0 442.91338 311.81102"
+   width="84.652084mm"
+   height="86.091003mm"
+   viewBox="0 0 299.94833 305.04686"
    id="svg2"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -485,8 +485,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="257.29157"
-     inkscape:cy="159.52331"
+     inkscape:cx="177.47699"
+     inkscape:cy="154.87392"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -546,7 +546,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Ebene 2">
+     inkscape:label="Ebene 2"
+     transform="translate(-74.826171,-4.3588015)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:url(#radialGradient6317);fill-opacity:1;stroke:none;stroke-width:1.07868;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"

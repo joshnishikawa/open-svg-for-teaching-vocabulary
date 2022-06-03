@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44095 332.59843"
+   viewBox="0 0 307.14409 309.4208"
    version="1.1"
    sodipodi:docname="basket.svg"
-   width="125mm"
-   height="88mm"
+   width="81.265205mm"
+   height="81.867584mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,12 +29,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.8358929"
-     inkscape:cx="230.98"
-     inkscape:cy="225.375"
+     inkscape:cx="151.73122"
+     inkscape:cy="213.14078"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <filter
@@ -105,7 +106,7 @@
   <g
      id="layer5"
      stroke-linejoin="round"
-     transform="matrix(0.70913664,0,0,0.70913664,13.654929,9.1962817)"
+     transform="matrix(0.70913664,0,0,0.70913664,-65.593855,-3.0379406)"
      stroke-linecap="round"
      stroke-width="24"
      fill="none">
@@ -122,7 +123,7 @@
   </g>
   <g
      id="layer2"
-     transform="matrix(0.70913664,0,0,0.70913664,13.654929,9.1962817)">
+     transform="matrix(0.70913664,0,0,0.70913664,-65.593855,-3.0379406)">
     <path
        id="rect4031"
        fill="#504416"
@@ -131,7 +132,7 @@
   <g
      id="layer3"
      stroke-linejoin="round"
-     transform="matrix(0.70913664,0,0,0.70913664,13.654929,9.1962817)"
+     transform="matrix(0.70913664,0,0,0.70913664,-65.593855,-3.0379406)"
      stroke="#806600"
      stroke-linecap="round"
      stroke-width="16"
@@ -157,7 +158,7 @@
      stroke-linejoin="round"
      stroke-linecap="round"
      fill="none"
-     transform="matrix(0.70913664,0,0,0.70913664,13.654929,9.1962817)">
+     transform="matrix(0.70913664,0,0,0.70913664,-65.593855,-3.0379406)">
     <g
        id="g3123"
        stroke="#d4aa00"

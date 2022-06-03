@@ -12,14 +12,14 @@
    i:viewOrigin="29 685"
    space="preserve"
    i:pageBounds="0 792 612 0"
-   viewBox="0 0 472.44092 332.59841"
+   viewBox="0 0 457.02064 280.73305"
    enable-background="new 0 0 552.71 578.744"
    overflow="visible"
    version="1.1"
    id="svg203"
    sodipodi:docname="flute.svg"
-   width="125mm"
-   height="88mm"
+   width="120.92005mm"
+   height="74.27729mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <defs
      id="defs207" />
@@ -38,18 +38,19 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.73434884"
-     inkscape:cx="142.20449"
-     inkscape:cy="348.61066"
+     inkscape:cx="135.48758"
+     inkscape:cy="322.6775"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg203" />
+     inkscape:current-layer="svg203"
+     inkscape:document-rotation="0" />
   <g
      id="Layer_1"
      i:layer="yes"
      i:rgbTrio="#4F008000FFFF"
      i:dimmedPercent="50"
-     transform="matrix(0.64691293,0.18240084,-0.18240084,0.64691293,107.71138,-72.49608)">
+     transform="matrix(0.64691293,0.18240084,-0.18240084,0.64691293,100.99447,-98.429236)">
     <g
        clip-rule="evenodd"
        fill-rule="evenodd"

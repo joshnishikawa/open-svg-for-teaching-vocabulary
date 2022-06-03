@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
-   viewBox="0 0 125 87.999999"
+   width="93.820503mm"
+   height="85.152061mm"
+   viewBox="0 0 93.820503 85.15206"
    version="1.1"
    id="svg27094"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -547,8 +547,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="70.266639"
-     inkscape:cy="63.77443"
+     inkscape:cx="-1.1619325"
+     inkscape:cy="55.203007"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -570,7 +570,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -578,7 +578,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-87.241952,-131.29302)">
+     transform="translate(-106.14076,-133.56088)">
     <g
        id="g296"
        transform="matrix(0.89013802,0,0,-0.89013802,-183.41227,373.18247)">

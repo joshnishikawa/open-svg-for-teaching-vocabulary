@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44096 332.59841"
+   viewBox="0 0 434.21203 324.42357"
    version="1.0"
    sodipodi:docname="car.svg"
-   width="125mm"
-   height="88mm"
+   width="114.88526mm"
+   height="85.837074mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.1167078"
-     inkscape:cx="27.711292"
-     inkscape:cy="179.24112"
+     inkscape:cx="8.0059867"
+     inkscape:cy="173.91139"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <linearGradient
@@ -488,7 +489,7 @@
   </defs>
   <g
      id="layer2"
-     transform="matrix(0.93064231,0,0,0.93064231,-114.50684,-516.35744)">
+     transform="matrix(0.93064231,0,0,0.93064231,-134.21215,-521.68717)">
     <g
        id="g7411"
        transform="matrix(-1.9236,0,0,1.9236,635.24,-1064.7)">

@@ -8,17 +8,17 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xml:space="preserve"
-   width="125mm"
-   height="88mm"
+   width="120.18948mm"
+   height="55.267895mm"
    style="fill-rule:evenodd"
-   viewBox="0 0 13333.333 9386.6669"
+   viewBox="0 0 12820.21 5895.2423"
    id="svg2"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="bread.svg"><metadata
    id="metadata29"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -36,8 +36,8 @@
    fit-margin-right="0"
    fit-margin-bottom="0"
    inkscape:zoom="0.65462595"
-   inkscape:cx="24.058742"
-   inkscape:cy="342.15726"
+   inkscape:cx="13.370364"
+   inkscape:cy="284.11206"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -72,7 +72,7 @@
   </defs>
  <g
    id="g3010"
-   transform="matrix(0.68459399,0,0,0.68459399,301.74158,1638.2266)"><path
+   transform="matrix(0.68459399,0,0,0.68459399,0.09179427,0.06215187)"><path
      style="fill:#cf9f77;stroke:#373435;stroke-width:62.9;stroke-linecap:round;stroke-linejoin:round"
      inkscape:connector-curvature="0"
      id="path11"

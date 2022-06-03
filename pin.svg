@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg12929"
    sodipodi:docname="pin.svg"
-   viewBox="0 0 472.44097 332.59843"
+   viewBox="0 0 380.90377 314.34033"
    sodipodi:version="0.32"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="125mm"
-   height="88mm">
+   width="100.78078mm"
+   height="83.169212mm">
   <defs
      id="defs3">
     <clipPath
@@ -356,8 +356,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="-80.565547"
-     inkscape:cy="37.780675"
+     inkscape:cx="-88.621013"
+     inkscape:cy="28.454865"
      showguides="true"
      inkscape:window-y="-8"
      inkscape:window-width="1920"
@@ -370,7 +370,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(-73.901,-198.68)">
+     transform="translate(-81.956466,-208.00581)">
     <g
        id="g16213"
        transform="matrix(1.3267,-0.083114,-0.76937,0.80198,1402.8,414.71)"

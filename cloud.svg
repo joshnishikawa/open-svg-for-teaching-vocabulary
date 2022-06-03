@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44093 332.59842"
+   viewBox="0 0 437.06245 326.32419"
    version="1.0"
    sodipodi:docname="cloud.svg"
-   width="125mm"
-   height="88mm"
+   width="115.63944mm"
+   height="86.339943mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.80702622"
-     inkscape:cx="-238.1521"
-     inkscape:cy="16.05322"
+     inkscape:cx="-256.61645"
+     inkscape:cy="12.507184"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <radialGradient
@@ -261,7 +262,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(1.247594,0,0,1.247594,-99.791725,-390.28583)">
+     transform="matrix(1.247594,0,0,1.247594,-118.25608,-393.83187)">
     <path
        id="path6352"
        opacity="0.3139"

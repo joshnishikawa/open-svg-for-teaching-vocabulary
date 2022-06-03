@@ -8,17 +8,17 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xml:space="preserve"
-   width="88mm"
-   height="125mm"
+   width="87.421913mm"
+   height="121.61832mm"
    version="1.1"
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   viewBox="0 0 9136.3453 12977.467"
+   viewBox="0 0 9076.3271 12626.382"
    id="svg45"
    sodipodi:docname="mouth.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"><metadata
    id="metadata49"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -32,12 +32,13 @@
    id="namedview47"
    showgrid="false"
    inkscape:zoom="0.65989737"
-   inkscape:cx="371.97108"
-   inkscape:cy="529.08326"
+   inkscape:cx="371.96939"
+   inkscape:cy="521.08272"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg45" />
+   inkscape:current-layer="svg45"
+   inkscape:document-rotation="0" />
  <defs
    id="defs4">
   <style
@@ -61,7 +62,7 @@
  </defs>
  <g
    id="Vrstva_x0020_1"
-   transform="matrix(0.50467437,0,0,0.50467437,0.02299281,219.69072)">
+   transform="matrix(0.50467437,0,0,0.50467437,-0.02342677,-0.08094389)">
   <metadata
    id="CorelCorpID_0Corel-Layer" />
   <g

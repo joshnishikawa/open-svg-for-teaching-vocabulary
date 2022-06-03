@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 472.44095 332.59843"
+   viewBox="0 0 438.33316 287.39375"
    version="1.1"
    id="svg196"
    sodipodi:docname="pencil.svg"
-   width="125mm"
-   height="88mm"
+   width="115.97565mm"
+   height="76.039597mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata200">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +42,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.6542153"
-     inkscape:cx="233.86007"
-     inkscape:cy="163.43618"
+     inkscape:cx="211.95511"
+     inkscape:cy="149.16"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg196" />
+     inkscape:current-layer="svg196"
+     inkscape:document-rotation="0" />
   <defs
      id="defs82">
     <filter
@@ -529,7 +530,7 @@
        spreadMethod="reflect" />
   </defs>
   <g
-     transform="matrix(0.96302285,0.6036708,-0.6036708,0.96302285,246.31542,-222.9117)"
+     transform="matrix(0.96302285,0.6036708,-0.6036708,0.96302285,224.41046,-237.18788)"
      id="g136">
     <path
        d="m -32.524,267.68 c -4.6167,0 -8.3333,5.9467 -8.3333,13.333 v 20 c 0,7.3867 3.7167,13.333 8.3333,13.333 h 16.667 v -46.667 h -16.667 z"

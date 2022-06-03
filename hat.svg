@@ -9,12 +9,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="hat.svg"
-   viewBox="0 0 472.44095 332.59842"
+   viewBox="0 0 450.36691 269.97546"
    sodipodi:version="0.32"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    version="1.1"
-   width="125mm"
-   height="88mm">
+   width="119.15958mm"
+   height="71.431007mm">
   <defs
      id="defs17" />
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      inkscape:zoom="1"
      inkscape:window-x="-8"
      borderopacity="1.0"
-     inkscape:current-layer="layer1"
-     inkscape:cx="64"
-     inkscape:cy="64"
+     inkscape:current-layer="g2055"
+     inkscape:cx="49.216191"
+     inkscape:cy="23.551154"
      inkscape:window-width="1920"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -40,14 +40,12 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-11.564808,-23.961904)">
     <g
        id="g2055"
-       transform="matrix(3.8157498,0,0,3.8157498,-12.879648,-31.160106)">
-      <path
-         id="path4735"
-         style="fill:#000000;fill-rule:evenodd"
-         d="m 60.031,13.344 c -4.503,1.555 -9.469,-2.203 -13.828,1.347 -9.38,6.227 -8.538,19.35 -10.172,29.309 -3.283,1.987 -0.793,6.417 -3.312,9.125 1.329,5.158 -4.225,4.833 -7.969,5.625 -6.81,1.633 -14.651,0.209 -20.531,4.594 0.9693,11.441 14.124,15.448 23.453,18.208 25.753,6.393 53.143,7.603 79.248,2.584 8.03,-1.781 19.84,-5.281 19.46,-15.448 C 124.53,58.91 112.3,56.483 103.94,58.344 99.673,48.317 101.14,36.992 97.469,26.781 90.855,12.697 73.584,11.043 60.031,13.344 Z" />
+       transform="matrix(3.8157498,0,0,3.8157498,-12.879648,-31.160106)"
+       style="display:inline">
       <path
          id="path1295"
          style="fill:#4c2200;fill-rule:evenodd"

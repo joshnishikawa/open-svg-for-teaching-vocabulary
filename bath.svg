@@ -9,8 +9,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
+   width="119.0625mm"
+   height="50.543533mm"
    id="svg3009"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -2623,10 +2623,10 @@
     </filter>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 608.77952 : 1"
+       inkscape:vp_x="0 : 467.21177 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 608.77952 : 1"
-       inkscape:persp3d-origin="372.04724 : 433.38582 : 1"
+       inkscape:vp_z="744.09448 : 467.21177 : 1"
+       inkscape:persp3d-origin="372.04724 : 291.81807 : 1"
        id="perspective4226-3" />
     <linearGradient
        inkscape:collect="always"
@@ -6619,10 +6619,10 @@
     </linearGradient>
     <inkscape:perspective
        id="perspective4226"
-       inkscape:persp3d-origin="372.04724 : 433.38582 : 1"
-       inkscape:vp_z="744.09448 : 608.77952 : 1"
+       inkscape:persp3d-origin="372.04724 : 291.81807 : 1"
+       inkscape:vp_z="744.09448 : 467.21177 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 608.77952 : 1"
+       inkscape:vp_x="0 : 467.21177 : 1"
        sodipodi:type="inkscape:persp3d" />
     <filter
        id="filter4584-9"
@@ -9932,10 +9932,10 @@
     </linearGradient>
     <inkscape:perspective
        id="perspective4226-32"
-       inkscape:persp3d-origin="372.04724 : 433.38582 : 1"
-       inkscape:vp_z="744.09448 : 608.77952 : 1"
+       inkscape:persp3d-origin="372.04724 : 291.81807 : 1"
+       inkscape:vp_z="744.09448 : 467.21177 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 608.77952 : 1"
+       inkscape:vp_x="0 : 467.21177 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        id="linearGradient5169"
@@ -54224,8 +54224,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7440638"
-     inkscape:cx="286.32631"
-     inkscape:cy="172.06134"
+     inkscape:cx="275.08728"
+     inkscape:cy="84.092538"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54246,7 +54246,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54255,7 +54255,7 @@
      id="layer2"
      inkscape:label="Black BG"
      style="display:none"
-     transform="translate(0,-2750)">
+     transform="translate(-11.239034,-2837.9688)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.49216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect4052"
@@ -54269,7 +54269,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-802.3622)"
+     transform="translate(-11.239034,-890.331)"
      style="display:inline">
     <g
        id="g45137"

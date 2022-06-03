@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg14642"
-   viewBox="0 0 472.44094 332.59842"
+   viewBox="0 0 343.18682 275.4519"
    version="1.1"
    sodipodi:docname="bag.svg"
-   width="125mm"
-   height="88mm"
+   width="90.801514mm"
+   height="72.879982mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="2.495579"
-     inkscape:cx="203.25"
-     inkscape:cy="163.11"
+     inkscape:cx="131.12376"
+     inkscape:cy="129.17322"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14642" />
+     inkscape:current-layer="svg14642"
+     inkscape:document-rotation="0" />
   <defs
      id="defs14644">
     <linearGradient
@@ -229,7 +230,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(0.84425055,0,0,0.84425055,-61.281127,-43.274568)">
+     transform="matrix(0.84425055,0,0,0.84425055,-133.40737,-77.211351)">
     <path
        id="path14682"
        d="m 167.18,358.39 c 0,0 3.0304,11.364 19.951,18.183 16.9206,6.819 17.173,4.5457 73.994,7.5761 56.821,3.0304 4.7716,-0.91298 74.751,5.5558 0,0 131.82,17.678 172.23,27.274 0,0 32.325,2.0203 31.179,-40.328 0,0 2.8572,-47.857 -40.714,-130 0,0 -30.714,-63.571 -150.71,-69.286 0,0 -74.286,-11.429 -132.14,27.857 0,0 -44.286,40 -55.714,126.43 -5.1941,31.538 21.322,45.427 21.322,45.427 41.669,9.3439 96.217,12.879 96.217,12.879"

@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 326.64413 362.1002"
    id="svg2"
-   height="125mm"
-   width="88mm"
+   height="95.805679mm"
+   width="86.424591mm"
    version="1.1"
    sodipodi:docname="lobster.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -29,12 +29,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.0017346"
-     inkscape:cx="-30.826652"
-     inkscape:cy="191.81716"
+     inkscape:cx="-34.440512"
+     inkscape:cy="131.77257"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs7" />
   <metadata
@@ -45,13 +46,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g5118"
-     transform="matrix(1.8056917,0,0,1.8056917,-67.803999,45.518544)">
+     transform="matrix(1.8056917,0,0,1.8056917,-71.417859,-14.526047)">
     <path
        style="fill:#c83232;fill-rule:evenodd;stroke:#000000;stroke-width:1"
        d="m 65.688581,113.04711 -2.347878,-1.71707 c -1.194663,0.038 -2.125837,0.31885 -4.124391,-0.19716 -5.550242,-2.59655 -8.683137,-6.89119 -8.963279,-10.83195 -2.343601,2.23275 -1.726756,7.83033 0.08937,9.43101 -4.952679,-1.25796 -6.666074,-3.62711 -7.442331,-7.01595 -2.666112,4.82337 -0.967251,7.35876 4.075072,9.17465 1.675604,0.64121 2.878787,1.38989 5.454013,1.82645 1.48339,0.61706 3.144983,1.48577 5.48974,1.57042 l 3.156647,1.1039 3.388753,-1.17379 z"

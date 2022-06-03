@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 332.59842 472.44094"
+   viewBox="0 0 261.22694 465.46707"
    version="1.1"
    id="svg123"
    sodipodi:docname="unicycle.svg"
-   width="88mm"
-   height="125mm"
+   width="69.116295mm"
+   height="123.15483mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata127">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.676251"
-     inkscape:cx="167.3272"
-     inkscape:cy="243.68487"
+     inkscape:cx="132.71684"
+     inkscape:cy="240.81854"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg123" />
+     inkscape:current-layer="svg123"
+     inkscape:document-rotation="0" />
   <defs
      id="defs7">
     <radialGradient
@@ -65,7 +66,7 @@
     </radialGradient>
   </defs>
   <g
-     transform="matrix(0.45889981,0,0,0.45889981,35.433381,193.4963)"
+     transform="matrix(0.45889981,0,0,0.45889981,0.82301904,190.62997)"
      id="g121">
     <g
        transform="matrix(1.7537,0,0,1.7537,434.16,665.98)"

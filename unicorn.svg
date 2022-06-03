@@ -10,9 +10,9 @@
    version="1.1"
    x="0"
    y="0"
-   width="88mm"
-   height="125mm"
-   viewBox="0 0 332.59842 472.44095"
+   width="77.13382mm"
+   height="70.696175mm"
+   viewBox="0 0 291.52939 267.19814"
    id="svg53"
    sodipodi:docname="unicorn.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,22 +39,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="687"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview55"
      showgrid="false"
      units="mm"
      width="88mm"
-     inkscape:zoom="0.30287356"
-     inkscape:cx="-24.591165"
-     inkscape:cy="258.78785"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg53" />
+     inkscape:zoom="1.2114942"
+     inkscape:cx="473.13261"
+     inkscape:cy="133.19512"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg53"
+     inkscape:document-rotation="0" />
   <g
      id="Layer_1"
-     transform="matrix(0.54071289,0,0,0.54071289,20.958241,93.600628)">
+     transform="matrix(0.54071289,0,0,0.54071289,-1.3515192,-1.3571894)">
     <path
        d="m 422.187,234.489 c 67.092,48.191 27.658,94.434 56.733,126.334 -66.875,1.341 -70.791,-73.629 -56.733,-126.334"
        fill="#ae669c"

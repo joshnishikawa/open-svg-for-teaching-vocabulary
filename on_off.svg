@@ -11,14 +11,14 @@
    id="svg2"
    inkscape:export-ydpi="180"
    inkscape:export-filename="C:\Users\Lzu\Desktop\button3x2.png"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 453.93585 467.40845"
    sodipodi:docname="on_off.svg"
    inkscape:export-xdpi="180"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    inkscape:label="Pozadí"
-   width="88mm"
-   height="125mm">
+   width="120.10386mm"
+   height="123.66849mm">
   <defs
      id="defs3">
     <linearGradient
@@ -86,8 +86,8 @@
      inkscape:zoom="0.68400805"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="-184.01238"
-     inkscape:cy="14.174471"
+     inkscape:cx="-125.96548"
+     inkscape:cy="13.005327"
      inkscape:window-maximized="1"
      showgrid="false"
      fit-margin-right="20"
@@ -109,9 +109,9 @@
      width="88mm">
     <inkscape:grid
        id="grid2984"
-       originy="-962.90664"
+       originy="-964.07579"
        enabled="true"
-       originx="-20"
+       originx="38.046899"
        visible="true"
        snapvisiblegridlinesonly="true"
        type="xygrid"
@@ -123,7 +123,7 @@
      id="layer1"
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
-     transform="translate(-21,-988.01)">
+     transform="translate(37.0469,-989.17914)">
     <rect
        id="rect3960"
        style="fill:#666666;fill-rule:evenodd;stroke-width:4.2188"

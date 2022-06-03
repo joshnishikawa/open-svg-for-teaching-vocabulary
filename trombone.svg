@@ -12,14 +12,14 @@
    i:viewOrigin="104.2637 613.1807"
    space="preserve"
    i:pageBounds="0 792 612 0"
-   viewBox="0 0 332.59841 472.44093"
+   viewBox="0 0 319.82866 427.82652"
    enable-background="new 0 0 395.588 435.493"
    overflow="visible"
    version="1.1"
    id="svg153"
    sodipodi:docname="trombone.svg"
-   width="88mm"
-   height="125mm"
+   width="84.621338mm"
+   height="113.19577mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <defs
      id="defs157" />
@@ -38,18 +38,19 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.97590544"
-     inkscape:cx="254.22933"
-     inkscape:cy="217.77319"
+     inkscape:cx="246.16354"
+     inkscape:cy="201.07713"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg153" />
+     inkscape:current-layer="svg153"
+     inkscape:document-rotation="0" />
   <g
      id="Layer_1"
      i:layer="yes"
      i:rgbTrio="#4F008000FFFF"
      i:dimmedPercent="50"
-     transform="matrix(0.90305569,0.09298146,-0.09298146,0.90305569,10.769873,14.887605)">
+     transform="matrix(0.90305569,0.09298146,-0.09298146,0.90305569,2.7040846,-1.8084556)">
     <g
        clip-rule="evenodd"
        fill-rule="evenodd"

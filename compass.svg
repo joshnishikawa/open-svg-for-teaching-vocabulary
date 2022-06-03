@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
+   width="78.287437mm"
+   height="85.56002mm"
    id="svg2"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -51,17 +51,17 @@
     </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 469.37327 : 1"
+       inkscape:vp_x="0 : 460.1513 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 469.37327 : 1"
-       inkscape:persp3d-origin="372.04724 : 293.97957 : 1"
+       inkscape:vp_z="744.09448 : 460.1513 : 1"
+       inkscape:persp3d-origin="372.04724 : 284.7576 : 1"
        id="perspective10" />
     <inkscape:perspective
        id="perspective4379"
-       inkscape:persp3d-origin="0.5 : -56.474491 : 1"
-       inkscape:vp_z="1 : -56.307825 : 1"
+       inkscape:persp3d-origin="0.5 : -65.696461 : 1"
+       inkscape:vp_z="1 : -65.529795 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : -56.307825 : 1"
+       inkscape:vp_x="0 : -65.529795 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        inkscape:collect="always"
@@ -241,8 +241,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="211.71036"
-     inkscape:cy="171.47958"
+     inkscape:cx="118.36711"
+     inkscape:cy="166.06614"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -263,7 +263,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -271,7 +271,7 @@
      style="display:inline"
      id="g5800"
      inkscape:transform-center-x="-123.98732"
-     transform="matrix(0.73365274,0,0,0.73365274,-96.192245,-136.48762)"
+     transform="matrix(0.73365274,0,0,0.73365274,-189.53549,-141.90106)"
      inkscape:transform-center-y="3.1054543e-06">
     <path
        id="path3897"

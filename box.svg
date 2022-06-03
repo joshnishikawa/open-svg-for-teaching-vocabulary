@@ -11,13 +11,13 @@
    id="svg2"
    sodipodi:docname="box.svg"
    sodipodi:modified="true"
-   viewBox="0 0 332.59841 472.44095"
+   viewBox="0 0 296.03398 285.27377"
    sodipodi:version="0.32"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="78.325661mm"
+   height="75.478683mm">
   <defs
      id="defs4">
     <linearGradient
@@ -29,31 +29,6 @@
       <stop
          id="stop3228"
          style="stop-color:#8d5632"
-         offset="1" />
-    </linearGradient>
-    <filter
-       id="filter3509"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3511"
-         stdDeviation="3.1899598"
-         inkscape:collect="always" />
-    </filter>
-    <linearGradient
-       id="linearGradient3551"
-       y2="81.682999"
-       gradientUnits="userSpaceOnUse"
-       x2="567.35999"
-       y1="62.808998"
-       x1="520.40002"
-       inkscape:collect="always">
-      <stop
-         id="stop3273"
-         style="stop-color:#999999;stop-opacity:0"
-         offset="0" />
-      <stop
-         id="stop3275"
-         style="stop-color:#e6e6e6"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -225,8 +200,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="g3513"
-     inkscape:cx="435.64089"
-     inkscape:cy="517.67208"
+     inkscape:cx="408.10223"
+     inkscape:cy="413.08378"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1015"
@@ -239,16 +214,11 @@
   <g
      id="layer1"
      inkscape:label="Livello 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-27.538656,-104.5883)">
     <g
        id="g3513"
        transform="matrix(2.012,0,0,2.012,-406.05,-43.723)">
-      <path
-         id="path3277"
-         style="fill:url(#linearGradient3551);fill-rule:evenodd;filter:url(#filter3509)"
-         sodipodi:nodetypes="ccccccc"
-         transform="matrix(0.89364,0.44878,-0.32861,0.94447,0,0)"
-         d="m 505.28,41.703 56.01,-9.012 50.54,-15.792 -51.02,87.901 -36.07,-3.75 -69.59,5.85 z" />
       <path
          id="rect1902"
          sodipodi:nodetypes="ccccccc"

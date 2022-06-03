@@ -10,14 +10,14 @@
    id="svg2"
    inkscape:export-ydpi="90"
    inkscape:export-filename="/home/mim/Documents/vebu/mlich/mlich-packung.png"
-   viewBox="0 0 332.59841 472.44093"
+   viewBox="0 0 325.30753 401.57416"
    inkscape:export-xdpi="90"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    enable-background="new"
    sodipodi:docname="milk.svg"
-   width="88mm"
-   height="125mm">
+   width="86.070953mm"
+   height="106.24983mm">
   <title
      id="title4055">Milk tetra pack</title>
   <defs
@@ -121,8 +121,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer2"
-     inkscape:cx="370.20423"
-     inkscape:cy="526.18109"
+     inkscape:cx="367.34072"
+     inkscape:cy="478.31806"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:window-height="1017"
@@ -133,7 +133,8 @@
   <g
      id="layer2"
      inkscape:label="kuh"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-2.8635097,-47.863027)">
     <g
        id="g3923"
        transform="matrix(0.47585627,0,0,0.47585627,14.656052,-13.501368)">

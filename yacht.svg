@@ -10,11 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="yacht.svg"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 306.42055 403.63714"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="81.073769mm"
+   height="106.79566mm">
   <title
      id="title4162">Volier</title>
   <defs
@@ -222,8 +222,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="38.517129"
-     inkscape:cy="217.34917"
+     inkscape:cx="26.932575"
+     inkscape:cy="169.31632"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
@@ -236,7 +236,7 @@
      id="layer1"
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     transform="translate(-216.08,-158.43)">
+     transform="translate(-227.66455,-206.46285)">
     <path
        id="path3874"
        sodipodi:nodetypes="ccccccc"

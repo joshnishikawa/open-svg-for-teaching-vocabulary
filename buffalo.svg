@@ -9,12 +9,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="buffalo.svg"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 312.01394 324.62993"
    sodipodi:version="0.32"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="82.553688mm"
+   height="85.89167mm">
   <defs
      id="defs17" />
   <sodipodi:namedview
@@ -30,8 +30,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="g1349"
-     inkscape:cx="58.259101"
-     inkscape:cy="225.97795"
+     inkscape:cx="50.476165"
+     inkscape:cy="160.41401"
      inkscape:window-height="1017"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -41,7 +41,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(-0.071,-0.933)">
+     transform="translate(-7.8539364,-66.496942)">
     <g
        id="g1349"
        transform="matrix(1.7257448,0,0,1.7257448,-74.509129,1.742199)"
@@ -88,7 +88,7 @@
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">

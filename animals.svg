@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="88mm"
-   height="125mm"
-   viewBox="0 0 303.01129 430.41373"
+   width="77.544754mm"
+   height="76.930595mm"
+   viewBox="0 0 267.01064 264.89588"
    id="svg2"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -2462,9 +2462,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4174665"
-     inkscape:cx="392.67571"
-     inkscape:cy="268.99114"
+     inkscape:zoom="2.834933"
+     inkscape:cx="207.91412"
+     inkscape:cy="145.94465"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2522,7 +2522,8 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(3.2740485,-942.6342)">
+     transform="translate(-16.129883,-1028.9585)"
+     style="display:inline">
     <g
        style="display:inline"
        transform="matrix(-0.95809564,0,0,0.95809564,121.44014,281.99322)"
@@ -3730,7 +3731,8 @@
     <g
        transform="matrix(1.1318653,0,0,1.1318653,160.12811,90.798691)"
        id="layer1-50"
-       inkscape:label="Ebene 1">
+       inkscape:label="Ebene 1"
+       style="display:inline">
       <path
          inkscape:connector-curvature="0"
          id="path4500"
@@ -3906,7 +3908,8 @@
     <g
        transform="matrix(0.70112736,0,0,0.70112736,109.44848,547.44011)"
        id="layer1-5"
-       inkscape:label="Ebene 1">
+       inkscape:label="Ebene 1"
+       style="display:inline">
       <path
          inkscape:connector-curvature="0"
          id="path4270-8"

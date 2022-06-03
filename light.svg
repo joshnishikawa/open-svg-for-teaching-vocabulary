@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    enable-background="new 0 0 88.9 58.8"
    version="1.1"
-   viewBox="0 0 472.44094 332.59843"
+   viewBox="0 0 456.78562 302.1208"
    id="svg62"
    sodipodi:docname="light.svg"
-   width="125mm"
-   height="88mm"
+   width="120.85786mm"
+   height="79.936127mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata68">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,17 +44,18 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.4651293"
-     inkscape:cx="200.7157"
-     inkscape:cy="119.18962"
+     inkscape:cx="192.28398"
+     inkscape:cy="108.87384"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg62" />
+     inkscape:current-layer="svg62"
+     inkscape:document-rotation="0" />
   <g
      clip-rule="evenodd"
      fill-rule="evenodd"
      id="g60"
-     transform="matrix(5.1381959,0,0,5.1381959,8.4317153,-250.44766)">
+     transform="matrix(5.1381959,0,0,5.1381959,0,-260.76344)">
     <radialGradient
        id="e"
        cx="45.099998"

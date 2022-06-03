@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="88mm"
-   height="125mm"
+   width="87.098671mm"
+   height="111.11071mm"
    id="svg2"
    sodipodi:docname="hoe.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,16 +40,17 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.0000677"
-     inkscape:cx="350.87421"
-     inkscape:cy="346.77403"
+     inkscape:cx="348.82106"
+     inkscape:cy="320.76171"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3" />
   <g
-     transform="matrix(0.8205447,0,0,0.8205447,-33.16448,-369.21844)"
+     transform="matrix(0.8205447,0,0,0.8205447,-35.217629,-395.23076)"
      id="layer4"
      style="display:inline">
     <path

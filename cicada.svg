@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="88mm"
-   height="125mm"
+   width="72.01503mm"
+   height="121.30678mm"
    id="svg2"
    version="1.1"
    sodipodi:docname="cicada.svg"
@@ -29,12 +29,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.67900733"
-     inkscape:cx="278.863"
-     inkscape:cy="462.4911"
+     inkscape:cx="247.9355"
+     inkscape:cy="456.60015"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <linearGradient
@@ -534,13 +535,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
-     transform="matrix(0.51795629,0,0,0.51795629,-19.102282,-43.046882)">
+     transform="matrix(0.51795629,0,0,0.51795629,-50.029783,-48.937835)">
     <g
        id="g3361">
       <g

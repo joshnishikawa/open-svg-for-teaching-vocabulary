@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2562"
-   viewBox="0 0 472.44095 332.59843"
+   viewBox="0 0 406.79801 324.95171"
    version="1.0"
    sodipodi:docname="seal.svg"
-   width="125mm"
-   height="88mm"
+   width="107.63197mm"
+   height="85.976807mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,12 +29,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="2.2542403"
-     inkscape:cx="257.63951"
-     inkscape:cy="171.48348"
+     inkscape:cx="231.08263"
+     inkscape:cy="166.81102"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2562" />
+     inkscape:current-layer="svg2562"
+     inkscape:document-rotation="0" />
   <defs
      id="defs2564">
     <linearGradient
@@ -64,7 +65,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(3.4961907,0,0,3.4961907,-820.7754,-828.32013)">
+     transform="matrix(3.4961907,0,0,3.4961907,-847.33228,-832.99259)">
     <g
        id="g18767"
        transform="matrix(0.83855,0,0,0.83855,174.4,-51.923)"

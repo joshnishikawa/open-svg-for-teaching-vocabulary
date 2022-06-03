@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 333.26398 466.49641"
    version="1.1"
    id="svg309"
    sodipodi:docname="honey.svg"
-   width="88mm"
-   height="125mm"
+   width="88.176094mm"
+   height="123.42718mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata313">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +42,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.85473485"
-     inkscape:cx="-277.88249"
-     inkscape:cy="120.92811"
+     inkscape:cx="-275.59446"
+     inkscape:cy="120.93168"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg309" />
+     inkscape:current-layer="svg309"
+     inkscape:document-rotation="0" />
   <defs
      id="defs181">
     <filter
@@ -663,7 +664,7 @@
        x2="602.85999" />
   </defs>
   <g
-     transform="matrix(1.8160541,0,0,1.8160541,-791.04024,-803.31047)"
+     transform="matrix(1.8160541,0,0,1.8160541,-788.75221,-803.3069)"
      id="g307">
     <path
        d="m 525.72,465.16 c -28.408,0 -52.662,1.9703 -62.358,4.7544 h -2.9135 v 1.0726 c -1.0462,0.52369 -1.609,1.0646 -1.609,1.6234 0,0.5588 0.5605,1.1137 1.609,1.638 v 8.1173 c -9.2013,4.4176 -14.611,9.8043 -14.611,15.626 0,2.074 0.6861,4.0891 1.9858,6.03 v 141.5 c -1.7463,3.607 -2.6816,7.3988 -2.6816,11.306 0,6.4152 2.5212,12.505 7.0301,18.003 2.8982,4.245 34.716,7.5954 73.548,7.5954 38.832,0 70.664,-3.3505 73.563,-7.5954 4.5061,-5.4963 7.0156,-11.59 7.0156,-18.003 0,-3.9074 -0.9353,-7.6992 -2.6816,-11.306 v -141.53 c 1.2874,-1.9325 1.9713,-3.9367 1.9713,-6.001 0,-5.8212 -5.3961,-11.208 -14.597,-15.626 v -8.1318 c 1.04,-0.52223 1.609,-1.0663 1.609,-1.6234 0,-0.5571 -0.56775,-1.1009 -1.609,-1.6234 v -1.0726 h -2.9135 c -9.6921,-2.7849 -33.945,-4.7544 -62.358,-4.7544 z"

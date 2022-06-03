@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2985"
-   height="88mm"
-   width="125mm"
+   height="84.649727mm"
+   width="121.16014mm"
    version="1.1"
    sodipodi:docname="TV.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -27,12 +27,13 @@
      id="namedview44"
      showgrid="false"
      inkscape:zoom="0.9282688"
-     inkscape:cx="561.25984"
-     inkscape:cy="399.02339"
+     inkscape:cx="553.43714"
+     inkscape:cy="392.60921"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2985" />
+     inkscape:current-layer="svg2985"
+     inkscape:document-rotation="0" />
   <defs
      id="defs2987">
     <filter
@@ -106,7 +107,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(0.40757248,0,0,0.40757248,20.440804,7.1742848)">
+     transform="matrix(0.40757248,0,0,0.40757248,12.618107,0.76010128)">
     <g
        id="g3885">
       <g

@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 472.44094 332.59843"
+   viewBox="0 0 462.81256 307.87314"
    version="1.1"
    id="svg54"
    sodipodi:docname="screwdriver.svg"
-   width="125mm"
-   height="88mm"
+   width="122.45249mm"
+   height="81.458099mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata60">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,14 +43,15 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.1729723"
-     inkscape:cx="245.361"
-     inkscape:cy="303.89719"
+     inkscape:cx="239.89567"
+     inkscape:cy="289.30077"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg54" />
+     inkscape:current-layer="svg54"
+     inkscape:document-rotation="0" />
   <g
-     transform="matrix(0.73772694,0.14797101,-0.14797101,0.73772694,41.17053,-278.64387)"
+     transform="matrix(0.73772694,0.14797101,-0.14797101,0.73772694,35.705201,-293.24029)"
      fill-rule="evenodd"
      id="g52">
     <path

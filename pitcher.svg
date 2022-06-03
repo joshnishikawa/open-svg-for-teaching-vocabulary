@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg15167"
-   viewBox="0 0 332.59842 472.44096"
+   viewBox="0 0 322.72122 334.55588"
    version="1.0"
    sodipodi:docname="pitcher.svg"
-   width="88mm"
-   height="125mm"
+   width="85.386658mm"
+   height="88.517906mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.3037195"
-     inkscape:cx="-64.727891"
-     inkscape:cy="212.82347"
+     inkscape:cx="-67.035149"
+     inkscape:cy="147.78527"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg15167" />
+     inkscape:current-layer="svg15167"
+     inkscape:document-rotation="0" />
   <defs
      id="defs15169">
     <radialGradient
@@ -333,7 +334,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(1.448901,0,0,1.448901,-235.03161,-46.452012)">
+     transform="matrix(1.448901,0,0,1.448901,-237.33887,-111.49021)">
     <g
        id="g15137"
        transform="matrix(0.80135,0,0,0.80135,62.146,111.66)">

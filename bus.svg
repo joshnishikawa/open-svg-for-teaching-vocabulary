@@ -9,13 +9,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44093 332.59841"
+   viewBox="0 0 462.55208 237.45841"
    version="1.0"
    y="0"
    x="0"
    sodipodi:docname="bus.svg"
-   width="125mm"
-   height="88mm"
+   width="122.38358mm"
+   height="62.827541mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -32,12 +32,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.9901178"
-     inkscape:cx="526.20001"
-     inkscape:cy="372.04501"
+     inkscape:cx="520.07199"
+     inkscape:cy="314.44491"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3">
     <linearGradient
@@ -171,7 +172,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(0.47390369,0,0,0.47390369,-16.878684,0.15189879)">
+     transform="matrix(0.47390369,0,0,0.47390369,-23.006705,-57.448205)">
     <path
        id="path2374"
        d="m 926.55,245 c 0,0 13.36,-4.45 19.09,-1.27 5.72,3.18 13.36,5.09 14,11.46 0.63,6.36 7.63,0.63 7.63,0.63"

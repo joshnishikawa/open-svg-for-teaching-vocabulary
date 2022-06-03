@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="88mm"
-   height="125mm"
-   viewBox="-15 110 332.59843 472.44094"
+   width="86.240677mm"
+   height="86.240677mm"
+   viewBox="-15 110 325.94902 325.94901"
    inkscape:export-xdpi="76.235291"
    inkscape:export-ydpi="76.235291"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -34,12 +34,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.77855021"
-     inkscape:cx="368.79302"
-     inkscape:cy="433.40163"
+     inkscape:cx="365.15534"
+     inkscape:cy="360.83039"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
   <defs
      id="defs340">
     <linearGradient
@@ -104,10 +105,10 @@
     </linearGradient>
     <inkscape:perspective
        id="perspective292"
-       inkscape:persp3d-origin="372.04725 : 51.228334 : 1"
-       inkscape:vp_x="0 : 226.62203 : 1"
-       inkscape:vp_y="0 : 999.99998 : 0"
-       inkscape:vp_z="744.0945 : 226.62203 : 1"
+       inkscape:persp3d-origin="372.04725 : -95.263596 : 1"
+       inkscape:vp_x="0 : 80.130105 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09451 : 80.130105 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        id="linearGradient2136">
@@ -1289,10 +1290,10 @@
        xlink:href="#linearGradient12512" />
     <inkscape:perspective
        id="perspective3264"
-       inkscape:persp3d-origin="372.04725 : 51.228334 : 1"
-       inkscape:vp_x="0 : 226.62203 : 1"
-       inkscape:vp_y="0 : 999.99998 : 0"
-       inkscape:vp_z="744.0945 : 226.62203 : 1"
+       inkscape:persp3d-origin="372.04725 : -95.263596 : 1"
+       inkscape:vp_x="0 : 80.130105 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09451 : 80.130105 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -2070,7 +2071,8 @@
   <g
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Ebene 1">
+     inkscape:label="Ebene 1"
+     transform="translate(-3.6376778,-72.571244)">
     <g
        id="g37042"
        transform="matrix(0.38346944,0,0,0.38346944,13.189043,138.14413)">

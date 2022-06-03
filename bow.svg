@@ -9,12 +9,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2580"
-   viewBox="0 0 472.44096 332.59842"
+   viewBox="0 0 468.71371 252.41685"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="bow.svg"
-   width="125mm"
-   height="88mm">
+   width="124.01383mm"
+   height="66.785294mm">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.0761623"
-     inkscape:cx="55.197402"
-     inkscape:cy="36.170801"
+     inkscape:cx="53.19976"
+     inkscape:cy="5.5062886"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2580" />
+     inkscape:current-layer="svg2580"
+     inkscape:document-rotation="0" />
   <defs
      id="defs2582">
     <linearGradient
@@ -179,7 +180,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(1.3691519,0,0,1.3691519,-78.550443,-202.29668)">
+     transform="matrix(1.3691519,0,0,1.3691519,-80.548085,-232.96119)">
     <path
        id="rect2622"
        style="fill:url(#linearGradient2454);stroke:#760009;stroke-width:4.3;stroke-linejoin:round"

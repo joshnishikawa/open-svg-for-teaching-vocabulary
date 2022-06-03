@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 332.59842 472.44095"
+   viewBox="0 0 329.11348 387.93772"
    version="1.1"
    id="svg198"
    sodipodi:docname="robot.svg"
-   width="88mm"
-   height="125mm"
+   width="87.077942mm"
+   height="102.64185mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata204">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,14 +43,15 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.0620978"
-     inkscape:cx="156.35376"
-     inkscape:cy="196.91003"
+     inkscape:cx="154.35893"
+     inkscape:cy="152.91814"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg198" />
+     inkscape:current-layer="svg198"
+     inkscape:document-rotation="0" />
   <g
-     transform="matrix(0.96949111,0,0,0.96949111,-193.07146,28.334715)"
+     transform="matrix(0.96949111,0,0,0.96949111,-195.06629,-15.657179)"
      id="g196">
     <g
        transform="matrix(-1.4034,0,0,1.4034,884.58,-240.72)"

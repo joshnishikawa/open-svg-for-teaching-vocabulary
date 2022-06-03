@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 472.44094 332.59843"
+   viewBox="0 0 460.84437 227.8526"
    version="1.1"
    id="svg313"
    sodipodi:docname="stapler.svg"
-   width="125mm"
-   height="88mm"
+   width="121.93174mm"
+   height="60.285999mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata317">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.2038668"
-     inkscape:cx="432.77213"
-     inkscape:cy="216.38606"
+     inkscape:cx="426.75262"
+     inkscape:cy="152.93782"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg313" />
+     inkscape:current-layer="svg313"
+     inkscape:document-rotation="0" />
   <defs
      id="defs187">
     <filter
@@ -581,7 +582,7 @@
     </radialGradient>
   </defs>
   <g
-     transform="matrix(0.51362505,0,0,0.51362505,-37.03804,-1.1488501)"
+     transform="matrix(0.51362505,0,0,0.51362505,-43.057546,-64.597092)"
      fill-rule="evenodd"
      id="g199">
     <path
@@ -611,7 +612,7 @@
        id="path197" />
   </g>
   <g
-     transform="matrix(0.51362505,0,0,0.51362505,-37.03804,-1.1488501)"
+     transform="matrix(0.51362505,0,0,0.51362505,-43.057546,-64.597092)"
      id="g225">
     <path
        d="m 263.56,435.54 c 9.3525,3.4369 16.104,9.4753 23.355,15.014 3.8765,3.702 9.2639,4.3821 15.347,3.67 l 163.15,2.6691 c 5.0734,-3.7812 3.5921,-7.5624 3.0027,-11.344 l -35.032,-13.346 c -3.3046,-1.128 -7.7594,-1.6809 -14.013,-1.3346 l -140.8,-5.6718 c -6.1214,0.29017 -14.666,-0.3285 -15.347,2.0018 l 0.33363,8.341 z"
@@ -691,7 +692,7 @@
        id="path223" />
   </g>
   <g
-     transform="matrix(0.51362505,0,0,0.51362505,-37.03804,-1.1488501)"
+     transform="matrix(0.51362505,0,0,0.51362505,-43.057546,-64.597092)"
      id="g247">
     <path
        d="m 637.46,442.03 43.8,13.728 192.2,0.65373 3.2686,-7.191 -98.059,-13.075 -132.71,1.9612 -8.4984,3.9224 z"
@@ -762,7 +763,7 @@
        style="fill:url(#e)" />
   </g>
   <g
-     transform="matrix(0.51362505,0,0,0.51362505,-37.03804,-1.1488501)"
+     transform="matrix(0.51362505,0,0,0.51362505,-43.057546,-64.597092)"
      id="g269">
     <path
        d="m 688.37,400.23 c 10.817,-12.407 21.965,-25.569 37.916,-29.418 l -17.651,-21.573 -409.89,-88.253 -10.46,90.868 13.075,1.3074 15.036,10.46 371.97,36.609 z"
@@ -832,7 +833,7 @@
        id="path267" />
   </g>
   <g
-     transform="matrix(0.51362505,0,0,0.51362505,-37.03804,-1.1488501)"
+     transform="matrix(0.51362505,0,0,0.51362505,-43.057546,-64.597092)"
      fill-rule="evenodd"
      id="g281">
     <path
@@ -866,7 +867,7 @@
        style="fill:url(#l)" />
   </g>
   <g
-     transform="matrix(0.51362505,0,0,0.51362505,-37.03804,-1.1488501)"
+     transform="matrix(0.51362505,0,0,0.51362505,-43.057546,-64.597092)"
      fill-rule="evenodd"
      id="g291">
     <path
@@ -892,7 +893,7 @@
        id="path289" />
   </g>
   <g
-     transform="matrix(0.51362505,0,0,0.51362505,-37.03804,-1.1488501)"
+     transform="matrix(0.51362505,0,0,0.51362505,-43.057546,-64.597092)"
      id="g311">
     <path
        d="m 910.24,391.43 a 6.3692,7.3128 0 1 1 -12.738,0 6.3692,7.3128 0 1 1 12.738,0 z"

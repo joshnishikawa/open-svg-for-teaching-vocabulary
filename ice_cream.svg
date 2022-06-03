@@ -10,9 +10,9 @@
    version="1.1"
    x="0"
    y="0"
-   width="88mm"
-   height="125mm"
-   viewBox="0 0 332.59843 472.44094"
+   width="42.055901mm"
+   height="99.412003mm"
+   viewBox="0 0 158.95144 375.7304"
    id="svg41"
    sodipodi:docname="ice_cream.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,15 +45,16 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.5045977"
-     inkscape:cx="117"
-     inkscape:cy="275"
+     inkscape:cx="12.348322"
+     inkscape:cy="219.98213"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg41" />
+     inkscape:current-layer="svg41"
+     inkscape:document-rotation="0" />
   <g
      id="Layer_1"
-     transform="matrix(0.688904,0,0,0.688904,103.52557,54.202977)">
+     transform="matrix(0.688904,0,0,0.688904,-1.1261077,-0.81488853)">
     <path
        d="m 55.701,229.133 c -2.787,-1.431 -5.822,-2.577 -7.99,-4.856 -4.789,-5.336 -1.703,-13.611 -1.635,-20.748 0.156,-5.795 -2.105,-11.566 -5.891,-15.893 -4.354,-4.825 -10.467,-7.786 -14.313,-13.051 -4.736,-6.549 -4.9,-15.149 -6.1,-23.143 -1.197,-7.995 -4.818,-15.963 -12.514,-18.417 l 0.033,221.198 60.15,-112.269 c -2.344,-4.959 -6.857,-10.179 -11.74,-12.817 z"
        fill="#f4b865"

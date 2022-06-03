@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="88mm"
-   height="125mm"
+   width="81.127647mm"
+   height="75.84742mm"
    version="1.1"
    id="svg303"
    sodipodi:docname="gem.svg"
@@ -28,8 +28,8 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.80244177"
-     inkscape:cx="88.255261"
-     inkscape:cy="136.74586"
+     inkscape:cx="72.82685"
+     inkscape:cy="40.31449"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -38,9 +38,9 @@
   <defs
      id="defs242">
     <linearGradient
-       x1="49.412257"
+       x1="49.412258"
        x2="135.32207"
-       y1="20.711444"
+       y1="20.711445"
        y2="142.58148"
        id="imagebot_41"
        gradientTransform="scale(1.5675204,0.63795022)"
@@ -67,7 +67,7 @@
     </linearGradient>
     <linearGradient
        x1="114.40262"
-       x2="134.1966"
+       x2="134.19659"
        y1="145.00902"
        y2="118.64166"
        id="imagebot_40"
@@ -97,8 +97,8 @@
          id="stop20" />
     </radialGradient>
     <linearGradient
-       x1="146.77355"
-       x2="184.03385"
+       x1="146.77354"
+       x2="184.03384"
        y1="129.16292"
        y2="129.16292"
        id="imagebot_38"
@@ -117,7 +117,7 @@
          id="stop27" />
     </linearGradient>
     <linearGradient
-       x1="148.58471"
+       x1="148.58472"
        x2="107.48049"
        y1="120.1402"
        y2="120.1402"
@@ -137,10 +137,10 @@
          id="stop34" />
     </linearGradient>
     <linearGradient
-       x1="61.309127"
-       x2="81.061748"
-       y1="298.46766"
-       y2="298.46766"
+       x1="61.309128"
+       x2="81.061745"
+       y1="298.46765"
+       y2="298.46765"
        id="imagebot_36"
        gradientTransform="scale(2.0863108,0.47931497)"
        gradientUnits="userSpaceOnUse">
@@ -155,8 +155,8 @@
     </linearGradient>
     <linearGradient
        x1="88.653267"
-       x2="96.461644"
-       y1="299.30321"
+       x2="96.461647"
+       y1="299.30322"
        y2="319.12662"
        id="imagebot_35"
        gradientTransform="scale(2.0977232,0.47670733)"
@@ -172,8 +172,8 @@
     </linearGradient>
     <linearGradient
        x1="65.800858"
-       x2="82.833072"
-       y1="87.929956"
+       x2="82.833069"
+       y1="87.929955"
        y2="121.59649"
        id="imagebot_34"
        gradientTransform="scale(1.1272521,0.88711302)"
@@ -197,9 +197,9 @@
     </linearGradient>
     <linearGradient
        x1="33.405594"
-       x2="60.385019"
-       y1="50.897443"
-       y2="67.586255"
+       x2="60.385017"
+       y1="50.897442"
+       y2="67.586258"
        id="imagebot_33"
        gradientTransform="scale(0.90524326,1.1046754)"
        gradientUnits="userSpaceOnUse">
@@ -213,10 +213,10 @@
          id="stop58" />
     </linearGradient>
     <linearGradient
-       x1="28.075612"
-       x2="40.836389"
-       y1="49.283995"
-       y2="50.346866"
+       x1="28.075611"
+       x2="40.836388"
+       y1="49.283997"
+       y2="50.346867"
        id="imagebot_32"
        gradientTransform="scale(0.72511524,1.3790911)"
        gradientUnits="userSpaceOnUse">
@@ -247,10 +247,10 @@
          id="stop68" />
     </linearGradient>
     <linearGradient
-       x1="38.675924"
+       x1="38.675922"
        x2="54.554817"
-       y1="98.812223"
-       y2="77.779393"
+       y1="98.812225"
+       y2="77.779396"
        id="imagebot_30"
        gradientTransform="scale(0.99131401,1.0087621)"
        gradientUnits="userSpaceOnUse">
@@ -264,10 +264,10 @@
          id="stop73" />
     </linearGradient>
     <linearGradient
-       x1="20.790004"
+       x1="20.790005"
        x2="31.843027"
-       y1="95.750246"
-       y2="95.750246"
+       y1="95.750244"
+       y2="95.750244"
        id="imagebot_29"
        gradientTransform="scale(1.0387203,0.96272303)"
        gradientUnits="userSpaceOnUse">
@@ -281,10 +281,10 @@
          id="stop78" />
     </linearGradient>
     <linearGradient
-       x1="76.536394"
-       x2="81.25317"
-       y1="81.96275"
-       y2="56.5431"
+       x1="76.536392"
+       x2="81.253166"
+       y1="81.962753"
+       y2="56.543098"
        id="imagebot_28"
        gradientTransform="scale(0.72888266,1.371963)"
        gradientUnits="userSpaceOnUse">
@@ -298,10 +298,10 @@
          id="stop83" />
     </linearGradient>
     <linearGradient
-       x1="36.740315"
+       x1="36.740314"
        x2="58.447285"
-       y1="175.78681"
-       y2="175.78681"
+       y1="175.7868"
+       y2="175.7868"
        id="imagebot_27"
        gradientTransform="scale(1.4696662,0.68042661)"
        gradientUnits="userSpaceOnUse">
@@ -316,7 +316,7 @@
     </linearGradient>
     <linearGradient
        x1="39.877865"
-       x2="92.103151"
+       x2="92.103149"
        y1="75.673126"
        y2="131.09425"
        id="imagebot_26"
@@ -358,9 +358,9 @@
          id="stop104" />
     </radialGradient>
     <linearGradient
-       x1="138.81893"
-       x2="154.71409"
-       y1="75.457345"
+       x1="138.81892"
+       x2="154.7141"
+       y1="75.457344"
        y2="139.8506"
        id="imagebot_24"
        gradientTransform="scale(0.60231084,1.6602723)"
@@ -383,7 +383,7 @@
          id="stop113" />
     </linearGradient>
     <linearGradient
-       x1="149.05915"
+       x1="149.05914"
        x2="208.24471"
        y1="159.06241"
        y2="107.05201"
@@ -424,10 +424,10 @@
          id="stop127" />
     </linearGradient>
     <linearGradient
-       x1="95.638703"
+       x1="95.638702"
        x2="149.59831"
-       y1="97.749706"
-       y2="134.13157"
+       y1="97.749702"
+       y2="134.13158"
        id="imagebot_21"
        gradientTransform="scale(0.76738768,1.3031223)"
        gradientUnits="userSpaceOnUse">
@@ -446,7 +446,7 @@
     <linearGradient
        x1="175.64368"
        x2="175.64368"
-       y1="181.10418"
+       y1="181.10419"
        y2="133.82256"
        id="imagebot_20"
        gradientTransform="scale(0.92636411,1.0794891)"
@@ -461,8 +461,8 @@
          id="stop139" />
     </linearGradient>
     <linearGradient
-       x1="257.88487"
-       x2="257.88487"
+       x1="257.88486"
+       x2="257.88486"
        y1="117.35495"
        y2="130.12584"
        id="imagebot_19"
@@ -480,8 +480,8 @@
     <linearGradient
        x1="225.83452"
        x2="239.41594"
-       y1="84.397047"
-       y2="130.06399"
+       y1="84.397049"
+       y2="130.064"
        id="imagebot_18"
        gradientTransform="scale(0.91004745,1.0988438)"
        gradientUnits="userSpaceOnUse">
@@ -495,10 +495,10 @@
          id="stop149" />
     </linearGradient>
     <linearGradient
-       x1="343.41067"
-       x2="370.35808"
+       x1="343.41068"
+       x2="370.35809"
        y1="60.909481"
-       y2="88.120319"
+       y2="88.120316"
        id="imagebot_17"
        gradientTransform="scale(0.63716716,1.5694469)"
        gradientUnits="userSpaceOnUse">
@@ -511,10 +511,10 @@
          id="stop154" />
     </linearGradient>
     <linearGradient
-       x1="273.49145"
-       x2="296.10087"
-       y1="59.675647"
-       y2="59.675647"
+       x1="273.49146"
+       x2="296.10086"
+       y1="59.675648"
+       y2="59.675648"
        id="imagebot_16"
        gradientTransform="scale(0.77578292,1.2890204)"
        gradientUnits="userSpaceOnUse">
@@ -528,9 +528,9 @@
          id="stop159" />
     </linearGradient>
     <linearGradient
-       x1="382.8753"
-       x2="363.79673"
-       y1="51.474825"
+       x1="382.87531"
+       x2="363.79672"
+       y1="51.474827"
        y2="55.196609"
        id="imagebot_15"
        gradientTransform="scale(0.62897745,1.5898821)"
@@ -544,10 +544,10 @@
          id="stop164" />
     </linearGradient>
     <linearGradient
-       x1="325.83393"
-       x2="339.23579"
-       y1="72.654875"
-       y2="90.620833"
+       x1="325.83392"
+       x2="339.23578"
+       y1="72.654877"
+       y2="90.620834"
        id="imagebot_14"
        gradientTransform="scale(0.72899125,1.3717586)"
        gradientUnits="userSpaceOnUse">
@@ -561,10 +561,10 @@
          id="stop169" />
     </linearGradient>
     <linearGradient
-       x1="136.88607"
+       x1="136.88606"
        x2="154.26805"
-       y1="238.94239"
-       y2="181.28309"
+       y1="238.94238"
+       y2="181.2831"
        id="imagebot_13"
        gradientTransform="scale(1.2507455,0.79952319)"
        gradientUnits="userSpaceOnUse">
@@ -596,9 +596,9 @@
     </linearGradient>
     <linearGradient
        x1="190.99292"
-       x2="91.820022"
-       y1="218.70246"
-       y2="218.70246"
+       x2="91.820023"
+       y1="218.70245"
+       y2="218.70245"
        id="imagebot_11"
        gradientTransform="scale(1.1546501,0.86606322)"
        gradientUnits="userSpaceOnUse">
@@ -611,9 +611,9 @@
          id="stop184" />
     </linearGradient>
     <linearGradient
-       x1="58.993615"
-       x2="64.954892"
-       y1="31.472173"
+       x1="58.993614"
+       x2="64.954895"
+       y1="31.472174"
        y2="39.551815"
        id="imagebot_10"
        gradientTransform="scale(1.0695732,0.93495234)"
@@ -628,7 +628,7 @@
     </linearGradient>
     <linearGradient
        x1="29.00659"
-       x2="47.352758"
+       x2="47.352757"
        y1="118.79569"
        y2="118.79569"
        id="imagebot_9"
@@ -678,9 +678,9 @@
          id="stop206" />
     </linearGradient>
     <linearGradient
-       x1="133.69291"
+       x1="133.69292"
        x2="133.92284"
-       y1="99.437066"
+       y1="99.437065"
        y2="152.2762"
        id="imagebot_6"
        gradientTransform="scale(1.1319966,0.88339491)"
@@ -701,7 +701,7 @@
        x1="190.56784"
        x2="206.09686"
        y1="106.23701"
-       y2="147.15145"
+       y2="147.15144"
        id="imagebot_5"
        gradientTransform="scale(1.0290307,0.97178834)"
        gradientUnits="userSpaceOnUse">
@@ -714,7 +714,7 @@
          id="stop218" />
     </linearGradient>
     <linearGradient
-       x1="44.470023"
+       x1="44.470024"
        x2="62.515572"
        y1="203.41611"
        y2="170.4476"
@@ -731,8 +731,8 @@
          id="stop223" />
     </linearGradient>
     <linearGradient
-       x1="66.759187"
-       x2="70.590201"
+       x1="66.759186"
+       x2="70.590202"
        y1="160.07635"
        y2="133.83742"
        id="imagebot_3"
@@ -750,7 +750,7 @@
     <linearGradient
        x1="55.14209"
        x2="120.95693"
-       y1="84.528741"
+       y1="84.52874"
        y2="121.38797"
        id="imagebot_2"
        gradientTransform="scale(0.72314915,1.3828406)"
@@ -776,7 +776,8 @@
     </linearGradient>
   </defs>
   <g
-     id="imagebot_44">
+     id="imagebot_44"
+     transform="translate(-15.428411,-96.43137)">
     <title
        id="title244">imagebot_44</title>
   </g>
@@ -785,14 +786,15 @@
      stroke-miterlimit="10"
      display="none"
      stroke="#000000"
-     id="imagebot_43">
+     id="imagebot_43"
+     transform="translate(-15.428411,-96.43137)">
     <polygon
        id="imagebot_47"
        fill="none"
        stroke-miterlimit="10"
        display="none"
        stroke="#000000"
-       points="133.63,17.918 75.719,20.74 60.772,42.11 93.892,68.589 156.95,86.237 212.17,84.081 228.64,62.352 195.38,35.414 " />
+       points="60.772,42.11 93.892,68.589 156.95,86.237 212.17,84.081 228.64,62.352 195.38,35.414 133.63,17.918 75.719,20.74 " />
     <polyline
        id="imagebot_48"
        fill="none"
@@ -805,238 +807,238 @@
   </g>
   <g
      id="imagebot_1"
-     transform="matrix(1.3368686,0,0,1.3368686,-10.195349,72.473348)">
+     transform="matrix(1.3368686,0,0,1.3368686,-25.62376,-23.958022)">
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_50"
        fill="url(#imagebot_41)"
-       points="60.772,42.11 93.892,68.589 156.95,86.237 212.17,84.081 228.64,62.352 195.38,35.414 133.63,17.918 75.719,20.74 "
+       points="156.95,86.237 212.17,84.081 228.64,62.352 195.38,35.414 133.63,17.918 75.719,20.74 60.772,42.11 93.892,68.589 "
        style="fill:url(#imagebot_41)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_51"
        fill="url(#imagebot_40)"
-       points="184.79,108.04 156.95,86.237 212.17,84.081 "
+       points="212.17,84.081 184.79,108.04 156.95,86.237 "
        style="fill:url(#imagebot_40)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_52"
        fill="url(#imagebot_39)"
-       points="188.28,140.2 208.9,144.39 184.79,108.04 "
+       points="184.79,108.04 188.28,140.2 208.9,144.39 "
        style="fill:url(#imagebot_39)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_53"
        fill="url(#imagebot_38)"
-       points="188.28,140.2 184.79,108.04 150.16,138.32 169.12,144.46 "
+       points="150.16,138.32 169.12,144.46 188.28,140.2 184.79,108.04 "
        style="fill:url(#imagebot_38)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_54"
        fill="url(#imagebot_37)"
-       points="118.05,98.547 150.16,138.32 127.9,139.22 108.62,127.16 "
+       points="127.9,139.22 108.62,127.16 118.05,98.547 150.16,138.32 "
        style="fill:url(#imagebot_37)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_55"
        fill="url(#imagebot_36)"
-       points="150.16,138.32 127.9,139.22 148.42,147.79 169.12,144.46 "
+       points="148.42,147.79 169.12,144.46 150.16,138.32 127.9,139.22 "
        style="fill:url(#imagebot_36)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_56"
        fill="#efefef"
-       points="108.62,127.16 127.9,139.22 106.02,138.32 85.921,126.91 " />
+       points="106.02,138.32 85.921,126.91 108.62,127.16 127.9,139.22 " />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_57"
        fill="url(#imagebot_35)"
-       points="188.28,140.2 169.12,144.47 184.61,149.24 208.9,144.39 "
+       points="184.61,149.24 208.9,144.39 188.28,140.2 169.12,144.47 "
        style="fill:url(#imagebot_35)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_58"
        fill="url(#imagebot_34)"
-       points="67.083,114.67 118.05,98.547 93.892,68.589 59.495,73.896 "
+       points="93.892,68.589 59.495,73.896 67.083,114.67 118.05,98.547 "
        style="fill:url(#imagebot_34)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_59"
        fill="url(#imagebot_33)"
-       points="51.272,39.053 37.507,51.986 21.595,86.861 59.495,73.896 60.731,43.14 60.772,42.11 "
+       points="21.595,86.861 59.495,73.896 60.731,43.14 60.772,42.11 51.272,39.053 37.507,51.986 "
        style="fill:url(#imagebot_33)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_60"
        fill="url(#imagebot_32)"
-       points="19.17,77.726 21.595,86.861 37.507,51.986 "
+       points="37.507,51.986 19.17,77.726 21.595,86.861 "
        style="fill:url(#imagebot_32)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_61"
        fill="url(#imagebot_31)"
-       points="33.076,96.131 59.495,73.896 21.595,86.861 "
+       points="21.595,86.861 33.076,96.131 59.495,73.896 "
        style="fill:url(#imagebot_31)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_62"
        fill="url(#imagebot_30)"
-       points="45.421,100.78 59.495,73.896 33.076,96.131 "
+       points="33.076,96.131 45.421,100.78 59.495,73.896 "
        style="fill:url(#imagebot_30)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_63"
        fill="url(#imagebot_29)"
-       points="33.076,96.131 21.595,86.861 27.77,97.502 "
+       points="27.77,97.502 33.076,96.131 21.595,86.861 "
        style="fill:url(#imagebot_29)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_64"
        fill="url(#imagebot_28)"
-       points="53.996,112.22 67.083,114.67 59.495,73.896 45.421,100.78 "
+       points="59.495,73.896 45.421,100.78 53.996,112.22 67.083,114.67 "
        style="fill:url(#imagebot_28)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_65"
        fill="url(#imagebot_27)"
-       points="67.083,114.67 85.898,126.99 67.083,125.02 53.996,112.22 "
+       points="67.083,125.02 53.996,112.22 67.083,114.67 85.898,126.99 "
        style="fill:url(#imagebot_27)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_66"
        fill="url(#imagebot_26)"
-       points="33.076,96.131 27.77,97.502 77.439,178.12 42.454,111.22 "
+       points="77.439,178.12 42.454,111.22 33.076,96.131 27.77,97.502 "
        style="fill:url(#imagebot_26)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_67"
        fill="url(#imagebot_25)"
-       points="27.77,97.502 77.439,178.12 106.02,232.35 "
+       points="106.02,232.35 27.77,97.502 77.439,178.12 "
        style="fill:url(#imagebot_25)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_68"
        fill="url(#imagebot_24)"
-       points="106.02,232.35 106.02,191.14 67.083,125.02 77.439,178.12 "
+       points="67.083,125.02 77.439,178.12 106.02,232.35 106.02,191.14 "
        style="fill:url(#imagebot_24)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_69"
        fill="url(#imagebot_23)"
-       points="106.02,191.14 148.42,147.79 140.81,195.5 106.02,232.35 "
+       points="140.81,195.5 106.02,232.35 106.02,191.14 148.42,147.79 "
        style="fill:url(#imagebot_23)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_70"
        fill="url(#imagebot_22)"
-       points="127.9,139.22 106.02,138.32 106.02,191.14 148.42,147.79 "
+       points="106.02,191.14 148.42,147.79 127.9,139.22 106.02,138.32 "
        style="fill:url(#imagebot_22)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_71"
        fill="url(#imagebot_21)"
-       points="106.02,191.14 67.083,125.02 85.898,126.99 106.02,138.32 "
+       points="85.898,126.99 106.02,138.32 106.02,191.14 67.083,125.02 "
        style="fill:url(#imagebot_21)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_72"
        fill="url(#imagebot_20)"
-       points="140.81,195.5 148.42,147.79 169.12,144.46 184.61,149.24 "
+       points="169.12,144.46 184.61,149.24 140.81,195.5 148.42,147.79 "
        style="fill:url(#imagebot_20)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_73"
        fill="#efefef"
-       points="220.53,146.46 208.92,144.54 223.44,138.32 236.52,138.37 " />
+       points="223.44,138.32 236.52,138.37 220.53,146.46 208.92,144.54 " />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_74"
        fill="url(#imagebot_19)"
-       points="236.52,138.37 248.53,124.79 242.47,126.91 "
+       points="242.47,126.91 236.52,138.37 248.53,124.79 "
        style="fill:url(#imagebot_19)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_75"
        fill="url(#imagebot_18)"
-       points="229.71,91.496 223.44,138.32 184.79,108.04 212.17,84.081 "
+       points="184.79,108.04 212.17,84.081 229.71,91.496 223.44,138.32 "
        style="fill:url(#imagebot_18)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_76"
        fill="url(#imagebot_17)"
-       points="236.52,138.37 242.47,126.91 229.71,91.496 223.44,138.32 "
+       points="229.71,91.496 223.44,138.32 236.52,138.37 242.47,126.91 "
        style="fill:url(#imagebot_17)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_77"
        fill="url(#imagebot_16)"
-       points="229.71,91.496 212.17,84.081 228.64,62.352 "
+       points="228.64,62.352 229.71,91.496 212.17,84.081 "
        style="fill:url(#imagebot_16)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_78"
        fill="url(#imagebot_15)"
-       points="237.96,77.52 245.52,105.02 229.71,91.496 228.64,62.352 "
+       points="229.71,91.496 228.64,62.352 237.96,77.52 245.52,105.02 "
        style="fill:url(#imagebot_15)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_79"
        fill="url(#imagebot_14)"
-       points="242.47,126.91 229.71,91.496 245.52,105.02 246.73,109.45 248.53,124.79 "
+       points="245.52,105.02 246.73,109.45 248.53,124.79 242.47,126.91 229.71,91.496 "
        style="fill:url(#imagebot_14)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_80"
        fill="url(#imagebot_13)"
-       points="208.92,144.54 220.53,146.46 140.81,195.5 184.61,149.24 "
+       points="140.81,195.5 184.61,149.24 208.92,144.54 220.53,146.46 "
        style="fill:url(#imagebot_13)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_81"
        fill="url(#imagebot_12)"
-       points="220.53,146.46 168.83,187.12 236.52,138.37 "
+       points="236.52,138.37 220.53,146.46 168.83,187.12 "
        style="fill:url(#imagebot_12)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_82"
        fill="url(#imagebot_11)"
-       points="140.81,195.5 106.02,232.35 168.83,187.12 220.53,146.46 "
+       points="168.83,187.12 220.53,146.46 140.81,195.5 106.02,232.35 "
        style="fill:url(#imagebot_11)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_83"
        fill="url(#imagebot_10)"
-       points="60.772,42.11 75.719,20.74 51.272,39.053 "
+       points="51.272,39.053 60.772,42.11 75.719,20.74 "
        style="fill:url(#imagebot_10)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_84"
        fill="url(#imagebot_9)"
-       points="42.454,111.22 33.076,96.131 45.421,100.78 53.996,112.22 "
+       points="45.421,100.78 53.996,112.22 42.454,111.22 33.076,96.131 "
        style="fill:url(#imagebot_9)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_85"
        fill="url(#imagebot_8)"
-       points="93.892,68.589 60.772,42.11 59.495,73.896 "
+       points="59.495,73.896 93.892,68.589 60.772,42.11 "
        style="fill:url(#imagebot_8)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_86"
        fill="url(#imagebot_7)"
-       points="118.05,98.547 93.892,68.589 156.95,86.237 "
+       points="156.95,86.237 118.05,98.547 93.892,68.589 "
        style="fill:url(#imagebot_7)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_87"
        fill="url(#imagebot_6)"
-       points="150.16,138.32 118.05,98.547 156.95,86.237 184.79,108.04 "
+       points="156.95,86.237 184.79,108.04 150.16,138.32 118.05,98.547 "
        style="fill:url(#imagebot_6)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_88"
        fill="url(#imagebot_5)"
-       points="223.44,138.32 208.92,144.54 184.79,108.04 "
+       points="184.79,108.04 223.44,138.32 208.92,144.54 "
        style="fill:url(#imagebot_5)" />
     <line
        transform="translate(-0.003,0.003)"
@@ -1051,13 +1053,13 @@
        transform="translate(-0.003,0.003)"
        id="imagebot_90"
        fill="url(#imagebot_3)"
-       points="118.05,98.547 108.62,127.16 85.921,126.91 67.083,114.67 "
+       points="85.921,126.91 67.083,114.67 118.05,98.547 108.62,127.16 "
        style="fill:url(#imagebot_3)" />
     <polygon
        transform="translate(-0.003,0.003)"
        id="imagebot_91"
        fill="url(#imagebot_2)"
-       points="67.083,125.02 53.996,112.22 42.454,111.22 77.439,178.12 "
+       points="42.454,111.22 77.439,178.12 67.083,125.02 53.996,112.22 "
        style="fill:url(#imagebot_2)" />
     <title
        id="title294">imagebot_1</title>
@@ -1069,19 +1071,19 @@
     <dc:format>image/svg+xml</dc:format>
     <dc:type
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title></dc:title>
+    <dc:title />
   </cc:Work>
 </rdf:RDF>
 </metadata>
   <g
      id="imagebot_42"
-     transform="matrix(1.3368686,0,0,1.3368686,-10.195349,72.473348)">
+     transform="matrix(1.3368686,0,0,1.3368686,-25.62376,-23.958022)">
     <polygon
        opacity="0.28"
        transform="translate(-0.003,0.003)"
        id="imagebot_49"
        fill="#7f00ff"
-       points="37.507,51.986 19.17,77.726 21.595,86.861 106.02,232.35 236.52,138.37 248.53,124.79 246.73,109.45 237.96,77.52 228.64,62.352 195.38,35.414 133.63,17.918 75.719,20.74 51.272,39.053 " />
+       points="21.595,86.861 106.02,232.35 236.52,138.37 248.53,124.79 246.73,109.45 237.96,77.52 228.64,62.352 195.38,35.414 133.63,17.918 75.719,20.74 51.272,39.053 37.507,51.986 19.17,77.726 " />
     <title
        id="title300">imagebot_42</title>
   </g>

@@ -10,14 +10,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="balloon.svg"
-   viewBox="0 0 472.44095 332.59842"
+   viewBox="0 0 159.28548 313.34501"
    sodipodi:version="0.32"
    version="1.0"
    y="0"
    x="0"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="125mm"
-   height="88mm">
+   width="42.144283mm"
+   height="82.905869mm">
   <sodipodi:namedview
      id="base"
      bordercolor="#666666"
@@ -28,8 +28,8 @@
      inkscape:window-x="-8"
      borderopacity="1.0"
      inkscape:current-layer="svg2"
-     inkscape:cx="143.5319"
-     inkscape:cy="183.51925"
+     inkscape:cx="-11.708021"
+     inkscape:cy="173.51415"
      inkscape:window-y="-8"
      inkscape:window-height="1017"
      inkscape:pageopacity="0.0"
@@ -334,7 +334,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(0.29066282,0,0,0.29066282,149.72987,6.2951176)">
+     transform="matrix(0.29066282,0,0,0.29066282,-5.5100505,-3.7099811)">
     <path
        id="path2191"
        style="fill:url(#linearGradient2199);fill-rule:evenodd"

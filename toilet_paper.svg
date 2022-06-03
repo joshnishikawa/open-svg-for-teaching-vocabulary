@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
+   width="82.579842mm"
+   height="85.318604mm"
    version="1.1"
-   viewBox="0 0 442.92294 311.80986"
+   viewBox="0 0 292.61205 302.30888"
    id="svg49"
    sodipodi:docname="toilet_paper.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,12 +40,13 @@
      id="namedview51"
      showgrid="false"
      inkscape:zoom="0.52715727"
-     inkscape:cx="421.398"
-     inkscape:cy="491.73643"
+     inkscape:cx="339.82842"
+     inkscape:cy="486.04133"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg49" />
+     inkscape:current-layer="svg49"
+     inkscape:document-rotation="0" />
   <defs
      id="defs27">
     <linearGradient
@@ -130,7 +131,7 @@
     </linearGradient>
   </defs>
   <g
-     transform="matrix(0.39998482,0,0,0.39998482,140.4987,-39.302971)"
+     transform="matrix(0.39998482,0,0,0.39998482,64.02557,-44.642247)"
      id="g47">
     <g
        transform="matrix(2,0,0,2,-552.81,-537.84)"

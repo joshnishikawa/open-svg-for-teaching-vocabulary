@@ -10,9 +10,9 @@
    version="1.1"
    x="0"
    y="0"
-   width="88mm"
-   height="125mm"
-   viewBox="0 0 332.59843 472.44094"
+   width="81.352325mm"
+   height="77.663651mm"
+   viewBox="0 0 307.47336 293.5319"
    id="svg17969"
    sodipodi:docname="urchin.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,18 +37,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="687"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview17971"
      showgrid="false"
      units="mm"
      inkscape:zoom="0.4853743"
-     inkscape:cx="312"
-     inkscape:cy="312"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg17969" />
+     inkscape:cx="298.02177"
+     inkscape:cy="250.36053"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17969"
+     inkscape:document-rotation="0" />
   <defs
      id="defs13942">
     <linearGradient
@@ -39910,7 +39911,7 @@
   </defs>
   <g
      id="Layer_1"
-     transform="matrix(0.61103779,0,0,0.61103779,-36.106703,21.457624)">
+     transform="matrix(0.61103779,0,0,0.61103779,-50.084935,-40.181845)">
     <path
        d="m 515.471,254.148 c 4.88,-9.275 14.414,-39.03 7.601,-52.924 -6.821,-13.894 -12.551,-10.61 -15.806,-14.485 -3.263,-3.867 -3.895,-7.41 -9.169,-9.935 -5.302,-2.51 -20.995,-11.39 -27.555,-12.185 -6.575,-0.816 -34.376,-6.652 -41.661,-5.949 -7.298,0.703 -8.437,-0.78 -14.638,-2.334 -2.166,4.528 -0.535,2.053 -5.583,1.976 -5.056,-0.091 -5.977,0.865 -9.029,-2.44 0,0 -1.518,-0.731 -8.641,-1.35 -7.122,-0.611 -12.016,-2.011 -18.576,-2.819 -6.568,-0.816 -7.559,-3.593 -17.466,-3.214 -9.921,0.38 -21.628,4.529 -26.163,2.356 -4.529,-2.145 -28.709,5.8 -38.482,2.988 -9.788,-2.813 -86.534,35.719 -95.098,38.123 -8.557,2.412 -19.863,7.679 -24.265,13.001 -4.395,5.323 -4.359,7.2 -8.184,12.326 -3.832,5.112 -12.973,16.524 -5.836,27.801 7.137,11.293 35.915,48.158 49.155,55.393 13.24,7.242 203.822,1.16 203.822,1.16 z"
        fill="url(#Gradient_1)"

@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 472.44093 332.59841"
+   viewBox="0 0 468.64044 292.16126"
    version="1.1"
    id="svg162"
    sodipodi:docname="dump_truck.svg"
-   width="125mm"
-   height="88mm"
+   width="123.99445mm"
+   height="77.301003mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata166">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,19 +42,20 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.9901178"
-     inkscape:cx="526.20001"
-     inkscape:cy="372.04501"
+     inkscape:cx="525.14072"
+     inkscape:cy="351.69862"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg162" />
+     inkscape:current-layer="svg162"
+     inkscape:document-rotation="0" />
   <defs
      id="defs38">
     <linearGradient
        id="m"
-       x1="324.02251"
+       x1="324.02252"
        x2="496.177"
-       y1="326.38979"
+       y1="326.3898"
        y2="321.33591"
        gradientTransform="scale(1.6286573,0.6140027)"
        gradientUnits="userSpaceOnUse">
@@ -69,20 +70,20 @@
     </linearGradient>
     <linearGradient
        id="n"
-       x1="145.94959"
+       x1="145.94958"
        x2="312.77921"
-       y1="683.53667"
-       y2="664.34859"
+       y1="683.53668"
+       y2="664.34857"
        xlink:href="#a"
        gradientTransform="scale(1.3623619,0.73401937)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="s"
-       x1="846.06452"
-       x2="445.81078"
+       x1="846.06451"
+       x2="445.81079"
        y1="154.21895"
        y2="158.83206"
-       gradientTransform="matrix(0.35063882,0,0,0.65529109,-18.339039,-14.6673)"
+       gradientTransform="matrix(0.35063882,0,0,0.65529109,-19.398325,-35.013695)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
@@ -94,10 +95,10 @@
     </linearGradient>
     <linearGradient
        id="o"
-       x1="9.0057409"
+       x1="9.0057411"
        x2="267.51514"
        y1="761.90259"
-       y2="561.04286"
+       y2="561.04285"
        xlink:href="#a"
        gradientTransform="scale(1.5304051,0.65342178)"
        gradientUnits="userSpaceOnUse" />
@@ -105,7 +106,7 @@
        id="q"
        x1="186.71173"
        x2="324.48267"
-       y1="1442.1131"
+       y1="1442.1132"
        y2="1948.4865"
        gradientTransform="scale(2.5446508,0.39298124)"
        gradientUnits="userSpaceOnUse">
@@ -119,10 +120,10 @@
     </linearGradient>
     <linearGradient
        id="r"
-       x1="556.20467"
-       x2="635.95926"
-       y1="607.79381"
-       y2="607.79381"
+       x1="556.20465"
+       x2="635.95929"
+       y1="607.79382"
+       y2="607.79382"
        gradientTransform="scale(1.2570502,0.7955132)"
        gradientUnits="userSpaceOnUse">
       <stop
@@ -141,10 +142,10 @@
     </linearGradient>
     <linearGradient
        id="p"
-       x1="258.79394"
-       x2="181.13706"
-       y1="598.5503"
-       y2="614.5048"
+       x1="258.79395"
+       x2="181.13705"
+       y1="598.55029"
+       y2="614.50482"
        gradientTransform="scale(1.3683373,0.73081394)"
        gradientUnits="userSpaceOnUse">
       <stop
@@ -158,18 +159,18 @@
     <linearGradient
        id="l"
        x1="509.02536"
-       x2="535.69424"
+       x2="535.69421"
        y1="190.54433"
-       y2="-2.9535192"
+       y2="-2.9535191"
        xlink:href="#a"
        gradientTransform="scale(1.0675892,0.93668989)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="k"
-       x1="460.47008"
-       x2="438.61759"
+       x1="460.47009"
+       x2="438.61758"
        y1="1095.6229"
-       y2="587.13677"
+       y2="587.13678"
        xlink:href="#a"
        gradientTransform="scale(1.7885851,0.55910116)"
        gradientUnits="userSpaceOnUse" />
@@ -187,7 +188,7 @@
   <g
      fill-rule="evenodd"
      id="g52"
-     transform="matrix(0.47934382,0,0,0.47934382,-18.339039,-14.6673)">
+     transform="matrix(0.47934382,0,0,0.47934382,-19.398325,-35.013695)">
     <path
        d="m 51.453,571.93 c 0,0 472.6,99.579 570.92,99.633 98.323,0.054 384.06,-35.951 348.22,-48.025 -35.85,-12.074 -255.37,-47.996 -400.31,-54.644 -144.94,-6.648 -164.64,-26.941 -246.36,-19.624 -81.725,7.3174 -264.95,-0.93958 -272.47,22.659 z"
        fill="url(#q)"
@@ -224,8 +225,8 @@
        id="path50" />
   </g>
   <rect
-     x="366.3056"
-     y="76.479919"
+     x="365.24631"
+     y="56.133526"
      width="25.292576"
      height="35.639214"
      rx="4.2153974"
@@ -240,7 +241,7 @@
      fill-rule="evenodd"
      stroke="#000000"
      id="g70"
-     transform="matrix(0.47934382,0,0,0.47934382,-18.339039,-14.6673)">
+     transform="matrix(0.47934382,0,0,0.47934382,-19.398325,-35.013695)">
     <path
        d="m 461.99,159.26 -6.9713,90.627 112.94,27.885 264.91,2.7885 -6.9714,-118.51 -237.03,-13.943 -126.88,11.154 z"
        fill="url(#m)"
@@ -285,7 +286,7 @@
      stroke-linejoin="round"
      stroke-width="5.46"
      id="g78"
-     transform="matrix(0.47934382,0,0,0.47934382,-18.339039,-14.6673)">
+     transform="matrix(0.47934382,0,0,0.47934382,-19.398325,-35.013695)">
     <path
        d="m 622.78,560.34 a 56.153,91.546 0 1 1 -112.3,0 56.153,91.546 0 1 1 112.3,0 z"
        fill="#232323"
@@ -302,7 +303,7 @@
   <g
      fill-rule="evenodd"
      id="g110"
-     transform="matrix(0.47934382,0,0,0.47934382,-18.339039,-14.6673)">
+     transform="matrix(0.47934382,0,0,0.47934382,-19.398325,-35.013695)">
     <g
        stroke="#000000"
        id="g88">
@@ -375,7 +376,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      id="g140"
-     transform="matrix(0.47934382,0,0,0.47934382,-18.339039,-14.6673)">
+     transform="matrix(0.47934382,0,0,0.47934382,-19.398325,-35.013695)">
     <g
        fill-opacity="0.649"
        stroke="#8b8a91"
@@ -465,7 +466,7 @@
   <g
      fill-rule="evenodd"
      id="g152"
-     transform="matrix(0.47934382,0,0,0.47934382,-18.339039,-14.6673)">
+     transform="matrix(0.47934382,0,0,0.47934382,-19.398325,-35.013695)">
     <path
        d="m 58.383,256.27 293.74,-25.995"
        fill="none"
@@ -491,7 +492,7 @@
     </g>
   </g>
   <path
-     d="m 227.19046,63.834838 c -2.54762,0 -4.59082,1.683647 -4.59082,3.768073 v 6.269338 c 0,2.084427 2.04315,3.751632 4.59082,3.751632 -2.54762,0 -4.59082,4.756625 -4.59082,10.662524 v 17.770715 c 0,5.90599 2.04315,10.66252 4.59082,10.66252 h 18.39625 c 2.54762,0 4.60722,-4.75657 4.60722,-10.66252 V 88.286405 c 0,-5.905995 -2.0596,-10.662524 -4.60722,-10.662524 2.54762,0 4.60722,-1.667205 4.60722,-3.751632 v -6.269338 c 0,-2.084426 -2.0596,-3.768073 -4.60722,-3.768073 z"
+     d="m 226.13117,43.488443 c -2.54762,0 -4.59082,1.683647 -4.59082,3.768073 v 6.269338 c 0,2.084427 2.04315,3.751632 4.59082,3.751632 -2.54762,0 -4.59082,4.756625 -4.59082,10.662524 v 17.770715 c 0,5.90599 2.04315,10.66252 4.59082,10.66252 h 18.39625 c 2.54762,0 4.60722,-4.75657 4.60722,-10.66252 V 67.94001 c 0,-5.905995 -2.0596,-10.662524 -4.60722,-10.662524 2.54762,0 4.60722,-1.667205 4.60722,-3.751632 v -6.269338 c 0,-2.084426 -2.0596,-3.768073 -4.60722,-3.768073 z"
      fill="url(#s)"
      stroke="#000000"
      stroke-linecap="round"
@@ -502,7 +503,7 @@
   <g
      fill-rule="evenodd"
      id="g160"
-     transform="matrix(0.47934382,0,0,0.47934382,-18.339039,-14.6673)">
+     transform="matrix(0.47934382,0,0,0.47934382,-19.398325,-35.013695)">
     <path
        d="m 441.71,404.28 1.8396,144.41 51.51,8.2784 c 0,0 -31.274,-14.717 -38.632,-46.911 -7.3586,-32.194 -14.717,-105.78 -14.717,-105.78 z"
        fill-opacity="0.622"

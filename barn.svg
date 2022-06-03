@@ -11,13 +11,13 @@
    id="Layer_1"
    enable-background="new 0 0 612 792"
    xml:space="preserve"
-   viewBox="0 0 472.44095 332.59842"
+   viewBox="0 0 318.73354 323.3772"
    version="1.0"
    y="0px"
    x="0px"
    sodipodi:docname="barn.svg"
-   width="125mm"
-   height="88mm"
+   width="84.331581mm"
+   height="85.560219mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"><defs
    id="defs2584" /><sodipodi:namedview
    pagecolor="#ffffff"
@@ -34,15 +34,16 @@
    showgrid="false"
    units="mm"
    inkscape:zoom="1.0448595"
-   inkscape:cx="306"
-   inkscape:cy="396"
+   inkscape:cx="223.84388"
+   inkscape:cy="389.48593"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0" />
 <switch
    id="switch2577"
-   transform="matrix(0.54503184,0,0,0.54503184,77.544058,-4.3391495)">
+   transform="matrix(0.54503184,0,0,0.54503184,-4.6120594,-10.853219)">
 	<foreignObject
    y="0"
    x="0"
@@ -170,7 +171,7 @@
    id="stop48" />
 				</linearGradient>
 				<polygon
-   points="476.72,416.7 299.98,309.21 489.03,393.18 "
+   points="489.03,393.18 476.72,416.7 299.98,309.21 "
    fill="url(#SVGID_1_)"
    id="polygon51"
    style="fill:url(#SVGID_1_)" />
@@ -272,7 +273,7 @@
    id="stop95" />
 				</linearGradient>
 				<polygon
-   points="432.53,468.02 299.98,309.21 451.78,449.74 "
+   points="451.78,449.74 432.53,468.02 299.98,309.21 "
    fill="url(#SVGID_2_)"
    id="polygon98"
    style="fill:url(#SVGID_2_)" />
@@ -374,7 +375,7 @@
    id="stop142" />
 				</linearGradient>
 				<polygon
-   points="374.14,502.32 299.98,309.21 398.26,491.23 "
+   points="398.26,491.23 374.14,502.32 299.98,309.21 "
    fill="url(#SVGID_3_)"
    id="polygon145"
    style="fill:url(#SVGID_3_)" />
@@ -476,7 +477,7 @@
    id="stop189" />
 				</linearGradient>
 				<polygon
-   points="307.81,515.93 299.98,309.21 334.22,513.22 "
+   points="334.22,513.22 307.81,515.93 299.98,309.21 "
    fill="url(#SVGID_4_)"
    id="polygon192"
    style="fill:url(#SVGID_4_)" />
@@ -578,7 +579,7 @@
    id="stop236" />
 				</linearGradient>
 				<polygon
-   points="240.64,507.38 299.98,309.21 266.5,513.35 "
+   points="266.5,513.35 240.64,507.38 299.98,309.21 "
    fill="url(#SVGID_5_)"
    id="polygon239"
    style="fill:url(#SVGID_5_)" />
@@ -680,7 +681,7 @@
    id="stop283" />
 				</linearGradient>
 				<polygon
-   points="179.82,477.6 299.98,309.21 202.37,491.6 "
+   points="202.37,491.6 179.82,477.6 299.98,309.21 "
    fill="url(#SVGID_6_)"
    id="polygon286"
    style="fill:url(#SVGID_6_)" />
@@ -782,7 +783,7 @@
    id="stop330" />
 				</linearGradient>
 				<polygon
-   points="131.88,429.78 299.98,309.21 148.7,450.31 "
+   points="148.7,450.31 131.88,429.78 299.98,309.21 "
    fill="url(#SVGID_7_)"
    id="polygon333"
    style="fill:url(#SVGID_7_)" />
@@ -884,7 +885,7 @@
    id="stop377" />
 				</linearGradient>
 				<polygon
-   points="101.95,369.03 299.98,309.21 111.24,393.9 "
+   points="111.24,393.9 101.95,369.03 299.98,309.21 "
    fill="url(#SVGID_8_)"
    id="polygon380"
    style="fill:url(#SVGID_8_)" />
@@ -986,7 +987,7 @@
    id="stop424" />
 				</linearGradient>
 				<polygon
-   points="93.239,301.88 299.98,309.21 94.003,328.41 "
+   points="94.003,328.41 93.239,301.88 299.98,309.21 "
    fill="url(#SVGID_9_)"
    id="polygon427"
    style="fill:url(#SVGID_9_)" />
@@ -1088,7 +1089,7 @@
    id="stop471" />
 				</linearGradient>
 				<polygon
-   points="106.68,235.51 299.98,309.21 98.836,260.87 "
+   points="98.836,260.87 106.68,235.51 299.98,309.21 "
    fill="url(#SVGID_10_)"
    id="polygon474"
    style="fill:url(#SVGID_10_)" />
@@ -1190,7 +1191,7 @@
    id="stop518" />
 				</linearGradient>
 				<polygon
-   points="140.84,177.04 299.98,309.21 125.22,198.5 "
+   points="125.22,198.5 140.84,177.04 299.98,309.21 "
    fill="url(#SVGID_11_)"
    id="polygon521"
    style="fill:url(#SVGID_11_)" />
@@ -1292,7 +1293,7 @@
    id="stop565" />
 				</linearGradient>
 				<polygon
-   points="192.05,132.73 299.98,309.21 170.34,148 "
+   points="170.34,148 192.05,132.73 299.98,309.21 "
    fill="url(#SVGID_12_)"
    id="polygon568"
    style="fill:url(#SVGID_12_)" />
@@ -1394,7 +1395,7 @@
    id="stop612" />
 				</linearGradient>
 				<polygon
-   points="254.82,107.33 299.98,309.21 229.34,114.78 "
+   points="229.34,114.78 254.82,107.33 299.98,309.21 "
    fill="url(#SVGID_13_)"
    id="polygon615"
    style="fill:url(#SVGID_13_)" />
@@ -1496,7 +1497,7 @@
    id="stop659" />
 				</linearGradient>
 				<polygon
-   points="322.43,103.56 299.98,309.21 295.91,102.38 "
+   points="295.91,102.38 322.43,103.56 299.98,309.21 "
    fill="url(#SVGID_14_)"
    id="polygon662"
    style="fill:url(#SVGID_14_)" />
@@ -1598,7 +1599,7 @@
    id="stop706" />
 				</linearGradient>
 				<polygon
-   points="387.64,121.83 299.98,309.21 362.92,112.15 "
+   points="362.92,112.15 387.64,121.83 299.98,309.21 "
    fill="url(#SVGID_15_)"
    id="polygon709"
    style="fill:url(#SVGID_15_)" />
@@ -1700,7 +1701,7 @@
    id="stop753" />
 				</linearGradient>
 				<polygon
-   points="443.45,160.18 299.98,309.21 423.18,143.03 "
+   points="423.18,143.03 443.45,160.18 299.98,309.21 "
    fill="url(#SVGID_16_)"
    id="polygon756"
    style="fill:url(#SVGID_16_)" />
@@ -1802,7 +1803,7 @@
    id="stop800" />
 				</linearGradient>
 				<polygon
-   points="483.89,214.5 299.98,309.21 470.24,191.73 "
+   points="470.24,191.73 483.89,214.5 299.98,309.21 "
    fill="url(#SVGID_17_)"
    id="polygon803"
    style="fill:url(#SVGID_17_)" />
@@ -1904,7 +1905,7 @@
    id="stop847" />
 				</linearGradient>
 				<polygon
-   points="504.62,278.96 299.98,309.21 499.06,253 "
+   points="499.06,253 504.62,278.96 299.98,309.21 "
    fill="url(#SVGID_18_)"
    id="polygon850"
    style="fill:url(#SVGID_18_)" />
@@ -2006,7 +2007,7 @@
    id="stop894" />
 				</linearGradient>
 				<polygon
-   points="503.42,346.67 299.98,309.21 506.54,320.31 "
+   points="506.54,320.31 503.42,346.67 299.98,309.21 "
    fill="url(#SVGID_19_)"
    id="polygon897"
    style="fill:url(#SVGID_19_)" />
@@ -2095,7 +2096,7 @@
    id="stop935" />
 				</linearGradient>
 				<polygon
-   points="524.03,416.18 300.01,309.23 535.88,386.61 "
+   points="535.88,386.61 524.03,416.18 300.01,309.23 "
    fill="url(#SVGID_20_)"
    id="polygon938"
    style="fill:url(#SVGID_20_)" />
@@ -2181,7 +2182,7 @@
    id="stop974" />
 				</linearGradient>
 				<polygon
-   points="477.49,482.79 300.01,309.23 498.26,458.64 "
+   points="498.26,458.64 477.49,482.79 300.01,309.23 "
    fill="url(#SVGID_21_)"
    id="polygon977"
    style="fill:url(#SVGID_21_)" />
@@ -2267,7 +2268,7 @@
    id="stop1013" />
 				</linearGradient>
 				<polygon
-   points="411.94,530.81 300.01,309.23 439.39,514.65 "
+   points="439.39,514.65 411.94,530.81 300.01,309.23 "
    fill="url(#SVGID_22_)"
    id="polygon1016"
    style="fill:url(#SVGID_22_)" />
@@ -2353,7 +2354,7 @@
    id="stop1052" />
 				</linearGradient>
 				<polygon
-   points="334.38,555.08 300.01,309.23 365.59,548.65 "
+   points="365.59,548.65 334.38,555.08 300.01,309.23 "
    fill="url(#SVGID_23_)"
    id="polygon1055"
    style="fill:url(#SVGID_23_)" />
@@ -2439,7 +2440,7 @@
    id="stop1091" />
 				</linearGradient>
 				<polygon
-   points="253.15,553.01 300.01,309.23 284.76,557 "
+   points="284.76,557 253.15,553.01 300.01,309.23 "
    fill="url(#SVGID_24_)"
    id="polygon1094"
    style="fill:url(#SVGID_24_)" />
@@ -2525,7 +2526,7 @@
    id="stop1130" />
 				</linearGradient>
 				<polygon
-   points="176.94,524.82 300.01,309.23 205.56,538.8 "
+   points="205.56,538.8 176.94,524.82 300.01,309.23 "
    fill="url(#SVGID_25_)"
    id="polygon1133"
    style="fill:url(#SVGID_25_)" />
@@ -2611,7 +2612,7 @@
    id="stop1169" />
 				</linearGradient>
 				<polygon
-   points="113.92,473.52 300.01,309.23 136.49,496 "
+   points="136.49,496 113.92,473.52 300.01,309.23 "
    fill="url(#SVGID_26_)"
    id="polygon1172"
    style="fill:url(#SVGID_26_)" />
@@ -2697,7 +2698,7 @@
    id="stop1208" />
 				</linearGradient>
 				<polygon
-   points="70.832,404.63 300.01,309.23 84.936,433.19 "
+   points="84.936,433.19 70.832,404.63 300.01,309.23 "
    fill="url(#SVGID_27_)"
    id="polygon1211"
    style="fill:url(#SVGID_27_)" />
@@ -2783,7 +2784,7 @@
    id="stop1247" />
 				</linearGradient>
 				<polygon
-   points="52.306,325.5 300.01,309.23 56.43,357.09 "
+   points="56.43,357.09 52.306,325.5 300.01,309.23 "
    fill="url(#SVGID_28_)"
    id="polygon1250"
    style="fill:url(#SVGID_28_)" />
@@ -2869,7 +2870,7 @@
    id="stop1286" />
 				</linearGradient>
 				<polygon
-   points="60.322,244.64 300.01,309.23 54.024,275.87 "
+   points="54.024,275.87 60.322,244.64 300.01,309.23 "
    fill="url(#SVGID_29_)"
    id="polygon1289"
    style="fill:url(#SVGID_29_)" />
@@ -2955,7 +2956,7 @@
    id="stop1325" />
 				</linearGradient>
 				<polygon
-   points="94.023,170.7 300.01,309.23 77.978,198.22 "
+   points="77.978,198.22 94.023,170.7 300.01,309.23 "
    fill="url(#SVGID_30_)"
    id="polygon1328"
    style="fill:url(#SVGID_30_)" />
@@ -3041,7 +3042,7 @@
    id="stop1364" />
 				</linearGradient>
 				<polygon
-   points="149.8,111.6 300.01,309.23 125.72,132.47 "
+   points="125.72,132.47 149.8,111.6 300.01,309.23 "
    fill="url(#SVGID_31_)"
    id="polygon1367"
    style="fill:url(#SVGID_31_)" />
@@ -3127,7 +3128,7 @@
    id="stop1403" />
 				</linearGradient>
 				<polygon
-   points="221.67,73.681 300.01,309.23 192.14,85.654 "
+   points="192.14,85.654 221.67,73.681 300.01,309.23 "
    fill="url(#SVGID_32_)"
    id="polygon1406"
    style="fill:url(#SVGID_32_)" />
@@ -3213,7 +3214,7 @@
    id="stop1442" />
 				</linearGradient>
 				<polygon
-   points="301.93,61.001 300.01,309.23 270.12,62.8 "
+   points="270.12,62.8 301.93,61.001 300.01,309.23 "
    fill="url(#SVGID_33_)"
    id="polygon1445"
    style="fill:url(#SVGID_33_)" />
@@ -3299,7 +3300,7 @@
    id="stop1481" />
 				</linearGradient>
 				<polygon
-   points="381.99,74.921 300.01,309.23 351.3,66.351 "
+   points="351.3,66.351 381.99,74.921 300.01,309.23 "
    fill="url(#SVGID_34_)"
    id="polygon1484"
    style="fill:url(#SVGID_34_)" />
@@ -3385,7 +3386,7 @@
    id="stop1520" />
 				</linearGradient>
 				<polygon
-   points="453.26,113.95 300.01,309.23 426.99,95.929 "
+   points="426.99,95.929 453.26,113.95 300.01,309.23 "
    fill="url(#SVGID_35_)"
    id="polygon1523"
    style="fill:url(#SVGID_35_)" />
@@ -3471,7 +3472,7 @@
    id="stop1559" />
 				</linearGradient>
 				<polygon
-   points="508.11,173.9 300.01,309.23 489.07,148.36 "
+   points="489.07,148.36 508.11,173.9 300.01,309.23 "
    fill="url(#SVGID_36_)"
    id="polygon1562"
    style="fill:url(#SVGID_36_)" />
@@ -3557,7 +3558,7 @@
    id="stop1598" />
 				</linearGradient>
 				<polygon
-   points="540.67,248.36 300.01,309.23 530.89,218.04 "
+   points="530.89,218.04 540.67,248.36 300.01,309.23 "
    fill="url(#SVGID_37_)"
    id="polygon1601"
    style="fill:url(#SVGID_37_)" />
@@ -3643,7 +3644,7 @@
    id="stop1637" />
 				</linearGradient>
 				<polygon
-   points="547.43,329.33 300.01,309.23 547.97,297.48 "
+   points="547.97,297.48 547.43,329.33 300.01,309.23 "
    fill="url(#SVGID_38_)"
    id="polygon1640"
    style="fill:url(#SVGID_38_)" />
@@ -3730,7 +3731,7 @@
    id="stop1678" />
 			</linearGradient>
 			<polygon
-   points="556.39,444.8 536.91,476.46 300.5,309.17 "
+   points="300.5,309.17 556.39,444.8 536.91,476.46 "
    fill="url(#SVGID_39_)"
    id="polygon1681"
    style="fill:url(#SVGID_39_)" />
@@ -3816,7 +3817,7 @@
    id="stop1717" />
 			</linearGradient>
 			<polygon
-   points="498.88,520.17 470.22,543.84 300.5,309.17 "
+   points="300.5,309.17 498.88,520.17 470.22,543.84 "
    fill="url(#SVGID_40_)"
    id="polygon1720"
    style="fill:url(#SVGID_40_)" />
@@ -4160,7 +4161,7 @@
    id="stop1873" />
 			</linearGradient>
 			<polygon
-   points="146.48,554.43 116.34,532.69 300.5,309.17 "
+   points="300.5,309.17 146.48,554.43 116.34,532.69 "
    fill="url(#SVGID_44_)"
    id="polygon1876"
    style="fill:url(#SVGID_44_)" />
@@ -4246,7 +4247,7 @@
    id="stop1912" />
 			</linearGradient>
 			<polygon
-   points="75.533,491.55 54.027,461.24 300.5,309.17 "
+   points="300.5,309.17 75.533,491.55 54.027,461.24 "
    fill="url(#SVGID_45_)"
    id="polygon1915"
    style="fill:url(#SVGID_45_)" />
@@ -4332,7 +4333,7 @@
    id="stop1951" />
 			</linearGradient>
 			<polygon
-   points="28.688,409.13 18.124,373.5 300.5,309.17 "
+   points="300.5,309.17 28.688,409.13 18.124,373.5 "
    fill="url(#SVGID_46_)"
    id="polygon1954"
    style="fill:url(#SVGID_46_)" />
@@ -4418,7 +4419,7 @@
    id="stop1990" />
 			</linearGradient>
 			<polygon
-   points="10.971,316 12.479,278.86 300.5,309.17 "
+   points="300.5,309.17 10.971,316 12.479,278.86 "
    fill="url(#SVGID_47_)"
    id="polygon1993"
    style="fill:url(#SVGID_47_)" />
@@ -4504,7 +4505,7 @@
    id="stop2029" />
 			</linearGradient>
 			<polygon
-   points="24.276,222.13 37.697,187.47 300.5,309.17 "
+   points="300.5,309.17 24.276,222.13 37.697,187.47 "
    fill="url(#SVGID_48_)"
    id="polygon2032"
    style="fill:url(#SVGID_48_)" />
@@ -4590,7 +4591,7 @@
    id="stop2068" />
 			</linearGradient>
 			<polygon
-   points="67.183,137.6 91.076,109.12 300.5,309.17 "
+   points="300.5,309.17 67.183,137.6 91.076,109.12 "
    fill="url(#SVGID_49_)"
    id="polygon2071"
    style="fill:url(#SVGID_49_)" />
@@ -4676,7 +4677,7 @@
    id="stop2107" />
 			</linearGradient>
 			<polygon
-   points="135.09,71.441 166.9,52.213 300.5,309.17 "
+   points="300.5,309.17 135.09,71.441 166.9,52.213 "
    fill="url(#SVGID_50_)"
    id="polygon2110"
    style="fill:url(#SVGID_50_)" />
@@ -4934,7 +4935,7 @@
    id="stop2224" />
 			</linearGradient>
 			<polygon
-   points="407.54,40.06 441.12,55.983 300.5,309.17 "
+   points="300.5,309.17 407.54,40.06 441.12,55.983 "
    fill="url(#SVGID_53_)"
    id="polygon2227"
    style="fill:url(#SVGID_53_)" />
@@ -5020,7 +5021,7 @@
    id="stop2263" />
 			</linearGradient>
 			<polygon
-   points="488.7,89.043 515.35,114.96 300.5,309.17 "
+   points="300.5,309.17 488.7,89.043 515.35,114.96 "
    fill="url(#SVGID_54_)"
    id="polygon2266"
    style="fill:url(#SVGID_54_)" />
@@ -5106,7 +5107,7 @@
    id="stop2302" />
 			</linearGradient>
 			<polygon
-   points="549.7,161.61 566.55,194.74 300.5,309.17 "
+   points="300.5,309.17 549.7,161.61 566.55,194.74 "
    fill="url(#SVGID_55_)"
    id="polygon2305"
    style="fill:url(#SVGID_55_)" />
@@ -5192,7 +5193,7 @@
    id="stop2341" />
 			</linearGradient>
 			<polygon
-   points="584,250 589.25,286.79 300.5,309.17 "
+   points="300.5,309.17 584,250 589.25,286.79 "
    fill="url(#SVGID_56_)"
    id="polygon2344"
    style="fill:url(#SVGID_56_)" />
@@ -5286,7 +5287,7 @@
    id="stop2384" />
 			</linearGradient>
 			<polygon
-   points="587.92,344.72 581,381.23 300.5,309.17 "
+   points="300.5,309.17 587.92,344.72 581,381.23 "
    fill="url(#SVGID_57_)"
    id="polygon2387"
    style="fill:url(#SVGID_57_)" />
@@ -5319,7 +5320,7 @@
    id="stop2399" />
 		</linearGradient>
 		<polygon
-   points="453.19,521.44 145.96,521.44 145.96,353.96 197.76,260.88 299.58,192.34 401.39,260.88 453.19,353.96 "
+   points="145.96,353.96 197.76,260.88 299.58,192.34 401.39,260.88 453.19,353.96 453.19,521.44 145.96,521.44 "
    fill="url(#SVGID_58_)"
    id="polygon2402"
    style="fill:url(#SVGID_58_)" />
@@ -5562,7 +5563,7 @@
    fill="#dbd9da"
    id="g2471">
 				<polygon
-   points="324.87,254.32 280.88,300.21 275.72,300.21 275.72,294.64 319.75,248.79 324.87,248.79 "
+   points="275.72,300.21 275.72,294.64 319.75,248.79 324.87,248.79 324.87,254.32 280.88,300.21 "
    id="polygon2459" />
 					<rect
    height="6.3940001"
@@ -5571,7 +5572,7 @@
    x="266.98001"
    id="rect2461" />
 				<polygon
-   points="275.72,300.21 275.72,248.78 267.02,248.28 267.02,300.21 "
+   points="267.02,248.28 267.02,300.21 275.72,300.21 275.72,248.78 "
    id="polygon2463" />
 					<rect
    height="51.435001"
@@ -5580,7 +5581,7 @@
    x="324.87"
    id="rect2465" />
 				<polygon
-   points="275.72,254.32 319.7,300.21 324.87,300.21 324.87,294.64 280.83,248.79 275.72,248.79 "
+   points="324.87,300.21 324.87,294.64 280.83,248.79 275.72,248.79 275.72,254.32 319.7,300.21 "
    id="polygon2467" />
 					<rect
    height="6.3099999"
@@ -5592,19 +5593,19 @@
 		</g>
 		<polygon
    opacity="0.7"
-   points="213,267 268,231 315,218.5 328,210.5 300.4,190.88 197.6,260.06 133.33,373.65 146.71,352.46 146.67,387.94 "
+   points="315,218.5 328,210.5 300.4,190.88 197.6,260.06 133.33,373.65 146.71,352.46 146.67,387.94 213,267 268,231 "
    fill="#8e191f"
    id="polygon2475" />
 		<polygon
    stroke="#929296"
    stroke-width="0.0957"
-   points="409.86,252.87 474.89,369.22 464.86,374.82 401.19,260.92 299.37,192.37 299.39,178.54 "
+   points="464.86,374.82 401.19,260.92 299.37,192.37 299.39,178.54 409.86,252.87 474.89,369.22 "
    fill="#eae7e7"
    id="polygon2477" />
 		<polygon
    stroke="#929296"
    stroke-width="0.0957"
-   points="188.88,252.87 123.85,369.22 133.88,374.82 197.55,260.92 299.37,192.37 299.35,178.54 "
+   points="133.88,374.82 197.55,260.92 299.37,192.37 299.35,178.54 188.88,252.87 123.85,369.22 "
    fill="#eae7e7"
    id="polygon2479" />
 		<linearGradient
@@ -5742,7 +5743,7 @@
    fill-rule="evenodd"
    id="g2541">
 			<polygon
-   points="288.19,370.36 288.19,377.22 232.77,434.16 226.26,434.16 226.26,427.25 281.74,370.36 "
+   points="232.77,434.16 226.26,434.16 226.26,427.25 281.74,370.36 288.19,370.36 288.19,377.22 "
    fill="#eae7e7"
    id="polygon2517" />
 				<rect
@@ -5753,7 +5754,7 @@
    fill="#eae7e7"
    id="rect2519" />
 			<polygon
-   points="215.29,434.16 226.26,434.16 226.26,370.34 215.29,369.73 "
+   points="226.26,370.34 215.29,369.73 215.29,434.16 226.26,434.16 "
    fill="#eae7e7"
    id="polygon2521" />
 				<rect
@@ -5764,7 +5765,7 @@
    fill="#eae7e7"
    id="rect2523" />
 			<polygon
-   points="226.26,370.36 226.26,377.22 281.68,434.16 288.19,434.16 288.19,427.25 232.7,370.36 "
+   points="281.68,434.16 288.19,434.16 288.19,427.25 232.7,370.36 226.26,370.36 226.26,377.22 "
    fill="#eae7e7"
    id="polygon2525" />
 				<rect
@@ -5775,7 +5776,7 @@
    fill="#dbd9da"
    id="rect2527" />
 			<polygon
-   points="288.19,449.99 288.19,456.85 232.77,513.8 226.26,513.8 226.26,506.88 281.74,449.99 "
+   points="232.77,513.8 226.26,513.8 226.26,506.88 281.74,449.99 288.19,449.99 288.19,456.85 "
    fill="#eae7e7"
    id="polygon2529" />
 				<rect
@@ -5786,7 +5787,7 @@
    fill="#dbd9da"
    id="rect2531" />
 			<polygon
-   points="215.29,514.41 226.26,513.8 226.26,449.97 215.29,449.97 "
+   points="226.26,449.97 215.29,449.97 215.29,514.41 226.26,513.8 "
    fill="#eae7e7"
    id="polygon2533" />
 				<rect
@@ -5804,7 +5805,7 @@
    fill="#eae7e7"
    id="rect2537" />
 			<polygon
-   points="226.26,449.99 226.26,456.85 281.68,513.8 288.19,513.8 288.19,506.88 232.7,449.99 "
+   points="281.68,513.8 288.19,513.8 288.19,506.88 232.7,449.99 226.26,449.99 226.26,456.85 "
    fill="#eae7e7"
    id="polygon2539" />
 		</g>
@@ -5816,7 +5817,7 @@
    fill="#eae7e7"
    id="g2567">
 			<polygon
-   points="372.29,370.36 372.29,377.22 316.87,434.16 310.36,434.16 310.36,427.25 365.84,370.36 "
+   points="316.87,434.16 310.36,434.16 310.36,427.25 365.84,370.36 372.29,370.36 372.29,377.22 "
    id="polygon2543" />
 				<rect
    height="7.934"
@@ -5825,7 +5826,7 @@
    x="299.35001"
    id="rect2545" />
 			<polygon
-   points="299.39,434.16 310.36,434.16 310.36,370.34 299.39,369.73 "
+   points="310.36,370.34 299.39,369.73 299.39,434.16 310.36,434.16 "
    id="polygon2547" />
 				<rect
    height="63.823002"
@@ -5834,7 +5835,7 @@
    x="372.29999"
    id="rect2549" />
 			<polygon
-   points="310.36,370.36 310.36,377.22 365.78,434.16 372.29,434.16 372.29,427.25 316.8,370.36 "
+   points="365.78,434.16 372.29,434.16 372.29,427.25 316.8,370.36 310.36,370.36 310.36,377.22 "
    id="polygon2551" />
 				<rect
    height="7.829"
@@ -5843,7 +5844,7 @@
    x="299.35001"
    id="rect2553" />
 			<polygon
-   points="372.29,449.99 372.29,456.85 316.87,513.8 310.36,513.8 310.36,506.88 365.84,449.99 "
+   points="316.87,513.8 310.36,513.8 310.36,506.88 365.84,449.99 372.29,449.99 372.29,456.85 "
    id="polygon2555" />
 				<rect
    height="7.8299999"
@@ -5852,7 +5853,7 @@
    x="299.35001"
    id="rect2557" />
 			<polygon
-   points="299.39,514.41 310.36,513.8 310.36,449.97 299.39,449.97 "
+   points="310.36,449.97 299.39,449.97 299.39,514.41 310.36,513.8 "
    id="polygon2559" />
 				<rect
    height="7.9310002"
@@ -5867,19 +5868,19 @@
    x="372.29999"
    id="rect2563" />
 			<polygon
-   points="310.36,449.99 310.36,456.85 365.78,513.8 372.29,513.8 372.29,506.88 316.8,449.99 "
+   points="365.78,513.8 372.29,513.8 372.29,506.88 316.8,449.99 310.36,449.99 310.36,456.85 "
    id="polygon2565" />
 		</g>
 		<polygon
    stroke="#919195"
    stroke-width="0.125"
-   points="299.64,178.54 345.2,209.19 338.6,218.61 299.62,192.37 "
+   points="338.6,218.61 299.62,192.37 299.64,178.54 345.2,209.19 "
    fill="#cac9ca"
    id="polygon2569" />
 		<polygon
    stroke="#919195"
    stroke-width="0.125"
-   points="299.36,178.54 253.8,209.19 260.4,218.61 299.38,192.37 "
+   points="260.4,218.61 299.38,192.37 299.36,178.54 253.8,209.19 "
    fill="#dddbdb"
    id="polygon2571" />
 		<path

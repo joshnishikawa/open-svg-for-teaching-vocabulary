@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="125mm"
-   height="88mm"
+   width="118.53559mm"
+   height="86.618721mm"
    id="svg2"
    style="display:inline"
    sodipodi:version="0.32"
@@ -25,13 +25,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="712"
-     inkscape:window-width="986"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -42,15 +42,15 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="0.52681546"
-     inkscape:cx="329.48907"
-     inkscape:cy="328.63452"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:cx="316.20467"
+     inkscape:cy="324.84242"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:current-layer="svg2"
      inkscape:document-rotation="0"
      showgrid="false"
      units="mm"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <defs
      id="defs4">
     <linearGradient
@@ -503,7 +503,7 @@
   </defs>
   <g
      id="g3546"
-     transform="matrix(0.73872189,0,0,0.73872189,-31.510646,-129.63029)">
+     transform="matrix(0.73872189,0,0,0.73872189,-44.795046,-133.42239)">
     <g
        style="display:inline"
        id="layer1" />

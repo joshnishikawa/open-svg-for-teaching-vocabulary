@@ -9,12 +9,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44094 332.59842"
+   viewBox="0 0 419.50982 315.19619"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="birdie.svg"
-   width="125mm"
-   height="88mm">
+   width="110.99531mm"
+   height="83.39566mm">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.2176677"
-     inkscape:cx="108.43761"
-     inkscape:cy="161.11082"
+     inkscape:cx="78.384721"
+     inkscape:cy="153.42966"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <title
      id="title4152">Badminton Shuttlecock</title>
   <defs
@@ -245,7 +246,7 @@
   </defs>
   <g
      id="g3999"
-     transform="matrix(0,-1.5639474,1.5639474,0,53.300959,628.94016)">
+     transform="matrix(0,-1.5639474,1.5639474,0,23.24807,621.259)">
     <g
        id="g5052"
        transform="matrix(1.1648,0.26176,-0.27878,1.2406,-1025.9,311.48)">

@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="88mm"
-   height="125mm"
+   width="83.147644mm"
+   height="124.72147mm"
    id="svg20298"
    sodipodi:docname="queen.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -28,12 +28,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.39351852"
-     inkscape:cx="-386.76422"
+     inkscape:cx="-396.76422"
      inkscape:cy="253.83438"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20298" />
+     inkscape:current-layer="svg20298"
+     inkscape:document-rotation="0" />
   <defs
      id="defs20300">
     <inkscape:path-effect
@@ -75,12 +76,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.87294118,0,0,0.87294118,-122.18823,-216.56736)"
+     transform="matrix(0.87294118,0,0,0.87294118,-132.18823,-216.56736)"
      id="layer1">
     <g
        transform="translate(151.42857,-264.27289)"

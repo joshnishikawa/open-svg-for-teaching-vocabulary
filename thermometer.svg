@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg1419"
    sodipodi:docname="thermometer.svg"
-   viewBox="0 0 332.59843 472.44093"
+   viewBox="0 0 153.31107 451.35609"
    sodipodi:version="0.32"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="40.563553mm"
+   height="119.4213mm">
   <defs
      id="defs1421">
     <linearGradient
@@ -46,8 +46,8 @@
      inkscape:window-x="-8"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="372.04724"
-     inkscape:cy="526.18109"
+     inkscape:cx="271.55174"
+     inkscape:cy="512.9074"
      inkscape:window-y="-8"
      inkscape:window-height="1017"
      inkscape:pageopacity="0.0"
@@ -60,7 +60,7 @@
      id="layer1"
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     transform="translate(-175.56,-59.89)">
+     transform="translate(-276.0555,-73.163689)">
     <path
        id="rect1427"
        style="fill:#d0d07f;stroke:#000000;stroke-width:2.83865;stroke-linejoin:round"

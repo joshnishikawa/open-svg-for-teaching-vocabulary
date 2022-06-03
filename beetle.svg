@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 332.59843 472.44095"
+   viewBox="0 0 322.09273 351.76196"
    version="1.1"
    sodipodi:docname="beetle.svg"
-   width="88mm"
-   height="125mm"
+   width="85.220367mm"
+   height="93.070351mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,12 +29,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.73134637"
-     inkscape:cx="164.81529"
-     inkscape:cy="21.642513"
+     inkscape:cx="158.79385"
+     inkscape:cy="-52.254188"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <filter
@@ -399,7 +400,7 @@
   </defs>
   <g
      id="g4487"
-     transform="matrix(1.2107305,0,0,1.2107305,-303.97532,-141.523)">
+     transform="matrix(1.2107305,0,0,1.2107305,-309.99676,-215.4197)">
     <path
        id="path4485"
        d="m 376,250.61 c 0,29.685 -24.065,53.75 -53.75,53.75 -29.685,0 -53.75,-24.065 -53.75,-53.75 0,-29.685 24.065,-53.75 53.75,-53.75 29.685,0 53.75,24.065 53.75,53.75 z"

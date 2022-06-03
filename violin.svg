@@ -10,11 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg9338"
    sodipodi:docname="violin.svg"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 232.62231 450.05429"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="61.547985mm"
+   height="119.07687mm">
   <defs
      id="defs9340">
     <linearGradient
@@ -912,8 +912,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="699.73134"
-     inkscape:cy="260.4618"
+     inkscape:cx="652.02512"
+     inkscape:cy="246.99196"
      inkscape:window-width="1920"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -923,7 +923,7 @@
      id="layer1"
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-202.36)">
+     transform="translate(-47.706219,-215.82984)">
     <g
        id="g10063"
        transform="translate(301.9,-70.437)">

@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="125mm"
-   height="88mm"
+   width="125.14729mm"
+   height="87.710922mm"
    id="svg2"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="curtains.svg">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      id="namedview77"
      showgrid="false"
      inkscape:zoom="1.9994137"
-     inkscape:cx="151.27448"
-     inkscape:cy="132.01624"
+     inkscape:cx="151.28737"
+     inkscape:cy="131.50009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -119,7 +119,7 @@
   </defs>
   <g
      id="layer1"
-     transform="matrix(0.44871272,0,0,0.43749542,-0.01288954,0.51615102)">
+     transform="scale(0.44871272,0.43749542)">
     <g
        id="g4202">
       <g

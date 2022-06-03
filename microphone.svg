@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg6599"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 325.21276 311.21986"
    version="1.1"
    sodipodi:docname="microphone.svg"
-   width="88mm"
-   height="125mm"
+   width="86.045876mm"
+   height="82.34359mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,12 +29,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.9951006"
-     inkscape:cx="-202.48268"
-     inkscape:cy="181.52946"
+     inkscape:cx="-206.05539"
+     inkscape:cy="96.110761"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6599" />
+     inkscape:current-layer="svg6599"
+     inkscape:document-rotation="0" />
   <defs
      id="defs6601">
     <filter
@@ -227,7 +228,7 @@
   </defs>
   <g
      id="g4059"
-     transform="matrix(1.91923,0,0,1.91923,3.6562442,85.418642)">
+     transform="matrix(1.91923,0,0,1.91923,0.08353585,-5.6855044e-5)">
     <path
        id="path6338"
        stroke="#575757"

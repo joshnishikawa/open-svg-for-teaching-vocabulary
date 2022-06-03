@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
+   width="122.12133mm"
+   height="61.060669mm"
    version="1.1"
    id="svg4"
    sodipodi:docname="oval.svg"
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,15 +42,16 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.8420132"
-     inkscape:cx="218.13886"
-     inkscape:cy="181.89636"
+     inkscape:cx="212.71001"
+     inkscape:cy="134.66543"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0" />
   <ellipse
-     cx="236.20932"
-     cy="162.62117"
+     cx="230.78047"
+     cy="115.39024"
      rx="230.78047"
      ry="115.39024"
      fill="#0000ff"

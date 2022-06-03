@@ -10,11 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3007"
    sodipodi:docname="door.svg"
-   viewBox="0 0 332.59844 472.44094"
+   viewBox="0 0 268.59102 467.44562"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="71.064705mm"
+   height="123.67832mm">
   <defs
      id="defs3009">
     <pattern
@@ -440,8 +440,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="126.71316"
-     inkscape:cy="235.96996"
+     inkscape:cx="90.621403"
+     inkscape:cy="233.19268"
      inkscape:window-width="1920"
      inkscape:pageopacity="0.0"
      inkscape:document-units="in"
@@ -451,7 +451,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(-199.04,-6.2617)">
+     transform="translate(-235.13176,-9.0389753)">
     <g
        id="g2951"
        transform="matrix(0.94385692,0,0,0.94385692,20.1405,-196.40045)">

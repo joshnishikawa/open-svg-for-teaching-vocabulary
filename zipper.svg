@@ -10,12 +10,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="zipper.svg"
-   viewBox="0 0 332.59841 472.44093"
+   viewBox="0 0 260.7219 454.00215"
    sodipodi:version="0.32"
    version="1.0"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="68.982674mm"
+   height="120.12141mm">
   <title
      id="title3957">Zipper</title>
   <defs
@@ -457,8 +457,8 @@
      objecttolerance="10.0"
      borderopacity="1.0"
      inkscape:current-layer="layer2"
-     inkscape:cx="123.52068"
-     inkscape:cy="226.82593"
+     inkscape:cx="86.291221"
+     inkscape:cy="218.90089"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
      inkscape:window-height="1017"
@@ -471,7 +471,7 @@
      id="layer2"
      inkscape:label="draw"
      inkscape:groupmode="layer"
-     transform="translate(-26.391,-4.9164)">
+     transform="translate(-63.620459,-12.841436)">
     <g
        id="g3882"
        style="fill:#6b4d41"

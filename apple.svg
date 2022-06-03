@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 472.44095 332.59842"
+   viewBox="0 0 250.2422 296.69801"
    version="1.1"
    sodipodi:docname="apple.svg"
-   width="125mm"
-   height="88mm"
+   width="66.209915mm"
+   height="78.50135mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.5795012"
-     inkscape:cx="174.72519"
-     inkscape:cy="160.88099"
+     inkscape:cx="52.887729"
+     inkscape:cy="136.06773"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <linearGradient
@@ -402,7 +403,7 @@
   </defs>
   <g
      id="layer1"
-     transform="translate(84.836911,-723.49644)">
+     transform="translate(-37.00055,-748.3097)">
     <path
        id="path4344"
        filter="url(#filter4370)"

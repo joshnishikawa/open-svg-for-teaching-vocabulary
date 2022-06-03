@@ -9,9 +9,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="125mm"
-   height="88mm"
-   viewBox="0 0 12500 8800"
+   width="123.96259mm"
+   height="57.810829mm"
+   viewBox="0 0 12396.259 5781.0829"
    preserveAspectRatio="xMidYMid"
    fill-rule="evenodd"
    stroke-width="28.222"
@@ -25,7 +25,7 @@
    inkscape:export-ydpi="300.01001"><metadata
    id="metadata7783"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -38,9 +38,9 @@
    inkscape:window-height="1017"
    id="namedview7781"
    showgrid="false"
-   inkscape:zoom="2.4945156"
-   inkscape:cx="281.89243"
-   inkscape:cy="213.92248"
+   inkscape:zoom="1.7638889"
+   inkscape:cx="238.37082"
+   inkscape:cy="88.827051"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -449,7 +449,8 @@
    class="TextEmbeddedBitmaps"
    id="defs6529" />
  <g
-   id="g6534">
+   id="g6534"
+   transform="translate(-40.792681,-1703.4091)">
   <g
    id="id2"
    class="Master_Slide">
@@ -463,7 +464,8 @@
  </g>
  <g
    class="SlideGroup"
-   id="g7777">
+   id="g7777"
+   transform="translate(-40.792681,-1703.4091)">
   <g
    id="g7775">
    <g

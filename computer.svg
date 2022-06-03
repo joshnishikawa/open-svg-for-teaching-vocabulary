@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 472.44094 332.59842"
+   viewBox="0 0 438.86828 326.33344"
    version="1.1"
    id="svg1503"
    sodipodi:docname="computer.svg"
-   width="125mm"
-   height="88mm"
+   width="116.11723mm"
+   height="86.342392mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata1507">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +42,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.3025"
-     inkscape:cx="400"
-     inkscape:cy="301.03961"
+     inkscape:cx="383.80814"
+     inkscape:cy="297.96526"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1503" />
+     inkscape:current-layer="svg1503"
+     inkscape:document-rotation="0" />
   <defs
      id="defs139">
     <clipPath
@@ -533,7 +534,7 @@
        r="3.4373" />
   </defs>
   <g
-     transform="matrix(0.39514718,0,0,0.39514718,152.98317,431.24486)"
+     transform="matrix(0.39514718,0,0,0.39514718,136.79131,428.17051)"
      id="g1501">
     <g
        transform="translate(-45.515,-13.004)"

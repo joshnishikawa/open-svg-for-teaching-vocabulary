@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
-   viewBox="0 0 125 88.000007"
+   width="123.35805mm"
+   height="56.497383mm"
+   viewBox="0 0 123.35805 56.497388"
    version="1.1"
    id="svg8"
    sodipodi:docname="train.svg"
@@ -29,12 +29,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.0017346"
-     inkscape:cx="410.57836"
-     inkscape:cy="198.67385"
+     inkscape:cx="407.42782"
+     inkscape:cy="128.16455"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
   <defs
      id="defs2">
     <marker
@@ -58,14 +59,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer3"
      style="display:inline"
-     transform="matrix(0.40985294,0,0,0.40985294,-2.4308827,-15.953969)">
+     transform="matrix(0.40985294,0,0,0.40985294,-3.2644621,-34.609555)">
     <path
        style="fill:#ca2333;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 43.690592,164.55703 c 0,0 0.862525,19.54951 1.174677,20.30353 0.312151,0.75405 1.057007,1.13157 2.046608,1.44037 0.989602,0.30879 1.746806,-0.0748 1.957345,1.26758 0.210553,1.34241 -0.14653,9.4008 0.338212,9.65724 0.48469,0.25637 4.950317,0.31453 5.002737,0.9428 0.05239,0.62825 -1.072527,4.07795 3.526334,4.53955 -0.325365,2.67897 -0.111891,2.62695 -0.111891,2.62695 l 48.141096,2.32554 3.77128,2.35971 0.83173,-9.40289 c 0,0 14.44333,-0.32574 14.85118,-0.49428 0.40786,-0.16855 0.29596,-0.99795 0.29596,-1.3214 0,-0.32349 0.0791,-7.54216 0.66319,-8.22707 0.58418,-0.68487 3.84192,-0.8992 4.34445,-2.27992 0.50255,-1.38069 1.60324,-24.72877 1.37988,-24.77943 -0.22337,-0.0507 -9.08314,1.15285 -9.19714,1.40884 -0.11384,0.25602 0.0211,3.67363 -4.26848,3.34965 -4.28962,-0.32398 -9.50674,-1.82364 -10.12913,-1.87607 -0.62238,-0.0523 -1.40699,-0.81311 -2.2054,-1.02376 -0.7984,-0.21061 -43.115565,-0.55388 -43.704205,-0.36645 -0.588665,0.18747 -1.026425,1.68149 -2.809472,2.05119 -1.783048,0.36971 -9.792197,0.16754 -10.491301,0.0715 -0.699106,-0.096 -1.043175,-0.86493 -1.092633,-1.80137 -0.04953,-0.93642 -1.575617,-0.92765 -4.315115,-0.77189 z"
@@ -266,7 +267,7 @@
   <g
      id="layer2"
      style="display:inline"
-     transform="matrix(0.40985294,0,0,0.40985294,-2.4308827,-15.953969)">
+     transform="matrix(0.40985294,0,0,0.40985294,-3.2644621,-34.609555)">
     <path
        id="path986"
        style="color:#000000;fill:#000000;stroke-width:0.999997"

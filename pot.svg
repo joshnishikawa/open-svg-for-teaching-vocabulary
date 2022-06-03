@@ -10,13 +10,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="pot.svg"
-   viewBox="0 0 472.44095 332.59842"
+   viewBox="0 0 460.86979 295.9056"
    sodipodi:version="0.32"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="125mm"
-   height="88mm">
+   width="121.93846mm"
+   height="78.291695mm">
   <sodipodi:namedview
      id="base"
      bordercolor="#666666"
@@ -24,13 +24,13 @@
      guidetolerance="10"
      pagecolor="#ffffff"
      gridtolerance="10000"
-     inkscape:zoom="0.99247656"
+     inkscape:zoom="1.4035738"
      objecttolerance="10"
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="566.696"
-     inkscape:cy="272.075"
+     inkscape:cx="203.97207"
+     inkscape:cy="260.41052"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:pageopacity="0.0"
@@ -658,14 +658,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(4635.9,1746.3)">
-    <rect
-       id="rect5465"
-       style="fill:none"
-       height="644.82001"
-       width="1214.5"
-       y="-1075.8"
-       x="-4025" />
+     transform="translate(4629.4157,1735.203)">
     <g
        id="g9884"
        transform="matrix(0.45363506,0,0,0.45363506,-2523.9101,-943.02624)">

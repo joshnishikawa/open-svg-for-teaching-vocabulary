@@ -10,11 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="nail.svg"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 278.76381 416.33048"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="73.756256mm"
+   height="110.15411mm">
   <defs
      id="defs4">
     <linearGradient
@@ -193,8 +193,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="-349.12846"
-     inkscape:cy="85.501385"
+     inkscape:cx="-380.36307"
+     inkscape:cy="62.103071"
      showguides="true"
      inkscape:window-y="-8"
      inkscape:window-width="1920"
@@ -206,7 +206,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-747.36)">
+     transform="translate(-31.234612,-770.75831)">
     <g
        id="g4050"
        transform="matrix(1.3198067,0.73786207,-0.73786207,1.3198067,237.37134,633.10823)">

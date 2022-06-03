@@ -9,21 +9,21 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3547"
    sodipodi:docname="bicycle.svg"
-   viewBox="0 0 472.44094 332.59842"
+   viewBox="0 0 590.86289 403.04671"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="125mm"
-   height="88mm">
+   width="156.33247mm"
+   height="106.63944mm">
   <defs
      id="defs130" />
   <sodipodi:namedview
      id="base"
      fit-margin-left="20"
-     inkscape:zoom="0.57083333"
+     inkscape:zoom="1.1416667"
      borderopacity="1.0"
      inkscape:current-layer="layer2"
-     inkscape:cx="711.00001"
-     inkscape:cy="570.00002"
+     inkscape:cx="259.0859"
+     inkscape:cy="343.32308"
      inkscape:window-maximized="1"
      showgrid="false"
      fit-margin-right="20"
@@ -45,12 +45,14 @@
      id="layer2"
      inkscape:label="MTB"
      inkscape:groupmode="layer"
-     transform="translate(11,-434.56)">
+     transform="translate(66.586002,-399.99038)"
+     style="display:inline">
     <g
        id="g3941"
        inkscape:transform-center-x="13.410873"
        inkscape:transform-center-y="0.0067128682"
-       transform="matrix(0.22717352,0.28207632,-0.28207632,0.22717352,346.19209,289.13558)">
+       transform="matrix(0.22717352,0.28207632,-0.28207632,0.22717352,346.19209,289.13558)"
+       style="display:inline">
       <path
          id="path3951"
          sodipodi:nodetypes="ccaaczcaac"
@@ -75,7 +77,8 @@
     </g>
     <g
        id="g4707"
-       transform="matrix(0.36217958,0,0,0.36217958,-0.05158777,310.94893)">
+       transform="matrix(0.36217958,0,0,0.36217958,-0.05158777,310.94893)"
+       style="display:inline">
       <path
          id="path4451"
          style="fill-opacity:0;stroke:#333333;stroke-width:30.119;stroke-linecap:round;stroke-linejoin:round"
@@ -459,7 +462,8 @@
     </g>
     <g
        id="g4885"
-       transform="matrix(0.36217958,0,0,0.36217958,17.333032,310.94893)">
+       transform="matrix(0.36217958,0,0,0.36217958,17.333032,310.94893)"
+       style="display:inline">
       <path
          id="path4754"
          style="fill-opacity:0;stroke:#333333;stroke-width:30.119;stroke-linecap:round;stroke-linejoin:round"
@@ -787,7 +791,8 @@
     </g>
     <g
        id="g4225"
-       transform="matrix(0.36217958,0,0,0.36217958,5.7432855,310.94893)">
+       transform="matrix(0.36217958,0,0,0.36217958,5.7432855,310.94893)"
+       style="display:inline">
       <path
          id="path3104"
          style="fill:#000080;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -963,7 +968,8 @@
        id="g3932"
        inkscape:transform-center-x="-13.410854"
        inkscape:transform-center-y="-0.00674458"
-       transform="matrix(-0.22717352,-0.28207632,0.28207632,-0.22717352,51.319964,1022.2696)">
+       transform="matrix(-0.22717352,-0.28207632,0.28207632,-0.22717352,51.319964,1022.2696)"
+       style="display:inline">
       <path
          id="path3139"
          style="fill:#cccccc;stroke:#666666;stroke-width:2.6465;stroke-linecap:round;stroke-linejoin:round"

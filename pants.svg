@@ -10,8 +10,8 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm"
+   width="55.414726mm"
+   height="122.01677mm"
    version="1.0"
    sodipodi:docname="pants.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,8 +42,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="1.1507458"
-     inkscape:cx="254.7353"
-     inkscape:cy="228.48356"
+     inkscape:cx="191.3953"
+     inkscape:cy="221.53125"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:current-layer="g2184"
@@ -56,7 +56,7 @@
      inkscape:window-maximized="1" />
   <g
      id="g2184"
-     transform="matrix(0.6938268,0,0,0.6938268,-93.786218,-661.85233)"
+     transform="matrix(0.6938268,0,0,0.6938268,-157.12622,-668.80464)"
      style="stroke:#000000;stroke-width:2.55345;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <g
        id="g3157"
@@ -116,13 +116,13 @@
   <ellipse
      style="fill:#4d4d4d;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.668296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path2177"
-     cx="198.252"
-     cy="30.269867"
+     cx="134.912"
+     cy="23.317558"
      rx="2.4577868"
      ry="2.1913917" />
   <path
      style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.990471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 104.42044,8.177251 c 2.39293,-3.8079374 129.83274,8.339272 129.41969,12.203669 l -0.29919,0.436851"
+     d="m 41.080441,1.2249419 c 2.39293,-3.8079374 129.832739,8.339272 129.419689,12.2036691 l -0.29919,0.436851"
      id="path2179"
      sodipodi:nodetypes="ccc" />
 </svg>

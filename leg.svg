@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="leg.svg"
-   viewBox="0 0 332.59844 472.44094"
+   viewBox="0 0 325.93698 348.65818"
    sodipodi:version="0.32"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="86.237488mm"
+   height="92.249146mm">
   <defs
      id="defs4">
     <linearGradient
@@ -117,8 +117,8 @@
      objecttolerance="10"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="-285.0544"
-     inkscape:cy="111.60574"
+     inkscape:cx="-287.50475"
+     inkscape:cy="36.227041"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
      inkscape:window-width="1920"
@@ -132,7 +132,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(-427,-26.466)">
+     transform="translate(-429.45035,-101.8447)">
     <g
        id="g7693"
        inkscape:export-ydpi="300"

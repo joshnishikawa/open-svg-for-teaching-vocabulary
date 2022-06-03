@@ -14,9 +14,9 @@
    ns3:viewOrigin="199.2798 744.7827"
    ns3:rulerOrigin="0 0"
    ns3:pageBounds="0 792 612 0"
-   width="88mm"
-   height="125mm"
-   viewBox="0 0 332.59844 472.44093"
+   width="66.914223mm"
+   height="122.54713mm"
+   viewBox="0 0 252.90416 463.17026"
    overflow="visible"
    enable-background="new 0 0 222.805 407.954"
    xml:space="preserve"
@@ -39,12 +39,13 @@
    showgrid="false"
    units="mm"
    inkscape:zoom="1.0417841"
-   inkscape:cx="-67.056322"
-   inkscape:cy="157.45311"
+   inkscape:cx="-129.44787"
+   inkscape:cy="151.96129"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg279" />
+   inkscape:current-layer="svg279"
+   inkscape:document-rotation="0" />
 	<metadata
    id="metadata2">
 <rdf:RDF>
@@ -101,7 +102,7 @@
 	</metadata>
 	<switch
    id="switch277"
-   transform="matrix(1.1339527,0,0,1.1339527,62.393156,5.7951876)">
+   transform="matrix(1.1339527,0,0,1.1339527,0.00160605,0.30337136)">
 		<foreignObject
    requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
    x="0"

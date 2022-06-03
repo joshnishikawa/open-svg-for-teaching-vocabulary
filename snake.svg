@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
+   width="109.67752mm"
+   height="83.74688mm"
    version="1.1"
-   viewBox="0 0 442.90783 311.81573"
+   viewBox="0 0 388.61626 296.74539"
    id="svg202"
    sodipodi:docname="snake.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,13 @@
      id="namedview204"
      showgrid="false"
      inkscape:zoom="1.0524991"
-     inkscape:cx="-50.701801"
-     inkscape:cy="24.741528"
+     inkscape:cx="-73.492174"
+     inkscape:cy="17.162312"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg202" />
+     inkscape:current-layer="svg202"
+     inkscape:document-rotation="0" />
   <defs
      id="defs108">
     <pattern
@@ -346,7 +347,7 @@
     </pattern>
   </defs>
   <g
-     transform="matrix(3.5676323,0,0,3.5676323,24.859087,-57.506413)"
+     transform="matrix(3.5676323,0,0,3.5676323,3.4927895,-64.612035)"
      fill-rule="evenodd"
      id="g200">
     <path

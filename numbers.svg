@@ -11,13 +11,13 @@
    id="svg2"
    sodipodi:docname="numbers.svg"
    sodipodi:modified="true"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 290.20969 425.24145"
    sodipodi:version="0.32"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="76.784645mm"
+   height="112.5118mm">
   <defs
      id="defs4">
     <linearGradient
@@ -256,8 +256,8 @@
      height="360px"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="140"
-     inkscape:cy="228.20133"
+     inkscape:cx="119.101"
+     inkscape:cy="201.41519"
      inkscape:window-width="1142"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -268,7 +268,8 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-20.899,-26.786139)">
     <g
        id="g2560"
        transform="matrix(1.199159,0,0,1.199159,-4.1622237,22.189763)">

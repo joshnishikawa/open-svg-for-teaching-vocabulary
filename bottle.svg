@@ -10,11 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4106"
    sodipodi:docname="bottle.svg"
-   viewBox="0 0 332.59843 472.44094"
+   viewBox="0 0 167.0217 455.71107"
    version="1.1"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   width="88mm"
-   height="125mm">
+   width="44.191158mm"
+   height="120.57355mm">
   <title
      id="title5225">PET bottle</title>
   <defs
@@ -383,8 +383,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="175.67894"
-     inkscape:cy="195.12207"
+     inkscape:cx="79.577596"
+     inkscape:cy="186.89156"
      inkscape:window-width="1920"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -394,7 +394,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-80)">
+     transform="translate(-96.101344,-88.230514)">
     <ellipse
        id="path5187"
        style="opacity:0.15044;fill:#333366;stroke:#ffffff;stroke-width:1.8;stroke-linecap:round;filter:url(#filter5201)"

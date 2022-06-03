@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    enable-background="new 0 0 2316 1340"
    version="1.1"
-   viewBox="0 0 472.44094 332.59843"
+   viewBox="0 0 460.6046 264.21851"
    id="svg1786"
    sodipodi:docname="motorcycle.svg"
-   width="125mm"
-   height="88mm"
+   width="121.8683mm"
+   height="69.907814mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata1792">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,17 +43,18 @@
      id="namedview1788"
      showgrid="false"
      units="mm"
-     inkscape:zoom="0.44991364"
-     inkscape:cx="1158"
-     inkscape:cy="492.1881"
+     inkscape:zoom="0.89982728"
+     inkscape:cx="650.18839"
+     inkscape:cy="80.349794"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1786" />
+     inkscape:current-layer="svg1786"
+     inkscape:document-rotation="0" />
   <g
      stroke-width="0.6"
      id="g1784"
-     transform="matrix(0.20885462,0,0,0.20885462,0.02047739,26.142819)">
+     transform="matrix(0.20885462,0,0,0.20885462,-7.0464953,-6.9014476)">
     <path
        d="m 655.27,33.62 c 1.28,-0.16 2.58,-0.24 3.88,-0.27 0.44,2.21 0.97,4.41 1.81,6.5 4.2,10.82 7.5,21.96 11.48,32.87 4.3,10.6 7.21,21.71 11.33,32.39 2.57,6.32 3.85,13.08 6.73,19.29 2.07,6.23 4.27,12.41 6.32,18.65 0.81,2.05 1.7,4.08 2.45,6.16 0.86,2.72 1.77,5.43 2.64,8.16 1.22,3.96 2.7401,7.82 4.15,11.71 2.46,0.92 5.04,1.44 7.68,1.51 v 1.32 c -2.11,-0.26 -4.21,-0.54 -6.31,-0.81 2.06,5.35 3.84,10.81 5.17,16.4 0.29,-0.1 0.89,-0.29 1.19,-0.38 -0.12,1.54 -0.2,3.08 -0.27,4.63 -0.44,-0.11 -1.3,-0.34 -1.74,-0.45 -5.0601,-13.24 -10.45,-26.39 -15.04,-39.82 -2.63,-8.91 -6.47,-17.42 -8.95,-26.38 -8.84,-25.36 -17.9,-50.65 -26.58,-76.06 -1.52,-5.33 -4.67,-10.01 -5.94,-15.42 z"
        fill="#dadad8"

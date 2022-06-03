@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
-   viewBox="0 0 124.99997 88"
+   width="92.067696mm"
+   height="84.057007mm"
+   viewBox="0 0 92.067674 84.057007"
    version="1.1"
    id="svg8"
    inkscape:export-filename="C:\Documents and Settings\lukasz\Pulpit\bitmap.png"
@@ -113,8 +113,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1044973"
-     inkscape:cx="-5.3643219"
-     inkscape:cy="174.58599"
+     inkscape:cx="-80.78569"
+     inkscape:cy="166.54954"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -145,7 +145,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-275.8334)">
+     transform="translate(-19.955237,-277.95971)">
     <g
        id="g4720"
        transform="matrix(1.4306389,0,0,1.4306389,-114.75188,184.47143)">

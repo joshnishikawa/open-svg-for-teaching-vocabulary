@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 472.44095 332.59842"
+   viewBox="0 0 394.98748 325.95538"
    version="1.1"
    id="svg157"
    sodipodi:docname="thum_btack.svg"
-   width="125mm"
-   height="88mm"
+   width="104.5071mm"
+   height="86.242363mm"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata161">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.2306915"
-     inkscape:cx="192.01992"
-     inkscape:cy="228.78409"
+     inkscape:cx="153.81201"
+     inkscape:cy="225.53465"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg157" />
+     inkscape:current-layer="svg157"
+     inkscape:document-rotation="0" />
   <defs
      id="defs97">
     <clipPath
@@ -333,7 +334,7 @@
     </linearGradient>
   </defs>
   <g
-     transform="matrix(1.3266,-0.08311,-0.76937,0.80198,1328.9,216.03)"
+     transform="matrix(1.3266,-0.08311,-0.76937,0.80198,1290.6921,212.78056)"
      clip-path="url(#aa)"
      fill-rule="evenodd"
      stroke="#000000"
@@ -342,30 +343,35 @@
        d="m -190,1266.8 h 494.29 a 215.57,215.57 0 0 1 215.57,215.57 v 0 A 215.57,215.57 0 0 1 304.29,1697.94 H -190 a 215.57,215.57 0 0 1 -215.57,-215.57 v 0 A 215.57,215.57 0 0 1 -190,1266.8"
        fill="url(#f)"
        stroke-width="1.2961"
-       id="path99" />
+       id="path99"
+       style="fill:url(#f)" />
     <path
        transform="translate(-157.14,1185.7)"
        d="m 300,500.93 -136.8,61.684 -140.35,-53.112 -61.684,-136.8 53.112,-140.35 136.8,-61.684 140.35,53.112 61.684,136.8 z"
        fill="url(#e)"
-       id="path101" />
+       id="path101"
+       style="fill:url(#e)" />
     <path
        transform="translate(-157.14,1185.7)"
        d="m 522.86,303.79 a 210,117.14 0 1 1 -420,0 210,117.14 0 1 1 420,0 z"
        fill="url(#d)"
-       id="path103" />
+       id="path103"
+       style="fill:url(#d)" />
     <path
        transform="translate(34.286,114.29)"
        d="m 668.57,1580.9 -192.53,-48.628 0.23517,198.57 -101.75,-170.52 -140.24,140.58 48.628,-192.53 -198.57,0.2352 170.52,-101.75 -140.58,-140.24 192.53,48.628 -0.23517,-198.57 101.75,170.52 140.24,-140.58 -48.628,192.53 198.57,-0.2351 -170.52,101.75 140.58,140.24 z"
        fill="url(#c)"
-       id="path105" />
+       id="path105"
+       style="fill:url(#c)" />
     <path
        transform="translate(45.714,-17.143)"
        d="m -225.71,1505.2 a 167.145,132.86397 0 1 1 -334.29,0 167.145,132.86397 0 1 1 334.29,0 z"
        fill="url(#b)"
-       id="path107" />
+       id="path107"
+       style="fill:url(#b)" />
   </g>
   <g
-     transform="matrix(1.7171085,-0.29925429,0.29925429,1.7171085,324.85963,-36.67594)"
+     transform="matrix(1.7171085,-0.29925429,0.29925429,1.7171085,286.65172,-39.925377)"
      id="g155">
     <path
        d="m -50.053,165.09 6.6468,-10.351 c 0,0 14.827,20.347 20.414,28.033 0.35994,1.0743 0.21598,1.6714 0.01921,2.7673 -0.19337,1.0769 -1.1146,2.1919 -2.3491,3.4475 -1.2313,1.2524 -2.1967,1.4244 -3.0351,1.5591 -0.93345,0.14988 -0.91738,0.20721 -2.4456,-0.41716 -1.4992,-0.61248 -2.4989,-1.7803 -2.4989,-1.7803 l -16.751,-23.258 z"

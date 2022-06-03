@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125mm"
-   height="88mm"
+   width="121.82005mm"
+   height="73.761909mm"
    version="1.1"
-   viewBox="0 0 442.91425 311.80794"
+   viewBox="0 0 431.6467 261.35851"
    id="svg87"
    sodipodi:docname="screw.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,13 @@
      id="namedview89"
      showgrid="false"
      inkscape:zoom="0.49804198"
-     inkscape:cx="96.684102"
-     inkscape:cy="610.4608"
+     inkscape:cx="89.485431"
+     inkscape:cy="582.43473"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg87" />
+     inkscape:current-layer="svg87"
+     inkscape:document-rotation="0" />
   <defs
      id="defs53">
     <linearGradient
@@ -259,7 +260,7 @@
        xlink:href="#a" />
   </defs>
   <g
-     transform="matrix(0.27301944,0.52725762,-0.52725762,0.27301944,536.62347,-51.922181)"
+     transform="matrix(0.27301944,0.52725762,-0.52725762,0.27301944,529.8747,-78.196668)"
      id="g85">
     <path
        d="m 60.69,365.75 1.9902,604.02 28.858,82.593 28.858,-82.593 -2.9853,-604.02 c -0.13753,-27.83 55.725,-48.711 55.725,-70.652 H 1.9759 c 0,18.738 58.603,38.032 58.711,70.652 z"

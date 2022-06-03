@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="Layer_1"
-   width="88mm"
-   height="125mm"
-   viewBox="0 0 332.59843 472.44093"
+   width="55.645687mm"
+   height="113.20718mm"
+   viewBox="0 0 210.31441 427.86966"
    overflow="visible"
    enable-background="new 0 0 167.243 340.247"
    xml:space="preserve"
@@ -26,21 +26,22 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="687"
-   inkscape:window-height="480"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
    id="namedview31"
    showgrid="false"
    units="mm"
    inkscape:zoom="0.44507895"
-   inkscape:cx="-55.188644"
-   inkscape:cy="226.07566"
-   inkscape:window-x="0"
-   inkscape:window-y="0"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
+   inkscape:cx="-122.59222"
+   inkscape:cy="208.10297"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0" />
 <g
    id="g26"
-   transform="matrix(1.2575349,0,0,1.2575349,67.403824,17.974763)">
+   transform="matrix(1.2575349,0,0,1.2575349,2.5148995e-4,0.0020709)">
 	<g
    id="g22">
 		<path
@@ -95,7 +96,7 @@
 	</g>
 	<polygon
    fill="#677718"
-   points="97.019,121.252 89.161,120.597 91.125,108.157 102.257,108.157 "
+   points="91.125,108.157 102.257,108.157 97.019,121.252 89.161,120.597 "
    id="polygon24" />
 </g>
 <metadata

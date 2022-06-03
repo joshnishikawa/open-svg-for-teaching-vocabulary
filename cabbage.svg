@@ -10,9 +10,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   viewBox="0 0 354.3307 249.44881"
-   height="88mm"
-   width="125mm"
+   viewBox="0 0 286.12595 228.89599"
+   height="80.74942mm"
+   width="100.93888mm"
    sodipodi:docname="cabbage.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
@@ -30,12 +30,13 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.6266676"
-     inkscape:cx="295.21625"
-     inkscape:cy="121.82283"
+     inkscape:cx="225.42236"
+     inkscape:cy="103.84882"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="surface5" />
+     inkscape:current-layer="surface5"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -44,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>11/17/2015</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -381,7 +382,8 @@
     </g>
   </defs>
   <g
-     id="surface5">
+     id="surface5"
+     transform="translate(-52.345413,-13.480508)">
     <path
        id="path100"
        d="m 154.20224,43.37443 c 5.33439,1.564756 10.91499,0.525232 16.77461,-3.118568 3.11858,-1.876613 5.6189,-3.96113 7.48457,-6.182427 -0.34468,3.786052 -1.69605,7.845663 -4.12526,12.151477 -4.64503,8.606156 -11.67549,14.542378 -21.17345,17.803198 -8.24506,2.773885 -19.16551,3.813407 -32.75044,3.12404 -13.93508,-0.869917 -17.88526,-1.975093 -11.85603,-3.364772 1.0067,-0.175077 7.49003,-4.130736 19.34607,-11.872446 12.37032,-7.254776 21.13514,-10.099786 26.29993,-8.540502 z m 0,0"
