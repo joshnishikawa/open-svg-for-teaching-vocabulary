@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="125mm"
+   height="88mm"
+   enable-background="new 0 0 841.89 595.275"
+   viewBox="0 0 472.44094 332.59774"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="heart.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.7232657"
+     inkscape:cx="193.23776"
+     inkscape:cy="118.08974"
+     inkscape:current-layer="svg16"
+     inkscape:document-units="mm" />
+  <path
+     d="M 237.8203,72.683709 C 188.53217,-42.647537 48.436984,-15.737705 47.513639,118.12191 47.00441,191.63899 114.2245,219.1175 158.98307,248.5061 c 43.39733,28.50687 74.28788,67.49551 79.12851,84.09198 4.14515,-16.26359 38.5448,-56.35589 78.72033,-84.88654 C 360.76023,216.51191 428.81255,190.83651 428.29933,117.31943 427.37401,-16.869103 284.84167,-38.048632 237.8203,72.683709 Z"
+     fill="#d40000"
+     id="path2"
+     style="stroke-width:1.98143" />
+</svg>

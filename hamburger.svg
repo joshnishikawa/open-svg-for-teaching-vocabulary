@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    enable-background="new 0 0 44.95 31.25"
    version="1.1"
    viewBox="0 0 455.55213 312.1226"
@@ -15,7 +7,14 @@
    sodipodi:docname="hamburger.svg"
    width="120.5315mm"
    height="82.582436mm"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata134">
     <rdf:RDF>
@@ -45,81 +44,17 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="1.448832"
-     inkscape:cx="156.93305"
-     inkscape:cy="78.037366"
+     inkscape:cx="63.15432"
+     inkscape:cy="188.08254"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg128"
-     inkscape:document-rotation="0" />
-  <symbol
-     id="d"
-     viewBox="0.021 -19 27.629 19"
-     transform="translate(-9.2706242,-11.35)">
-    <linearGradient
-       id="c"
-       x1="-2.5127001"
-       x2="30.212"
-       y1="-9.5"
-       y2="-9.5"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#40240A"
-         offset="0"
-         id="stop2" />
-      <stop
-         stop-color="#5A391D"
-         stop-opacity=".7137"
-         offset=".0863"
-         id="stop4" />
-      <stop
-         stop-color="#775031"
-         stop-opacity=".4039"
-         offset=".2"
-         id="stop6" />
-      <stop
-         stop-color="#8B6140"
-         stop-opacity=".1765"
-         offset=".3176"
-         id="stop8" />
-      <stop
-         stop-color="#986B49"
-         stop-opacity=".0431"
-         offset=".4314"
-         id="stop10" />
-      <stop
-         stop-color="#9C6E4C"
-         stop-opacity="0"
-         offset=".5412"
-         id="stop12" />
-      <stop
-         stop-color="#906545"
-         stop-opacity=".1137"
-         offset=".6235"
-         id="stop14" />
-      <stop
-         stop-color="#6F4D32"
-         stop-opacity=".4235"
-         offset=".7725"
-         id="stop16" />
-      <stop
-         stop-color="#3B2614"
-         stop-opacity=".9176"
-         offset=".9725"
-         id="stop18" />
-      <stop
-         stop-color="#33200F"
-         offset="1"
-         id="stop20" />
-    </linearGradient>
-    <path
-       d="m 27.2,-6.85 c 0.033,-0.3 0,-0.583 -0.1,-0.85 L 27,-8.65 26.95,-8.7 H 27 l -0.05,-0.05 c 0.133,-0.2 0.066,-0.433 -0.2,-0.7 L 26.8,-9.6 27,-9.95 c 0.5,-0.333 0.667,-0.566 0.5,-0.7 l -0.3,-0.15 c 0.2,-0.534 0.3,-0.983 0.3,-1.35 0.2,-0.7 0.2,-1.4 0,-2.1 l -0.05,-0.05 c -0.1,-0.534 -0.383,-1.067 -0.85,-1.6 -1.833,-2.067 -6.017,-3.1 -12.55,-3.1 h -1.5 l -0.5,0.05 H 11.2 l -0.25,0.05 c -2.867,0.233 -5.2,0.75 -7,1.55 -1.733,0.767 -2.8,1.717 -3.2,2.85 v 0.05 l -0.1,0.25 v 0.05 l -0.1,0.45 c -0.167,0.767 -0.066,1.45 0.3,2.05 l -0.1,0.2 v 0.2 l -0.05,0.1 c -0.167,-0.067 -0.267,-0.1 -0.3,-0.1 -0.1,0.033 -0.217,0.167 -0.35,0.4 -0.066,0.067 -0.017,0.217 0.15,0.45 0,0.2 0.267,0.533 0.8,1 l -0.05,0.1 0.15,0.25 c -0.067,0.267 -0.083,0.45 -0.05,0.55 0,0.133 -0.117,0.533 -0.35,1.2 -0.2,0.6 -0.217,1 -0.05,1.2 v 0.05 c 0.267,1.533 1.583,2.883 3.95,4.05 2.667,1.333 5.883,2 9.65,2 3.867,0 7.017,-0.717 9.45,-2.15 1.933,-1.133 3.083,-2.483 3.45,-4.05 l 0.1,0.1 z"
-       clip-rule="evenodd"
-       fill="url(#c)"
-       fill-rule="evenodd"
-       id="path23"
-       style="fill:url(#c)" />
-  </symbol>
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
   <g
      clip-rule="evenodd"
      fill-rule="evenodd"
@@ -278,16 +213,67 @@
        fill="#784c25"
        id="path106" />
   </g>
-  <use
-     transform="matrix(16.425031,0,0,-16.425031,151.9145,-186.4241)"
-     x="0.021"
-     y="-19"
-     width="27.629"
-     height="19"
-     enable-background="new"
-     opacity="0.6016"
-     xlink:href="#d"
-     id="use110" />
+  <g
+     id="use110"
+     style="opacity:0.6016"
+     transform="matrix(16.425031,0,0,-16.425031,-0.35578988,1.85e-6)">
+    <linearGradient
+       id="linearGradient245"
+       x1="-2.5127001"
+       x2="30.212"
+       y1="-9.5"
+       y2="-9.5"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#40240A"
+         offset="0"
+         id="stop225" />
+      <stop
+         stop-color="#5A391D"
+         stop-opacity=".7137"
+         offset=".0863"
+         id="stop227" />
+      <stop
+         stop-color="#775031"
+         stop-opacity=".4039"
+         offset=".2"
+         id="stop229" />
+      <stop
+         stop-color="#8B6140"
+         stop-opacity=".1765"
+         offset=".3176"
+         id="stop231" />
+      <stop
+         stop-color="#986B49"
+         stop-opacity=".0431"
+         offset=".4314"
+         id="stop233" />
+      <stop
+         stop-color="#9C6E4C"
+         stop-opacity="0"
+         offset=".5412"
+         id="stop235" />
+      <stop
+         stop-color="#906545"
+         stop-opacity=".1137"
+         offset=".6235"
+         id="stop237" />
+      <stop
+         stop-color="#6F4D32"
+         stop-opacity=".4235"
+         offset=".7725"
+         id="stop239" />
+      <stop
+         stop-color="#3B2614"
+         stop-opacity=".9176"
+         offset=".9725"
+         id="stop241" />
+      <stop
+         stop-color="#33200F"
+         offset="1"
+         id="stop243" />
+    </linearGradient>
+  </g>
   <path
      d="m 311.42825,43.525211 c 2.74297,-3.277761 7.12482,-2.466946 13.1628,2.466946 6.02072,4.933892 7.10756,9.039719 3.2605,12.317479 -4.38184,3.295012 -9.57451,3.01899 -15.59524,-0.810814 -5.46868,-3.847056 -5.7447,-8.487675 -0.82806,-13.973611 z"
      clip-rule="evenodd"
