@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg3766"
+   sodipodi:docname="hockey_puck.svg"
+   viewBox="0 0 472.44095 332.59842"
+   version="1.1"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   width="125mm"
+   height="88mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3768">
+    <linearGradient
+       id="linearGradient4596"
+       y2="224.05"
+       gradientUnits="userSpaceOnUse"
+       x2="355.41"
+       y1="224.05"
+       x1="239.42"
+       inkscape:collect="always">
+      <stop
+         id="stop4545"
+         style="stop-color:#d0001e"
+         offset="0" />
+      <stop
+         id="stop4547"
+         style="stop-color:#d0001e;stop-opacity:.39161"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4598"
+       y2="306.25"
+       gradientUnits="userSpaceOnUse"
+       x2="346.39001"
+       gradientTransform="matrix(1,0,0,0.9748,0,8.9973)"
+       y1="306.25"
+       x1="145.50999"
+       inkscape:collect="always">
+      <stop
+         id="stop4582"
+         style="stop-color:#000000"
+         offset="0" />
+      <stop
+         id="stop4586"
+         style="stop-color:#ffffff;stop-opacity:.20280"
+         offset=".21087" />
+      <stop
+         id="stop4584"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-3"
+     pagecolor="#ffffff"
+     inkscape:window-height="850"
+     inkscape:window-maximized="1"
+     inkscape:zoom="1.38048"
+     inkscape:window-x="-4"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="90.548215"
+     inkscape:cy="127.85408"
+     inkscape:window-width="1440"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-144.88,-178.01)">
+    <g
+       id="g4588"
+       transform="matrix(1.5786426,0,0,1.5786426,-83.829336,-93.00345)">
+      <path
+         id="path3776-8-7"
+         style="color:#000000;fill:#333333"
+         d="m 144.88,228.34 v 99.625 0.375 h 0.0312 c 0.59548,27.444 67.321,49.625 149.59,49.625 82.273,0 149.03,-22.181 149.62,-49.625 h 0.0312 v -0.375 -99.625 h -299.28 z" />
+      <ellipse
+         id="path3776-8"
+         style="color:#000000;fill:#000000"
+         transform="matrix(1.359,0,0,1.1785,-50.064,-50.305)"
+         cx="253.54829"
+         cy="236.15892"
+         rx="110.10663"
+         ry="42.426407" />
+      <ellipse
+         id="path3776-8-3"
+         style="color:#000000;fill:#000000;stroke:#393939;stroke-width:5"
+         transform="matrix(1.063,0,0,0.85411,25,26.306)"
+         cx="253.54829"
+         cy="236.15892"
+         rx="110.10663"
+         ry="42.426407" />
+      <ellipse
+         id="path3776-8-3-1"
+         style="color:#000000;fill:#000000;stroke:#272d39;stroke-width:5.1839"
+         transform="matrix(1.0301,0,0,0.81996,33.34,35.819)"
+         cx="253.54829"
+         cy="236.15892"
+         rx="110.10663"
+         ry="42.426407" />
+      <path
+         id="path4532"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+         style="fill:url(#linearGradient4596)"
+         d="m 351.8,242.56 c -9.7323,-2.8497 -9.8634,-3.057 -19.605,-5.891 -3.2407,1.504 -4.7967,3.7146 -7.1621,5.5529 -2.5675,1.0906 -2.4454,4.5342 -6.4874,4.3258 -3.3113,-2.9415 -10.438,-3.8762 -16.205,-2.7752 -6.2781,0.50863 -12.534,1.0904 -18.697,1.681 -4.4543,0.0619 -14.497,2.3652 -12.417,-1.1515 1.4034,-3.0698 -8.4122,-3.6775 -13.92,-4.5068 -4.0745,-0.50995 -12.129,-1.2778 -6.3236,-2.7445 2.1007,-1.8761 10.56,-2.8378 7.8533,-5.4189 -4.8433,-1.9884 -5.3602,-3.9603 2.2656,-3.1053 5.4356,-0.41993 14.174,1.3547 17.504,-0.31936 -3.1357,-1.8589 -11.664,-2.6175 -16.78,-4.0982 -6.3061,-1.4088 -13.106,-2.6351 -19.103,-4.1598 4.2915,-0.833 14.809,-1.24 7.4804,-4.3967 -3.458,-2.3819 -7.6868,-4.6881 -10.786,-7.0979 7.8932,0.65012 15.798,1.5772 23.696,2.3784 3.568,-1.5549 1.4328,-4.1949 2.0571,-6.2754 5.0489,1.8162 10.244,3.8079 15.142,5.7768 5.5528,2.0886 10.663,4.4392 16.368,6.4149 1.2822,-1.8129 -3.7898,-4.4164 -4.8481,-6.5742 -2.0558,-1.7255 -3.5594,-3.8616 2.8225,-2.5302 8.4902,1.5839 8.2069,-2.6328 10.315,-4.4924 0.10768,-1.6927 2.4869,-2.4175 5.2694,-0.33098 5.4166,1.7934 9.2408,5.9739 16.636,5.5469 2.458,-0.63849 7.8786,-2.042 7.1455,0.56133 1.833,2.9033 2.8374,5.7799 4.751,8.685 1.5645,2.4171 1.3526,5.2582 5.1446,7.4319 3.5069,0.90667 13.497,0.86827 7.0175,2.5188 -5.3164,2.5063 -11.724,4.6648 -16.239,7.4315 9.6893,2.9974 10.881,2.6621 20.718,5.5791 -1.1968,0.63974 -1.7313,1.6527 -3.6111,1.9841 z" />
+      <path
+         id="path4570"
+         style="color:#000000;fill:url(#linearGradient4598)"
+         d="M 272.26,376.64 C 206.33,372.82 157.39,356.82 147.21,335.77 l -1.706,-3.5307 0.0388,-47.664 c 0.0254,-31.133 0.27956,-47.077 0.73293,-45.972 2.6679,6.5016 12.483,14.608 24.728,20.423 53.133,25.233 163.69,28.467 230.06,6.7295 21.084,-6.9052 37.115,-17.229 41.486,-26.715 1.2729,-2.763 1.3028,-1.597 1.1659,45.535 l -0.14053,48.37 -1.925,3.5547 c -9.9196,18.318 -49.199,32.822 -104.2,38.477 -13.645,1.4029 -52.537,2.394 -65.195,1.6614 z" />
+    </g>
+  </g>
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Hockey Puck Canada</dc:title>
+        <dc:date>2010-03-30T04:29:19</dc:date>
+        <dc:description>A hockey puck featuring the Canadian maple leaf. Drawn in Inkscape.</dc:description>
+        <dc:source>https://openclipart.org/detail/35557/hockey-puck-canada-by-j_alves</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>J_Alves</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Canada</rdf:li>
+            <rdf:li>hockey</rdf:li>
+            <rdf:li>ice hockey</rdf:li>
+            <rdf:li>puck</rdf:li>
+            <rdf:li>sports</rdf:li>
+            <rdf:li>sports2010</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
