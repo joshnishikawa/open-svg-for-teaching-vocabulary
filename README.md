@@ -9,9 +9,11 @@ This is a collection of images suitable for teaching vocabulary.
 * Suitable for all ages [more specs to come]
 
 Filenames are the vocabulary word only.
-Spaces are replaced with underscores. 
-  Dynamically replace them for display.
-If there are multiple meanings for a word, a descriptor is added in parentheses.
-  Split on '(' and use the first index for the filename.
-  
-let word = yourFileName.split('(')[0].replace('_', " ");
+
+Spaces are replaced with underscores - polar_bear.svg
+  Dynamically replace these underscores for display.
+
+Parentheses are used for disambiguation - chicken(meat).svg
+  Split on '(' and use the first index to display the word or use it as an id.
+  let myId = yourFileName.split('(')[0];
+  let myDisplay = myId.replace(/_/g, ' ');
